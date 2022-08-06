@@ -22,7 +22,7 @@ $ python build.py
 # To Do
 
 - Add function to query for matches in a local test table
-- add keywords to meta
+- add `keywords` to meta, like `keywords: highz, quiescent`
 - Build heroku app
   - Query for existing sources around a test position
   - Build a `jname` for a given RA/Dec
