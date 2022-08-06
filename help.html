@@ -1,0 +1,30 @@
+<h1> jwst-sources </h1>
+
+Compilation of published JWST sources from <a
+href="https://github.com/dawn-cph/jwst-sources/">
+https://github.com/dawn-cph/jwst-sources/ </a>.
+
+<h2> App help </h3>
+
+<h3> <tt> /help </tt> </h3>
+<p> Print this page
+
+<h3> <tt> /match?ra=214.914500&amp;dec=52.94304&amp;sep=1 </tt> </h3>
+
+<p> Return table with nearest matches within <tt> sep </tt> arcsec.
+    
+<ul>
+    <li> Coordinates can also be entered as <tt> ?coords=214.914500 52.94304 </tt> 
+</ul>
+
+<h3> <tt> /jname?ra=214.914500&amp;dec=52.94304 </tt> </h3>
+
+<p> Generate a "jname" like <tt> j141939.48p525634.92 </tt> for specified
+    coordinates.  If a match is found in the existing
+    catalog, return that jname, otherwise generate a new one.  The function 
+    returns a json-serialized dictionary with the jname, number of
+    matches (if any), and the parsed ra, dec.
+    
+<ul>
+    <li> Coordinates can also be entered as <tt> ?coords=214.914500 52.94304 </tt> 
+</ul>
