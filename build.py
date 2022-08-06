@@ -113,7 +113,7 @@ thumb = '<img src="http://grizli-cutout.herokuapp.com/thumb?ra={ra}8&dec={dec}&f
 full['F200W'] = [thumb.format(filt='f200w-clear', scl=16, **row) for row in full]
 full['F444W'] = [thumb.format(filt='f444w-clear', scl=24, **row) for row in full]
 
-full.write('jwst-sources.csv')
+full.write('jwst-sources.csv', overwrite=True)
 
 sub = full['jname','count','F200W','F444W','ra','dec','zphot','zspec','arxiv','author']
 sub.write_sortable_html('jwst-sources.html', 
