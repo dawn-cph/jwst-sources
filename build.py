@@ -33,7 +33,7 @@ for file in files:
         try:
             _meta = yaml.load(fp, Loader=yaml.SafeLoader)
         except:
-            print(f'ERROR: Failed to parse {meta}, check that there are no : in `description`')
+            print(f'ERROR: Failed to parse {meta}, check that there are no ":" or incompatible linebreaks in `description`')
             continue
     
     meta_ok = True
