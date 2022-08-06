@@ -11,8 +11,9 @@ Repository to keep track of individually published JWST sources, high-z or other
 - `csv` files should have at a minimum, `id`, `ra`, `dec` columns, and ideally also `zphot` and/or `zspec`.  
   - `ra`, `dec` are intepreted as decimal degrees and should have a minimum of 6 and 5 decimal places, respectively
   - Alternatively, `rah` and `decd` columns can be provided with coordinates in sexagesimal format (HH:MM:SS.SS, DD:MM:SS.SS)
+- `grizli` is a requirement, but the basic installation with `pip install grizli` should be enough without all of its dependencies
 
-Test the build with 
+Test generating the master table with 
 
 ```bash 
 $ python build.py
@@ -20,6 +21,7 @@ $ python build.py
 
 # To Do
 
+- Add function to query for matches in a local test table
 - Build heroku app
   - Query for existing sources around a test position
   - Build a `jname` for a given RA/Dec
