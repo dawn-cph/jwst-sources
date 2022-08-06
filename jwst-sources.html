@@ -122,14 +122,14 @@ $(document).ready(function() {
    $('#count_min').val($.urlParam('count_min'));
    $('#count_max').val($.urlParam('count_max'));
 
-   var table = $('#table5899644832').DataTable({
+   var table = $('#table4645390224').DataTable({
         order: [],
         pageLength: 50,
         dom: 'Blfrtip',
         buttons: ['csv'],
         lengthMenu: [[10, 25, 50, 100, 500, 1000, -1], [10, 25, 50, 100, 500, 1000, 'All']],
         pagingType: "full_numbers",
-        columnDefs: [{targets: [1, 4, 5, 6], type: "optionalnum"}]
+        columnDefs: [{targets: [1, 4, 5, 6, 7], type: "optionalnum"}]
     });
 
     // Event listener to the two range filtering inputs to redraw on input
@@ -151,7 +151,7 @@ $(document).ready(function() {
                         } );  </script>
 
 <div style="border:1px solid black; padding:10px; margin:10px">
-    <b>Toggle column:</b></br> <a class="toggle-vis" data-column="0"> <tt>jname</tt> </a> <b>/</b> <a class="toggle-vis" data-column="1"> <tt>count</tt> </a> <b>/</b> <a class="toggle-vis" data-column="2"> <tt>F200W</tt> </a> <b>/</b> <a class="toggle-vis" data-column="3"> <tt>F444W</tt> </a> <b>/</b> <a class="toggle-vis" data-column="4"> <tt>ra</tt> </a> <b>/</b> <a class="toggle-vis" data-column="5"> <tt>dec</tt> </a> <b>/</b> <a class="toggle-vis" data-column="6"> <tt>zphot</tt> </a> <b>/</b> <a class="toggle-vis" data-column="7"> <tt>arxiv</tt> </a> <b>/</b> <a class="toggle-vis" data-column="8"> <tt>author</tt> </a>
+    <b>Toggle column:</b></br> <a class="toggle-vis" data-column="0"> <tt>jname</tt> </a> <b>/</b> <a class="toggle-vis" data-column="1"> <tt>count</tt> </a> <b>/</b> <a class="toggle-vis" data-column="2"> <tt>F200W</tt> </a> <b>/</b> <a class="toggle-vis" data-column="3"> <tt>F444W</tt> </a> <b>/</b> <a class="toggle-vis" data-column="4"> <tt>ra</tt> </a> <b>/</b> <a class="toggle-vis" data-column="5"> <tt>dec</tt> </a> <b>/</b> <a class="toggle-vis" data-column="6"> <tt>zphot</tt> </a> <b>/</b> <a class="toggle-vis" data-column="7"> <tt>zspec</tt> </a> <b>/</b> <a class="toggle-vis" data-column="8"> <tt>arxiv</tt> </a> <b>/</b> <a class="toggle-vis" data-column="9"> <tt>author</tt> </a>
 </div>
 
             
@@ -170,7 +170,7 @@ $(document).ready(function() {
     </table>
 </div>
 
-  <table class="display compact" id="table5899644832">
+  <table class="display compact" id="table4645390224">
    <thead>
     <tr>
      <th>jname</th>
@@ -180,6 +180,7 @@ $(document).ready(function() {
      <th>ra</th>
      <th>dec</th>
      <th>zphot</th>
+     <th>zspec</th>
      <th>arxiv</th>
      <th>author</th>
     </tr>
@@ -192,6 +193,7 @@ $(document).ready(function() {
     <td>3.479054</td>
     <td>-30.31492</td>
     <td>9.12</td>
+    <td>-1.000</td>
     <td>2207.09436</td>
     <td>Marco Castellano</td>
    </tr>
@@ -203,6 +205,7 @@ $(document).ready(function() {
     <td>3.490391</td>
     <td>-30.32716</td>
     <td>9.10</td>
+    <td>-1.000</td>
     <td>2207.09436</td>
     <td>Marco Castellano</td>
    </tr>
@@ -214,6 +217,7 @@ $(document).ready(function() {
     <td>3.494440</td>
     <td>-30.30762</td>
     <td>9.20</td>
+    <td>-1.000</td>
     <td>2207.09436</td>
     <td>Marco Castellano</td>
    </tr>
@@ -225,6 +229,7 @@ $(document).ready(function() {
     <td>3.498985</td>
     <td>-30.32477</td>
     <td>12.35</td>
+    <td>-1.000</td>
     <td>2207.09436</td>
     <td>Marco Castellano</td>
    </tr>
@@ -236,6 +241,7 @@ $(document).ready(function() {
     <td>3.498958</td>
     <td>-30.32475</td>
     <td>12.42</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -247,6 +253,7 @@ $(document).ready(function() {
     <td>3.499000</td>
     <td>-30.32475</td>
     <td>12.40</td>
+    <td>-1.000</td>
     <td>2207.09434</td>
     <td>Rohan Naidu</td>
    </tr>
@@ -258,6 +265,7 @@ $(document).ready(function() {
     <td>3.511929</td>
     <td>-30.37185</td>
     <td>10.60</td>
+    <td>-1.000</td>
     <td>2207.09436</td>
     <td>Marco Castellano</td>
    </tr>
@@ -269,6 +277,7 @@ $(document).ready(function() {
     <td>3.511917</td>
     <td>-30.37186</td>
     <td>10.60</td>
+    <td>-1.000</td>
     <td>2207.09434</td>
     <td>Rohan Naidu</td>
    </tr>
@@ -280,6 +289,7 @@ $(document).ready(function() {
     <td>3.511917</td>
     <td>-30.37184</td>
     <td>10.56</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -291,6 +301,7 @@ $(document).ready(function() {
     <td>3.513738</td>
     <td>-30.35155</td>
     <td>9.88</td>
+    <td>-1.000</td>
     <td>2207.09436</td>
     <td>Marco Castellano</td>
    </tr>
@@ -302,6 +313,7 @@ $(document).ready(function() {
     <td>3.528937</td>
     <td>-30.36381</td>
     <td>2.60</td>
+    <td>-1.000</td>
     <td>2207.09436</td>
     <td>Marco Castellano</td>
    </tr>
@@ -313,6 +325,7 @@ $(document).ready(function() {
     <td>110.646083</td>
     <td>-73.47583</td>
     <td>9.68</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -324,6 +337,7 @@ $(document).ready(function() {
     <td>110.660958</td>
     <td>-73.47960</td>
     <td>9.06</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -335,6 +349,7 @@ $(document).ready(function() {
     <td>110.662292</td>
     <td>-73.47511</td>
     <td>9.47</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -346,6 +361,7 @@ $(document).ready(function() {
     <td>110.672958</td>
     <td>-73.48629</td>
     <td>9.78</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -357,6 +373,7 @@ $(document).ready(function() {
     <td>110.690875</td>
     <td>-73.46295</td>
     <td>9.47</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -368,6 +385,7 @@ $(document).ready(function() {
     <td>110.694833</td>
     <td>-73.46373</td>
     <td>12.16</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -379,6 +397,7 @@ $(document).ready(function() {
     <td>110.704750</td>
     <td>-73.49199</td>
     <td>9.78</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -390,6 +409,7 @@ $(document).ready(function() {
     <td>110.721875</td>
     <td>-73.48578</td>
     <td>12.56</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -401,6 +421,7 @@ $(document).ready(function() {
     <td>110.742792</td>
     <td>-73.47210</td>
     <td>9.68</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -412,6 +433,7 @@ $(document).ready(function() {
     <td>110.762375</td>
     <td>-73.44654</td>
     <td>12.03</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -423,6 +445,7 @@ $(document).ready(function() {
     <td>110.807917</td>
     <td>-73.43474</td>
     <td>14.28</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -434,6 +457,7 @@ $(document).ready(function() {
     <td>110.859333</td>
     <td>-73.44917</td>
     <td>9.36</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -445,6 +469,7 @@ $(document).ready(function() {
     <td>110.861292</td>
     <td>-73.43628</td>
     <td>8.86</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -456,6 +481,7 @@ $(document).ready(function() {
     <td>110.866000</td>
     <td>-73.43886</td>
     <td>9.36</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -467,6 +493,7 @@ $(document).ready(function() {
     <td>110.867083</td>
     <td>-73.43893</td>
     <td>8.57</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -478,6 +505,7 @@ $(document).ready(function() {
     <td>110.907875</td>
     <td>-73.45609</td>
     <td>9.16</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -489,6 +517,7 @@ $(document).ready(function() {
     <td>214.749667</td>
     <td>52.83233</td>
     <td>10.80</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -500,6 +529,7 @@ $(document).ready(function() {
     <td>214.795958</td>
     <td>52.83956</td>
     <td>9.16</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -511,6 +541,7 @@ $(document).ready(function() {
     <td>214.809145</td>
     <td>52.86848</td>
     <td>8.49</td>
+    <td>-1.000</td>
     <td>2207.12446</td>
     <td>Ivo Labbe</td>
    </tr>
@@ -522,6 +553,7 @@ $(document).ready(function() {
     <td>214.811083</td>
     <td>52.81382</td>
     <td>10.22</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -533,6 +565,7 @@ $(document).ready(function() {
     <td>214.830660</td>
     <td>52.88778</td>
     <td>9.35</td>
+    <td>-1.000</td>
     <td>2207.12446</td>
     <td>Ivo Labbe</td>
    </tr>
@@ -544,6 +577,7 @@ $(document).ready(function() {
     <td>214.839833</td>
     <td>52.80578</td>
     <td>8.96</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -555,6 +589,7 @@ $(document).ready(function() {
     <td>214.840550</td>
     <td>52.81794</td>
     <td>8.91</td>
+    <td>-1.000</td>
     <td>2207.12446</td>
     <td>Ivo Labbe</td>
    </tr>
@@ -566,6 +601,7 @@ $(document).ready(function() {
     <td>214.844770</td>
     <td>52.89211</td>
     <td>9.97</td>
+    <td>-1.000</td>
     <td>2207.12446</td>
     <td>Ivo Labbe</td>
    </tr>
@@ -577,6 +613,7 @@ $(document).ready(function() {
     <td>214.848875</td>
     <td>52.88360</td>
     <td>10.56</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -588,6 +625,7 @@ $(document).ready(function() {
     <td>214.850125</td>
     <td>52.80804</td>
     <td>10.34</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -599,6 +637,7 @@ $(document).ready(function() {
     <td>214.861583</td>
     <td>52.90461</td>
     <td>10.11</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -610,6 +649,7 @@ $(document).ready(function() {
     <td>214.869625</td>
     <td>52.84365</td>
     <td>10.91</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -621,6 +661,7 @@ $(document).ready(function() {
     <td>214.869667</td>
     <td>52.86024</td>
     <td>10.00</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -632,6 +673,7 @@ $(document).ready(function() {
     <td>214.875792</td>
     <td>52.91355</td>
     <td>11.03</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -643,6 +685,7 @@ $(document).ready(function() {
     <td>214.876150</td>
     <td>52.88083</td>
     <td>9.92</td>
+    <td>-1.000</td>
     <td>2207.12446</td>
     <td>Ivo Labbe</td>
    </tr>
@@ -654,6 +697,7 @@ $(document).ready(function() {
     <td>214.897208</td>
     <td>52.84385</td>
     <td>10.56</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -665,6 +709,7 @@ $(document).ready(function() {
     <td>214.902231</td>
     <td>52.93937</td>
     <td>10.83</td>
+    <td>-1.000</td>
     <td>2207.12446</td>
     <td>Ivo Labbe</td>
    </tr>
@@ -676,6 +721,7 @@ $(document).ready(function() {
     <td>214.909115</td>
     <td>52.93720</td>
     <td>4.60</td>
+    <td>-1.000</td>
     <td>2208.0181</td>
     <td>Jorge Zavala</td>
    </tr>
@@ -687,6 +733,7 @@ $(document).ready(function() {
     <td>214.914042</td>
     <td>52.91376</td>
     <td>9.57</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -698,6 +745,7 @@ $(document).ready(function() {
     <td>214.914500</td>
     <td>52.94304</td>
     <td>5.00</td>
+    <td>-1.000</td>
     <td>2208.02794</td>
     <td>Rohan Naidu</td>
    </tr>
@@ -709,6 +757,7 @@ $(document).ready(function() {
     <td>214.914500</td>
     <td>52.94303</td>
     <td>16.74</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -720,6 +769,7 @@ $(document).ready(function() {
     <td>214.922750</td>
     <td>52.91152</td>
     <td>11.15</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -731,6 +781,7 @@ $(document).ready(function() {
     <td>214.944458</td>
     <td>52.97263</td>
     <td>9.26</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -742,6 +793,7 @@ $(document).ready(function() {
     <td>214.956542</td>
     <td>52.97037</td>
     <td>10.22</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -753,6 +805,7 @@ $(document).ready(function() {
     <td>214.960833</td>
     <td>52.98018</td>
     <td>9.06</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -764,6 +817,7 @@ $(document).ready(function() {
     <td>214.966667</td>
     <td>52.96829</td>
     <td>9.16</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -775,6 +829,7 @@ $(document).ready(function() {
     <td>214.983019</td>
     <td>52.95600</td>
     <td>7.56</td>
+    <td>-1.000</td>
     <td>2207.12446</td>
     <td>Ivo Labbe</td>
    </tr>
@@ -786,6 +841,7 @@ $(document).ready(function() {
     <td>214.996875</td>
     <td>53.00593</td>
     <td>11.52</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -797,6 +853,7 @@ $(document).ready(function() {
     <td>215.001458</td>
     <td>52.97895</td>
     <td>9.26</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>
@@ -808,6 +865,7 @@ $(document).ready(function() {
     <td>215.044000</td>
     <td>52.99429</td>
     <td>10.56</td>
+    <td>-1.000</td>
     <td>2207.12356</td>
     <td>Callum Donnan</td>
    </tr>

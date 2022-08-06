@@ -94,13 +94,20 @@ full['dec'].description = 'Declination, deg'
 
 full['zphot'].format = '.2f'
 full['zphot'].description = 'Photometric redshift'
+
+if 'zspec' not in full.colnames:
+    full['zspec'] = -1.0
+    
+full['zspec'].format = '.3f'
+full['zspec'].description = 'Spectroscopic redshift'
+
 full['count'].description = 'Number of references'
 
-thumb = '<img src="http://grizli-cutout.herokuapp.com/thumb?ra={ra}8&dec={dec}&filters={filt}&size=2&scl={scl}&invert=True" height=100px />'
+thumb = '<img src="http://grizli-cutout.herokuapp.com/thumb?ra={ra}8&dec={dec}&filters={filt}&size=1&scl={scl}&invert=True" height=100px />'
 full['F200W'] = [thumb.format(filt='f200w-clear', scl=16, **row) for row in full]
 full['F444W'] = [thumb.format(filt='f444w-clear', scl=24, **row) for row in full]
 
-sub = full['jname','count','F200W','F444W','ra','dec','zphot','arxiv','author']
+sub = full['jname','count','F200W','F444W','ra','dec','zphot','zspec','arxiv','author']
 sub.write_sortable_html('jwst-sources.html', 
                         localhost=False, max_lines=100000, 
                         filter_columns=['count','ra','dec','zphot'])
