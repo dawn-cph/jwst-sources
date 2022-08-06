@@ -1,5 +1,9 @@
 numpy
 pyyaml
+scipy
 astropy
 grizli
 sregion
+shapely
+descartes
+matplotlib
