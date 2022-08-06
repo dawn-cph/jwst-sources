@@ -8,6 +8,8 @@ import astropy.table
 
 from grizli import utils
 
+## Read tables
+
 files = glob.glob('tables/*csv')
 files.sort()
 
@@ -67,6 +69,8 @@ for file in files:
                      for ra, dec in zip(tab['ra'], tab['dec'])]
     
     if len(tabs) > 0:
+        # If matches exist in files already processed, get the 
+        # jname from there
         _full = utils.GTable(astropy.table.vstack(tabs))
         idx, dr = _full.match_to_catalog_sky(tab)
         hasm = dr.value < 0.5
@@ -75,6 +79,8 @@ for file in files:
             tab['jname'][hasm] = _full['jname'][idx][hasm]
         
     tabs.append(tab)
+
+# Concatenated table
 
 full = utils.GTable(astropy.table.vstack(tabs))
 full['id'] = ids
