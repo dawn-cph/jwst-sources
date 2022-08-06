@@ -17,3 +17,10 @@ Test the build with
 ```bash 
 $ python build.py
 ```
+
+# To Do
+
+- Build heroku app
+  - Query for existing sources around a test position
+  - Build a `jname` for a given RA/Dec
+  - Display the table itself
