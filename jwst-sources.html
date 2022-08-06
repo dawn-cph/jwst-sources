@@ -76,11 +76,16 @@ $.fn.dataTable.ext.search.push(
         var max_zphot = parseFloat( $('#zphot_max').val()) ||  1e30;
         var data_zphot = parseFloat( data[6] ) || 0;
                 
+        var min_zspec = parseFloat( $('#zspec_min').val()) || -1e30;
+        var max_zspec = parseFloat( $('#zspec_max').val()) ||  1e30;
+        var data_zspec = parseFloat( data[7] ) || 0;
+                
 
         if ( ( ( isNaN( min_count ) && isNaN( max_count ) ) || ( isNaN( min_count ) && data_count <= max_count ) || ( min_count <= data_count  && isNaN( max_count ) ) || ( min_count <= data_count  && data_count <= max_count ) )
  && ( ( isNaN( min_ra ) && isNaN( max_ra ) ) || ( isNaN( min_ra ) && data_ra <= max_ra ) || ( min_ra <= data_ra  && isNaN( max_ra ) ) || ( min_ra <= data_ra  && data_ra <= max_ra ) )
  && ( ( isNaN( min_dec ) && isNaN( max_dec ) ) || ( isNaN( min_dec ) && data_dec <= max_dec ) || ( min_dec <= data_dec  && isNaN( max_dec ) ) || ( min_dec <= data_dec  && data_dec <= max_dec ) )
- && ( ( isNaN( min_zphot ) && isNaN( max_zphot ) ) || ( isNaN( min_zphot ) && data_zphot <= max_zphot ) || ( min_zphot <= data_zphot  && isNaN( max_zphot ) ) || ( min_zphot <= data_zphot  && data_zphot <= max_zphot ) ) )
+ && ( ( isNaN( min_zphot ) && isNaN( max_zphot ) ) || ( isNaN( min_zphot ) && data_zphot <= max_zphot ) || ( min_zphot <= data_zphot  && isNaN( max_zphot ) ) || ( min_zphot <= data_zphot  && data_zphot <= max_zphot ) )
+ && ( ( isNaN( min_zspec ) && isNaN( max_zspec ) ) || ( isNaN( min_zspec ) && data_zspec <= max_zspec ) || ( min_zspec <= data_zspec  && isNaN( max_zspec ) ) || ( min_zspec <= data_zspec  && data_zspec <= max_zspec ) ) )
         {
             return true;
         }
@@ -89,7 +94,7 @@ $.fn.dataTable.ext.search.push(
 );
 
 //// Update URL with filter parameters
-var filter_params = ['count', 'ra', 'dec', 'zphot'];
+var filter_params = ['count', 'ra', 'dec', 'zphot', 'zspec'];
 
 $.UpdateFilterURL = function () {
     var i;
@@ -113,6 +118,8 @@ $.UpdateFilterURL = function () {
 
 $(document).ready(function() {
 
+   $('#zspec_min').val($.urlParam('zspec_min'));
+   $('#zspec_max').val($.urlParam('zspec_max'));
    $('#zphot_min').val($.urlParam('zphot_min'));
    $('#zphot_max').val($.urlParam('zphot_max'));
    $('#dec_min').val($.urlParam('dec_min'));
@@ -122,7 +129,7 @@ $(document).ready(function() {
    $('#count_min').val($.urlParam('count_min'));
    $('#count_max').val($.urlParam('count_max'));
 
-   var table = $('#table4636720480').DataTable({
+   var table = $('#table4768743280').DataTable({
         order: [],
         pageLength: 50,
         dom: 'Blfrtip',
@@ -133,7 +140,7 @@ $(document).ready(function() {
     });
 
     // Event listener to the two range filtering inputs to redraw on input
-    $('#count_min, #count_max, #ra_min, #ra_max, #dec_min, #dec_max, #zphot_min, #zphot_max').keyup( function() {
+    $('#count_min, #count_max, #ra_min, #ra_max, #dec_min, #dec_max, #zphot_min, #zphot_max, #zspec_min, #zspec_max').keyup( function() {
         table.draw();
         $.UpdateFilterURL();
     } );
@@ -167,10 +174,12 @@ $(document).ready(function() {
 
 <tr> <td> <input type="text" id="zphot_min" name="zphot_min" style="width:40px;"> &#60; </td> <td style="align:center;"> <tt>zphot</tt> </td> <td>  &#60; <input type="text" id="zphot_max" name="zphot_max" style="width:40px;"> <span style="display:inline-block; width:10;"></span>  Photometric redshift
 
+<tr> <td> <input type="text" id="zspec_min" name="zspec_min" style="width:40px;"> &#60; </td> <td style="align:center;"> <tt>zspec</tt> </td> <td>  &#60; <input type="text" id="zspec_max" name="zspec_max" style="width:40px;"> <span style="display:inline-block; width:10;"></span>  Spectroscopic redshift
+
     </table>
 </div>
 
-  <table class="display compact" id="table4636720480">
+  <table class="display compact" id="table4768743280">
    <thead>
     <tr>
      <th>jname</th>
