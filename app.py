@@ -27,13 +27,22 @@ def show_table():
     return ''.join(lines)
 
 
-#
 @app.route("/help")
 def show_help():
     """
     Dump jwst-sources.html
     """
     with open('help.html') as fp:
+        lines = fp.readlines()
+    return ''.join(lines)
+
+
+@app.route("/csv")
+def show_csv():
+    """
+    Dump jwst-sources.html
+    """
+    with open('jwst-sources.csv') as fp:
         lines = fp.readlines()
     return ''.join(lines)
 
@@ -85,7 +94,7 @@ def nearest_matches():
     """
     matches close to a position
     """
-    kwargs = dict(ra=214.914500, dec=52.94304, sep=1)
+    kwargs = dict(ra=214.914500, dec=52.94304, sep=1, output='table')
 
     for k in kwargs:
         if request.args.get(k) is not None:
@@ -93,7 +102,10 @@ def nearest_matches():
             if request.args[k].lower() in ['false','true']:
                 kwargs[k] = request.args[k].lower() == 'true'
             else:
-                kwargs[k] = float(request.args[k])
+                try:
+                    kwargs[k] = float(request.args[k])
+                except ValueError:
+                    kwargs[k] = request.args[k]
                  
     coo = request.args.get('coords')
     if coo is not None:
@@ -116,6 +128,15 @@ def nearest_matches():
     src['dr'].format= '.2f'
     src['dr'].description = 'Offset from {ra:.6f}, {dec:.5f} in arcsec'.format(**kwargs)
     
+    if kwargs['output'] == 'csv':
+        out = 'tmp'+get_hashroot()+'.csv'
+        src.write(out)
+        with open(out) as fp:
+            lines = fp.readlines()
+
+        os.remove(out)
+        return ''.join(lines)
+        
     sub = src['jname','count','F200W','F444W','ra','dec','dr','zphot','zspec','arxiv','author']
     out = 'tmp'+get_hashroot()
     
