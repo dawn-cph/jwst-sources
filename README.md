@@ -19,7 +19,7 @@ Test generating the master table with
 $ python build.py
 ```
 
-# Adding new tables
+# Adding new references
 
 Please feel free to add new tables with `meta` and `csv` files in the `tables/` directory!  To add them, fork the repository and submit the updates via a Pull Request.  Please verify that new tables are processed correctly with the `$ python build.py` ingestion script before committing updates to the full `jwst-sources` tables.  The ingestion script will also be run automatically by the GitHub Actions [CI script](https://github.com/dawn-cph/jwst-sources/actions) when a PR is processed.
 
