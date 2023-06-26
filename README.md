@@ -19,6 +19,10 @@ Test generating the master table with
 $ python build.py
 ```
 
+# App interface
+
+The table is rendered in the API at https://jwst-sources.herokuapp.com/, see https://jwst-sources.herokuapp.com/help.
+
 # To Do
 
 - Add function to query for matches in a local test table
