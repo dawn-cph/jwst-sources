@@ -137,7 +137,8 @@ def nearest_matches():
         os.remove(out)
         return ''.join(lines)
         
-    sub = src['jname','count','F200W','F444W','ra','dec','dr','zphot','zspec','arxiv','author']
+    sub = src['jname','count','F200W','F444W','ra','dec','dr',
+              'id','zphot','zspec','arxiv','author']
     out = 'tmp'+get_hashroot()
     
     sub.write_sortable_html(out, 

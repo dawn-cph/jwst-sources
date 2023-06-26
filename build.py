@@ -122,7 +122,8 @@ full['F444W'] = [thumb.format(filt='f444w-clear', scl=24, **row) for row in full
 
 full.write('jwst-sources.csv', overwrite=True)
 
-sub = full['jname','count','F200W','F444W','ra','dec','zphot','zspec','arxiv','author']
+sub = full['jname','count','F200W','F444W','ra','dec',
+           'id','zphot','zspec','arxiv','author']
 sub.write_sortable_html('jwst-sources.html', 
                         localhost=False, max_lines=100000, 
                         filter_columns=['count','ra','dec','zphot','zspec'])
