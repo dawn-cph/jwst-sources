@@ -13,6 +13,7 @@
 | [2208.00986](https://arxiv.org/abs/2208.00986) | Adam Carnall | A first look at JWST CEERS--- massive quiescent galaxies from 3 < z < 5 | 
 | [2208.01816](https://arxiv.org/abs/2208.01816) | Jorge Zavala | A dusty starburst masquerading as an ultra-high redshift galaxy in JWST CEERS observations | 
 | [2208.02794](https://arxiv.org/abs/2208.02794) | Rohan Naidu | Schrodinger's Galaxy Candidate--- Puzzlingly Luminous at z ~ 17, or Dusty/Quenched at z ~ 5? | 
+| [2210.15699](https://arxiv.org/abs/2210.15699) | Hayley Williams | A magnified compact galaxy at redshift 9.51 with strong nebular emission lines | 
 | [2211.09097](https://arxiv.org/abs/2211.09097) | Takahiro Morishita | Early results from GLASS-JWST XIV, A spectroscopically confirmed protocluster 650 million years after the Big Bang | 
 | [2212.04568](https://arxiv.org/abs/2212.04568) | Emma Curtis-Lake | Spectroscopic confirmation of four metal-poor galaxies at z=10.3-13.2 | 
 | [2301.06811](https://arxiv.org/abs/2301.06811) | Yuki Isobe | Redshift Evolution of the Electron Density in the ISM at z∼0−9 Uncovered with JWST/NIRSpec Spectra and Line-Spread Function Determinations | 
