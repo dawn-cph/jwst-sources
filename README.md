@@ -11,13 +11,17 @@ Repository to keep track of individually published JWST sources, high-z or other
 - `csv` files should have at a minimum, `id`, `ra`, `dec` columns, and ideally also `zphot` and/or `zspec`.  
   - `ra`, `dec` are intepreted as decimal degrees and should have a minimum of 6 and 5 decimal places, respectively
   - Alternatively, `rah` and `decd` columns can be provided with coordinates in sexagesimal format (HH:MM:SS.SS, DD:MM:SS.SS)
-- `grizli` is a requirement, but the basic installation with `pip install grizli` should be enough without all of its dependencies
+- `grizli` is a requirement, but a basic installation with `pip install grizli` should be enough without all of its dependencies
 
 Test generating the master table with 
 
 ```bash 
 $ python build.py
 ```
+
+# Adding new tables
+
+Please feel free to add new tables with `meta` and `csv` files in the `tables/` directory!  To add them, fork the repository and submit the updates via a Pull Request.  Please verify that new tables are processed correctly with the `$ python build.py` ingestion script before committing updates to the full `jwst-sources` tables.  The ingestion script will also be run automatically by the GitHub Actions [CI script](https://github.com/dawn-cph/jwst-sources/actions) when a PR is processed.
 
 # App interface
 
