@@ -16,69 +16,76 @@ files.sort()
 tabs = []
 ids = []
 
-for file in files:
-    meta = file.replace('.csv','.meta')
-    if not os.path.exists(meta):
-        print(f'meta file {meta} not found for {file}')
-        continue
-    
-    print(f'Read table: {file}')
-    try:
-        tab = utils.read_catalog(file)
-    except:
-        print(f'Failed to read table: {file}')
-        continue
-    
-    with open(meta) as fp:
-        try:
-            _meta = yaml.load(fp, Loader=yaml.SafeLoader)
-        except:
-            print(f'ERROR: Failed to parse {meta}, check that there are no ":" or incompatible linebreaks in `description`')
+with open('tables/README.md','w') as fpr:
+    fpr.write('# References\n\n')
+    fpr.write("| arXiv | Author | Title |\n")
+    fpr.write("| ----- | ------ | ----- |\n")
+
+    for file in files:
+        meta = file.replace('.csv','.meta')
+        if not os.path.exists(meta):
+            print(f'meta file {meta} not found for {file}')
             continue
     
-    meta_ok = True
-    for k in ['arxiv','author']:
-        if k not in _meta:
-            print(f'ERROR: `{k}` keyword not found in {meta}')
-            meta_ok = False
+        print(f'Read table: {file}')
+        try:
+            tab = utils.read_catalog(file)
+        except:
+            print(f'Failed to read table: {file}')
+            continue
     
-    if not meta_ok:
-        continue
+        with open(meta) as fp:
+            try:
+                _meta = yaml.load(fp, Loader=yaml.SafeLoader)
+            except:
+                print(f'ERROR: Failed to parse {meta}, check that there are no ":" or incompatible linebreaks in `description`')
+                continue
+    
+        fpr.write(f"| [{_meta['arxiv']}](https://arxiv.org/abs/{_meta['arxiv']}) | {_meta['author']} | {_meta['description']} | \n")
+    
+        meta_ok = True
+        for k in ['arxiv','author']:
+            if k not in _meta:
+                print(f'ERROR: `{k}` keyword not found in {meta}')
+                meta_ok = False
+    
+        if not meta_ok:
+            continue
         
-    for k in ['arxiv','author']:
-        tab[k] = _meta[k]
+        for k in ['arxiv','author']:
+            tab[k] = _meta[k]
     
-    if 'rah' in tab.colnames:
-        try:
-            coo = SkyCoord(tab['rah'], tab['decd'], unit=('hour','deg'))
-        except:
-            print(f'Failed to parse rah/decd coordinates in  {file}')
-            continue
+        if 'rah' in tab.colnames:
+            try:
+                coo = SkyCoord(tab['rah'], tab['decd'], unit=('hour','deg'))
+            except:
+                print(f'Failed to parse rah/decd coordinates in  {file}')
+                continue
             
-        tab['ra'] = coo.ra.deg
-        tab['dec'] = coo.dec.deg
+            tab['ra'] = coo.ra.deg
+            tab['dec'] = coo.dec.deg
     
-    #tab['id'] = 
-    ids.extend([f'{_id}' for _id in tab['id']])
-    tab.remove_column('id')
+        #tab['id'] = 
+        ids.extend([f'{_id}' for _id in tab['id']])
+        tab.remove_column('id')
     
-    tab['jname'] = [utils.radec_to_targname(ra, dec,
-                                round_arcsec=(0.00001, 0.00001), 
-                                precision=2,
-                    targstr='j{rah}{ram}{ras}.{rass}{sign}{ded}{dem}{des}.{dess}')
-                     for ra, dec in zip(tab['ra'], tab['dec'])]
+        tab['jname'] = [utils.radec_to_targname(ra, dec,
+                                    round_arcsec=(0.00001, 0.00001), 
+                                    precision=2,
+                        targstr='j{rah}{ram}{ras}.{rass}{sign}{ded}{dem}{des}.{dess}')
+                         for ra, dec in zip(tab['ra'], tab['dec'])]
     
-    if len(tabs) > 0:
-        # If matches exist in files already processed, get the 
-        # jname from there
-        _full = utils.GTable(astropy.table.vstack(tabs))
-        idx, dr = _full.match_to_catalog_sky(tab)
-        hasm = dr.value < 0.5
+        if len(tabs) > 0:
+            # If matches exist in files already processed, get the 
+            # jname from there
+            _full = utils.GTable(astropy.table.vstack(tabs))
+            idx, dr = _full.match_to_catalog_sky(tab)
+            hasm = dr.value < 0.5
         
-        if hasm.sum() > 0:
-            tab['jname'][hasm] = _full['jname'][idx][hasm]
+            if hasm.sum() > 0:
+                tab['jname'][hasm] = _full['jname'][idx][hasm]
         
-    tabs.append(tab)
+        tabs.append(tab)
 
 # Concatenated table
 
