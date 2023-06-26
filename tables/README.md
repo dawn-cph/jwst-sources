@@ -19,6 +19,7 @@
 | [2301.06811](https://arxiv.org/abs/2301.06811) | Yuki Isobe | Redshift Evolution of the Electron Density in the ISM at z∼0−9 Uncovered with JWST/NIRSpec Spectra and Line-Spread Function Determinations | 
 | [2301.07072](https://arxiv.org/abs/2301.07072) | Mengtao Tang | JWST/NIRSpec Spectroscopy of z=7−9 Star Forming Galaxies with CEERS, New Insight into Bright Ly𝛼 Emitters in Ionized Bubbles | 
 | [2301.09482](https://arxiv.org/abs/2301.09482) | Seiji Fujimoto | CEERS Spectroscopic Confirmation of NIRCam-Selected z > 8 Galaxy Candidates with JWST/NIRSpec | 
+| [2301.12825](https://arxiv.org/abs/2301.12825) | Kimihiko Nakajima | JWST Census for the Mass-Metallicity Star-Formation Relations at z = 4 − 10 with the Self-Consistent Flux Calibration and the Proper Metallicity Calibrators | 
 | [2302.00012](https://arxiv.org/abs/2302.00012) | Dale Kocevski | Hidden Little Monsters, Spectroscopic Identification of Low-Mass, Broad-Line AGN at z > 5 with CEERS | 
 | [2302.12805](https://arxiv.org/abs/2302.12805) | Aayush Saxena | JADES Discovery of extremely high equivalent width Lyman-alpha emission from a faint galaxy within an ionized bubble at z=7.3 | 
 | [2303.08149](https://arxiv.org/abs/2303.08149) | Ryan Sanders | Direct Te-based Metallicities of z=2−9 Galaxies with JWST/NIRSpec, Empirical Metallicity Calibrations Applicable from Reionization to Cosmic Noon | 
