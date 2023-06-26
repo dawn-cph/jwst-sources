@@ -21,7 +21,8 @@ $ python build.py
 
 # App interface
 
-The table is rendered in the API at https://jwst-sources.herokuapp.com/, see https://jwst-sources.herokuapp.com/help.
+The table is rendered in at https://jwst-sources.herokuapp.com/, with some tools for guerying and generating the unique source identifiers. 
+ See https://jwst-sources.herokuapp.com/help.
 
 # To Do
 
