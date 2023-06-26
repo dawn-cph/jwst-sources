@@ -15,7 +15,7 @@
 | [2208.02794](https://arxiv.org/abs/2208.02794) | Rohan Naidu | Schrodinger's Galaxy Candidate--- Puzzlingly Luminous at z ~ 17, or Dusty/Quenched at z ~ 5? | 
 | [2212.04568](https://arxiv.org/abs/2212.04568) | Emma Curtis-Lake | Spectroscopic confirmation of four metal-poor galaxies at z=10.3-13.2 | 
 | [2301.06811](https://arxiv.org/abs/2301.06811) | Yuki Isobe | Redshift Evolution of the Electron Density in the ISM at z∼0−9 Uncovered with JWST/NIRSpec Spectra and Line-Spread Function Determinations | 
-| [2301.07072](https://arxiv.org/abs/2301.07072) | Mengtao Tang1 | JWST/NIRSpec Spectroscopy of z=7−9 Star Forming Galaxies with CEERS, New Insight into Bright Ly𝛼 Emitters in Ionized Bubbles | 
+| [2301.07072](https://arxiv.org/abs/2301.07072) | Mengtao Tang | JWST/NIRSpec Spectroscopy of z=7−9 Star Forming Galaxies with CEERS, New Insight into Bright Ly𝛼 Emitters in Ionized Bubbles | 
 | [2301.09482](https://arxiv.org/abs/2301.09482) | Seiji Fujimoto | CEERS Spectroscopic Confirmation of NIRCam-Selected z > 8 Galaxy Candidates with JWST/NIRSpec | 
 | [2302.00012](https://arxiv.org/abs/2302.00012) | Dale Kocevski | Hidden Little Monsters, Spectroscopic Identification of Low-Mass, Broad-Line AGN at z > 5 with CEERS | 
 | [2302.12805](https://arxiv.org/abs/2302.12805) | Aayush Saxena | JADES Discovery of extremely high equivalent width Lyman-alpha emission from a faint galaxy within an ionized bubble at z=7.3 | 
