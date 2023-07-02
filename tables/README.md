@@ -27,3 +27,4 @@
 | [2303.15431](https://arxiv.org/abs/2303.15431) | Pablo Arrabal Haro | Spectroscopic verification of very luminous galaxy candidates in the early universe | 
 | [2304.05378](https://arxiv.org/abs/2304.05378) | Pablo Arrabal Haro | Spectroscopic confirmation of CEERS NIRCam-selected galaxies at z = 8 - 10 | 
 | [2306.02467](https://arxiv.org/abs/2306.02467) | Andrew Bunker | JADES NIRSpec Initial Data Release for the Hubble Ultra Deep Field, Redshifts and Line Fluxes of Distant Galaxies from the Deepest JWST Cycle 1 NIRSpec Multi-Object Spectroscopy | 
+| [2207.12446](https://arxiv.org/abs/2207.12446) | Ivo Labbe | A very early onset of massive galaxy formation | 
