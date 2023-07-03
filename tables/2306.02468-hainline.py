@@ -1,8 +1,10 @@
 """
 Reformat Hainline et al. catalog
 """
+import numpy as np
 from grizli import utils
 import astropy.io.fits as pyfits
+
 url = 'https://zenodo.org/record/8092529/files/JADES_DEEP_z_gt_8_Candidates_Hainline_et_al.fits?download=1'
 tab = utils.read_catalog(url, format='fits')
 
