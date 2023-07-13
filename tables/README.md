@@ -15,6 +15,7 @@
 | [2208.02794](https://arxiv.org/abs/2208.02794) | Rohan Naidu | Schrodinger's Galaxy Candidate--- Puzzlingly Luminous at z ~ 17, or Dusty/Quenched at z ~ 5? | 
 | [2210.15699](https://arxiv.org/abs/2210.15699) | Hayley Williams | A magnified compact galaxy at redshift 9.51 with strong nebular emission lines | 
 | [2211.09097](https://arxiv.org/abs/2211.09097) | Takahiro Morishita | Early results from GLASS-JWST XIV, A spectroscopically confirmed protocluster 650 million years after the Big Bang | 
+| [2212.02890](https://arxiv.org/abs/2212.02890) | Kasper Elm Heintz | Dilution of chemical enrichment in galaxies 600 Myr after the Big Bang | 
 | [2212.04568](https://arxiv.org/abs/2212.04568) | Emma Curtis-Lake | Spectroscopic confirmation of four metal-poor galaxies at z=10.3-13.2 | 
 | [2301.06811](https://arxiv.org/abs/2301.06811) | Yuki Isobe | Redshift Evolution of the Electron Density in the ISM at z∼0−9 Uncovered with JWST/NIRSpec Spectra and Line-Spread Function Determinations | 
 | [2301.07072](https://arxiv.org/abs/2301.07072) | Mengtao Tang | JWST/NIRSpec Spectroscopy of z=7−9 Star Forming Galaxies with CEERS, New Insight into Bright Ly𝛼 Emitters in Ionized Bubbles | 
@@ -26,5 +27,6 @@
 | [2303.08918](https://arxiv.org/abs/2303.08918) | Rebecca Larson | A CEERS Discovery of an Accreting Supermassive Black Hole 570 Myr after the Big Bang, Identifying a Progenitor of Massive z > 6 Quasars | 
 | [2303.15431](https://arxiv.org/abs/2303.15431) | Pablo Arrabal Haro | Spectroscopic verification of very luminous galaxy candidates in the early universe | 
 | [2304.05378](https://arxiv.org/abs/2304.05378) | Pablo Arrabal Haro | Spectroscopic confirmation of CEERS NIRCam-selected galaxies at z = 8 - 10 | 
+| [2306.00647](https://arxiv.org/abs/2306.00647) | Kasper Elm Heintz | Extreme damped Lyman-alpha absorption in young star-forming galaxies at z=9−11 | 
 | [2306.02467](https://arxiv.org/abs/2306.02467) | Andrew Bunker | JADES NIRSpec Initial Data Release for the Hubble Ultra Deep Field, Redshifts and Line Fluxes of Distant Galaxies from the Deepest JWST Cycle 1 NIRSpec Multi-Object Spectroscopy | 
 | [2306.02468](https://arxiv.org/abs/2306.02468) | Kevin Hainline | The Cosmos in its Infancy, JADES Galaxy Candidates at z > 8 in GOODS-S and GOODS-N | 
