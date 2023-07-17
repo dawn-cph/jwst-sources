@@ -17,6 +17,7 @@
 | [2211.09097](https://arxiv.org/abs/2211.09097) | Takahiro Morishita | Early results from GLASS-JWST XIV, A spectroscopically confirmed protocluster 650 million years after the Big Bang | 
 | [2212.02890](https://arxiv.org/abs/2212.02890) | Kasper Elm Heintz | Dilution of chemical enrichment in galaxies 600 Myr after the Big Bang | 
 | [2212.04568](https://arxiv.org/abs/2212.04568) | Emma Curtis-Lake | Spectroscopic confirmation of four metal-poor galaxies at z=10.3-13.2 | 
+| [2212.10531](https://arxiv.org/abs/2212.10531) | Lukas Furtak | JWST UNCOVER,  Extremely red and compact object at zphot ~ 7.6 triply imaged by Abell 2744 | 
 | [2301.06811](https://arxiv.org/abs/2301.06811) | Yuki Isobe | Redshift Evolution of the Electron Density in the ISM at z∼0−9 Uncovered with JWST/NIRSpec Spectra and Line-Spread Function Determinations | 
 | [2301.07072](https://arxiv.org/abs/2301.07072) | Mengtao Tang | JWST/NIRSpec Spectroscopy of z=7−9 Star Forming Galaxies with CEERS, New Insight into Bright Ly𝛼 Emitters in Ionized Bubbles | 
 | [2301.09482](https://arxiv.org/abs/2301.09482) | Seiji Fujimoto | CEERS Spectroscopic Confirmation of NIRCam-Selected z > 8 Galaxy Candidates with JWST/NIRSpec | 
