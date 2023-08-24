@@ -31,3 +31,4 @@
 | [2306.00647](https://arxiv.org/abs/2306.00647) | Kasper Elm Heintz | Extreme damped Lyman-alpha absorption in young star-forming galaxies at z=9−11 | 
 | [2306.02467](https://arxiv.org/abs/2306.02467) | Andrew Bunker | JADES NIRSpec Initial Data Release for the Hubble Ultra Deep Field, Redshifts and Line Fluxes of Distant Galaxies from the Deepest JWST Cycle 1 NIRSpec Multi-Object Spectroscopy | 
 | [2306.02468](https://arxiv.org/abs/2306.02468) | Kevin Hainline | The Cosmos in its Infancy, JADES Galaxy Candidates at z > 8 in GOODS-S and GOODS-N | 
+| [2306.05448](https://arxiv.org/abs/2306.05448) | Jorryt Matthee | Little Red Dots - an abundant population of faint AGN at z ∼ 5 revealed by the EIGER and FRESCO JWST surveys | 
