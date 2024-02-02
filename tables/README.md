@@ -24,6 +24,7 @@
 | [2301.09482](https://arxiv.org/abs/2301.09482) | Seiji Fujimoto | CEERS Spectroscopic Confirmation of NIRCam-Selected z > 8 Galaxy Candidates with JWST/NIRSpec | 
 | [2301.12825](https://arxiv.org/abs/2301.12825) | Kimihiko Nakajima | JWST Census for the Mass-Metallicity Star-Formation Relations at z = 4 − 10 with the Self-Consistent Flux Calibration and the Proper Metallicity Calibrators | 
 | [2302.00012](https://arxiv.org/abs/2302.00012) | Dale Kocevski | Hidden Little Monsters, Spectroscopic Identification of Low-Mass, Broad-Line AGN at z > 5 with CEERS | 
+| [2302.04270](https://arxiv.org/abs/2302.04270) | Duncan Austin | A Large Population of Faint 8 < z < 16 Galaxies Found in the First JWST NIRCam Observations of the NGDEEP Survey | 
 | [2302.12805](https://arxiv.org/abs/2302.12805) | Aayush Saxena | JADES Discovery of extremely high equivalent width Lyman-alpha emission from a faint galaxy within an ionized bubble at z=7.3 | 
 | [2303.08149](https://arxiv.org/abs/2303.08149) | Ryan Sanders | Direct Te-based Metallicities of z=2−9 Galaxies with JWST/NIRSpec, Empirical Metallicity Calibrations Applicable from Reionization to Cosmic Noon | 
 | [2303.08918](https://arxiv.org/abs/2303.08918) | Rebecca Larson | A CEERS Discovery of an Accreting Supermassive Black Hole 570 Myr after the Big Bang, Identifying a Progenitor of Massive z > 6 Quasars | 
