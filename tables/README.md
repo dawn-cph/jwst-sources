@@ -38,4 +38,5 @@
 | [2306.02468](https://arxiv.org/abs/2306.02468) | Kevin Hainline | The Cosmos in its Infancy, JADES Galaxy Candidates at z > 8 in GOODS-S and GOODS-N | 
 | [2306.05448](https://arxiv.org/abs/2306.05448) | Jorryt Matthee | Little Red Dots - an abundant population of faint AGN at z ∼ 5 revealed by the EIGER and FRESCO JWST surveys | 
 | [2306.06244](https://arxiv.org/abs/2306.06244) | Gene Leung | NGDEEP Epoch 1 The Faint End of the Luminosity Function at z=9-12 from Ultradeep JWST Imaging | 
+| [2310.01112](https://arxiv.org/abs/2310.01112) | Charlotte Simmonds | Low-mass bursty galaxies in JADES efficiently produce ionising photons and could represent the main drivers of reionisation | 
 | [2312.10033](https://arxiv.org/abs/2312.10033) | Brant Robertson | Earliest Galaxies in the JADES Origins Field--Luminosity Function and Cosmic Star-Formation Rate Density 300 Myr after the Big Bang | 
