@@ -36,6 +36,7 @@
 | [2306.00647](https://arxiv.org/abs/2306.00647) | Kasper Elm Heintz | Extreme damped Lyman-alpha absorption in young star-forming galaxies at z=9−11 | 
 | [2306.02467](https://arxiv.org/abs/2306.02467) | Andrew Bunker | JADES NIRSpec Initial Data Release for the Hubble Ultra Deep Field, Redshifts and Line Fluxes of Distant Galaxies from the Deepest JWST Cycle 1 NIRSpec Multi-Object Spectroscopy | 
 | [2306.02468](https://arxiv.org/abs/2306.02468) | Kevin Hainline | The Cosmos in its Infancy, JADES Galaxy Candidates at z > 8 in GOODS-S and GOODS-N | 
+| [2306.04627](https://arxiv.org/abs/2306.04627) | Joris Witstok | Inside the bubble--exploring the environments of reionisation-era Lyman-alpha emitting galaxies with JADES and FRESCO | 
 | [2306.05448](https://arxiv.org/abs/2306.05448) | Jorryt Matthee | Little Red Dots - an abundant population of faint AGN at z ∼ 5 revealed by the EIGER and FRESCO JWST surveys | 
 | [2306.06244](https://arxiv.org/abs/2306.06244) | Gene Leung | NGDEEP Epoch 1 The Faint End of the Luminosity Function at z=9-12 from Ultradeep JWST Imaging | 
 | [2310.01112](https://arxiv.org/abs/2310.01112) | Charlotte Simmonds | Low-mass bursty galaxies in JADES efficiently produce ionising photons and could represent the main drivers of reionisation | 
