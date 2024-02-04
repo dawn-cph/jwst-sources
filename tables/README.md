@@ -2,6 +2,7 @@
 
 | arXiv | Author | Title |
 | ----- | ------ | ----- |
+| [1710.11131](https://arxiv.org/abs/1710.11131) | Pascal Oesch | The Dearth of z~10 Galaxies in all HST Legacy Fields--The Rapid Evolution of the Galaxy Population in the First 500 Myr | 
 | [2106.06544](https://arxiv.org/abs/2106.06544) | Guido Roberts-Borsani | The Physical Properties of Luminous z>8 Galaxies and Implications for the Cosmic Star Formation Rate Density From ∼0.35 deg2 of (Pure-)Parallel HST Observations | 
 | [2207.08778](https://arxiv.org/abs/2207.08778) | Adam Carnall | A first look at the SMACS0723 JWST ERO--- spectroscopic redshifts, stellar masses and star-formation histories | 
 | [2207.09434](https://arxiv.org/abs/2207.09434) | Rohan Naidu | Two Remarkably Luminous Galaxy Candidates at z ~ 11 -13 Revealed by JWST | 
@@ -12,6 +13,7 @@
 | [2207.12446](https://arxiv.org/abs/2207.12446) | Ivo Labbe | A very early onset of massive galaxy formation | 
 | [2207.13625](https://arxiv.org/abs/2207.13625) | Danilo Marchesini | Early results from GLASS-JWST. IX--- First spectroscopic confirmation of low-mass quiescent galaxies at z > 2 with NIRISS | 
 | [2208.00986](https://arxiv.org/abs/2208.00986) | Adam Carnall | A first look at JWST CEERS--- massive quiescent galaxies from 3 < z < 5 | 
+| [2208.01612](https://arxiv.org/abs/2208.01612) | Yuichi Harikane | A Comprehensive Study on Galaxies at z~9-16 Found in the Early JWST Data-- UV Luminosity Functions and Cosmic Star-Formation History at the Pre-Reionization Epoch | 
 | [2208.01816](https://arxiv.org/abs/2208.01816) | Jorge Zavala | A dusty starburst masquerading as an ultra-high redshift galaxy in JWST CEERS observations | 
 | [2208.02794](https://arxiv.org/abs/2208.02794) | Rohan Naidu | Schrodinger's Galaxy Candidate--- Puzzlingly Luminous at z ~ 17, or Dusty/Quenched at z ~ 5? | 
 | [2210.15699](https://arxiv.org/abs/2210.15699) | Hayley Williams | A magnified compact galaxy at redshift 9.51 with strong nebular emission lines | 
@@ -30,8 +32,10 @@
 | [2303.08918](https://arxiv.org/abs/2303.08918) | Rebecca Larson | A CEERS Discovery of an Accreting Supermassive Black Hole 570 Myr after the Big Bang, Identifying a Progenitor of Massive z > 6 Quasars | 
 | [2303.15431](https://arxiv.org/abs/2303.15431) | Pablo Arrabal Haro | Spectroscopic verification of very luminous galaxy candidates in the early universe | 
 | [2304.05378](https://arxiv.org/abs/2304.05378) | Pablo Arrabal Haro | Spectroscopic confirmation of CEERS NIRCam-selected galaxies at z = 8 - 10 | 
+| [2304.14469](https://arxiv.org/abs/2304.14469) | Derek McLeod | The galaxy UV luminosity function at z~11 from a suite of public JWST ERS, ERO and Cycle-1 programs | 
 | [2306.00647](https://arxiv.org/abs/2306.00647) | Kasper Elm Heintz | Extreme damped Lyman-alpha absorption in young star-forming galaxies at z=9−11 | 
 | [2306.02467](https://arxiv.org/abs/2306.02467) | Andrew Bunker | JADES NIRSpec Initial Data Release for the Hubble Ultra Deep Field, Redshifts and Line Fluxes of Distant Galaxies from the Deepest JWST Cycle 1 NIRSpec Multi-Object Spectroscopy | 
 | [2306.02468](https://arxiv.org/abs/2306.02468) | Kevin Hainline | The Cosmos in its Infancy, JADES Galaxy Candidates at z > 8 in GOODS-S and GOODS-N | 
 | [2306.05448](https://arxiv.org/abs/2306.05448) | Jorryt Matthee | Little Red Dots - an abundant population of faint AGN at z ∼ 5 revealed by the EIGER and FRESCO JWST surveys | 
 | [2306.06244](https://arxiv.org/abs/2306.06244) | Gene Leung | NGDEEP Epoch 1 The Faint End of the Luminosity Function at z=9-12 from Ultradeep JWST Imaging | 
+| [2312.10033](https://arxiv.org/abs/2312.10033) | Brant Robertson | Earliest Galaxies in the JADES Origins Field--Luminosity Function and Cosmic Star-Formation Rate Density 300 Myr after the Big Bang | 
