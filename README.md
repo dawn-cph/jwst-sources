@@ -30,7 +30,7 @@ flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics --exclude "sc
 
 # App interface
 
-The table is rendered in at https://jwst-sources.herokuapp.com/, with some tools for guerying and generating the unique source identifiers. 
+The table is rendered in at https://jwst-sources.herokuapp.com/, with some tools for querying and generating the unique source identifiers. 
  See https://jwst-sources.herokuapp.com/help.
 
 # To Do
