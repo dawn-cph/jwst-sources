@@ -5,6 +5,7 @@
 | [1710.11131](https://arxiv.org/abs/1710.11131) | Pascal Oesch | The Dearth of z~10 Galaxies in all HST Legacy Fields--The Rapid Evolution of the Galaxy Population in the First 500 Myr | 
 | [1807.02523](https://arxiv.org/abs/1807.02523) | Corentin Schreiber | Near infrared spectroscopy and star-formation histories of 3 < z < 4 quiescent galaxies | 
 | [2106.06544](https://arxiv.org/abs/2106.06544) | Guido Roberts-Borsani | The Physical Properties of Luminous z>8 Galaxies and Implications for the Cosmic Star Formation Rate Density From ∼0.35 deg2 of (Pure-)Parallel HST Observations | 
+| [2106.13246](https://arxiv.org/abs/2106.13246) | Carlos Gomez-Guijarro | GOODS-ALMA 2.0--Source catalog, number counts, and prevailing compact sizes in 1.1 mm galaxies | 
 | [2204.06393](https://arxiv.org/abs/2204.06393) | Seiji Fujimoto | A dusty compact object bridging galaxies and quasars at cosmic dawn | 
 | [2207.08778](https://arxiv.org/abs/2207.08778) | Adam Carnall | A first look at the SMACS0723 JWST ERO--- spectroscopic redshifts, stellar masses and star-formation histories | 
 | [2207.09434](https://arxiv.org/abs/2207.09434) | Rohan Naidu | Two Remarkably Luminous Galaxy Candidates at z ~ 11 -13 Revealed by JWST | 
