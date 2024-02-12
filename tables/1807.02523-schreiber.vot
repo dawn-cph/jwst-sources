@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VOTABLE version="1.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.ivoa.net/xml/VOTable/v1.3"
+  xsi:schemaLocation="http://www.ivoa.net/xml/VOTable/v1.3 http://www.ivoa.net/xml/VOTable/v1.3">
+ <DESCRIPTION>
+   VizieR Astronomical Server vizier.cds.unistra.fr
+    Date: 2024-02-12T09:40:03 [V7.33.1]
+   Explanations and Statistics of UCDs:			See LINK below
+   In case of problem, please report to:	cds-question@unistra.fr
+ </DESCRIPTION>
+<!-- VOTable description at http://www.ivoa.net/Documents/latest/VOT.html -->
+<INFO name="service_protocol" value="ASU">  IVOID of the protocol through which the data was retrieved</INFO>
+<INFO name="request_date" value="2024-02-12T09:40:03">  Query execution date</INFO>
+<INFO name="request" value="https://vizier.cds.unistra.fr/viz-bin/votable?-oc.form=dec&amp;-out.max=50&amp;-c.eq=J2000&amp;-c.r=  2&amp;-c.u=arcmin&amp;-c.geom=r&amp;-source=J/A+A/618/A85/sample&amp;-order=I&amp;-out=ID&amp;-out=RAJ2000&amp;-out=DEJ2000&amp;-out=f_z&amp;-out=z&amp;-out=U-V&amp;-out=V-J&amp;-out=Mass&amp;-out=Av&amp;-out=SFR&amp;-out=tq&amp;-out=zf&amp;-out=tsf&amp;-out=logSFRp&amp;-out=f_zs&amp;-out=zp&amp;-out=zs&amp;-out=deltaz&amp;-out=pz&amp;-out=chi2&amp;-out=Balmer&amp;-out=sigma&amp;-out=SimbadName&amp;">  Full request URL (POST)</INFO>
+<INFO name="contact" value="cds-question@unistra.fr">  Email or URL to contact publisher</INFO>
+<INFO name="server_software" value="7.33.1">  Software version</INFO>
+<INFO name="publisher" value="CDS">  Data centre that produced the VOTable</INFO>
+
+<!--
+Execution Reports
+ -->
+
+<RESOURCE ID="yCat_36180085" name="J/A+A/618/A85">
+  <DESCRIPTION>Spectroscopy of 3&lt;z&lt;4 quiescent galaxies (Schreiber+ 2018)</DESCRIPTION>  <INFO name="ivoid" value="ivo://cds.vizier/j/a+a/618/a85">    IVOID of underlying data collection  </INFO>
+  <INFO name="creator" value="Schreiber C.">    First author or institution  </INFO>
+  <INFO name="cites" value="bibcode:2018A&amp;A...618A..85S">    Article or Data origin sources  </INFO>
+  <INFO name="editor" value="Astronomy and Astrophysics">    Editor name (article)  </INFO>
+  <INFO name="original_date" value="2018">    Year of the article publication  </INFO>
+  <INFO name="reference_url" value="https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/618/A85">    Dataset landing page  </INFO>
+  <INFO name="citation" value="doi:10.26093/cds/vizier.36180085">    Dataset identifier that can be used for citation  </INFO>
+  <INFO name="publication_date" value="2020-01-13">    Date of first publication in the data centre  </INFO>
+  <INFO name="rights_uri" value="https://cds.unistra.fr/vizier-org/licences_vizier.html">    Licence URI  </INFO>
+
+  <COOSYS ID="J2000" system="eq_FK5" equinox="J2000"/>
+  <TABLE ID="J_A_A_618_A85_sample" name="J/A+A/618/A85/sample">
+    <DESCRIPTION>Physical properties (tabnle 3) and spectroscopic redshifts (table A4) of the galaxies</DESCRIPTION>
+    <!-- Definitions of GROUPs and FIELDs -->
+    <FIELD name="ID" ucd="meta.id;meta.main" datatype="char" arraysize="12"><!-- ucd="ID_MAIN" -->
+      <DESCRIPTION>Composite ID of the galaxy, with format "CATALOG-FIELD-ID" (G1)</DESCRIPTION>
+      <LINK href="http://vizier.cds.unistra.fr/viz-bin/VizieR-5?-info=XML&amp;-out.add=.&amp;-source=J/A+A/618/A85/sample&amp;recno=${recno}"/>
+    </FIELD>
+    <FIELD name="RAJ2000" ucd="pos.eq.ra;meta.main" ref="J2000" datatype="double" width="10" precision="6" unit="deg"><!-- ucd="POS_EQ_RA_MAIN" -->
+      <DESCRIPTION>Right ascension (J2000)</DESCRIPTION>
+    </FIELD>
+    <FIELD name="DEJ2000" ucd="pos.eq.dec;meta.main" ref="J2000" datatype="double" width="11" precision="7" unit="deg"><!-- ucd="POS_EQ_DEC_MAIN" -->
+      <DESCRIPTION>Declination (J2000)</DESCRIPTION>
+    </FIELD>
+    <FIELD name="f_z" ucd="meta.code" datatype="char" arraysize="1"><!-- ucd="CODE_MISC" -->
+      <DESCRIPTION>[0/2] Redshift flag (2)</DESCRIPTION>
+      <LINK href="http://vizier.cds.unistra.fr/viz-bin/VizieR?-6N&amp;-info=XML&amp;-out.add=.&amp;&amp;lt;&amp;quot;Note&amp;quot;&amp;catid=36180085&amp;notid=1&amp;-out.emph=${f_z}"/>
+    </FIELD>
+    <FIELD name="z" ucd="src.redshift" datatype="float" width="6" precision="3"><!-- ucd="REDSHIFT_HC" -->
+      <DESCRIPTION>Redshift</DESCRIPTION>
+    </FIELD>
+    <FIELD name="U-V" ucd="phot.color;em.opt.U;em.opt.V" datatype="float" width="5" precision="2" unit="mag"><!-- ucd="PHOT_JHN_U-V" -->
+      <DESCRIPTION>U-V color (AB)</DESCRIPTION>
+    </FIELD>
+    <FIELD name="V-J" ucd="phot.color;em.opt.V;em.IR.J" datatype="float" width="5" precision="2" unit="mag"><!-- ucd="PHOT_JHN_V-J" -->
+      <DESCRIPTION>V-J color (AB)</DESCRIPTION>
+    </FIELD>
+    <FIELD name="Mass" ucd="phys.mass" datatype="float" width="5" precision="2" unit="1e+10solMass"><!-- ucd="PHYS_MASS_MISC" -->
+      <DESCRIPTION>Stellar mass in solar units</DESCRIPTION>
+    </FIELD>
+    <FIELD name="Av" ucd="phys.absorption" datatype="float" width="4" precision="1" unit="mag"><!-- ucd="PHOT_EXTINCTION_ISM" -->
+      <DESCRIPTION>Attenuation in the V band</DESCRIPTION>
+    </FIELD>
+    <FIELD name="SFR" ucd="phys.SFR" datatype="float" width="5" precision="1" unit="solMass/yr"><!-- ucd="PHYS_STAR-FORM_RATE" -->
+      <DESCRIPTION>Past star-formation rate averaged over 10Myr</DESCRIPTION>
+    </FIELD>
+    <FIELD name="tq" ucd="time.interval" datatype="float" width="5" precision="2" unit="Gyr"><!-- ucd="TIME_INTERVAL" -->
+      <DESCRIPTION>Duration of quiescence</DESCRIPTION>
+    </FIELD>
+    <FIELD name="zf" ucd="stat.fit.param" datatype="float" width="4" precision="1"><!-- ucd="FIT_PARAM_VALUE" -->
+      <DESCRIPTION>Formation redshift</DESCRIPTION>
+    </FIELD>
+    <FIELD name="tsf" ucd="time.interval" datatype="float" width="5" precision="2" unit="Gyr"><!-- ucd="TIME_INTERVAL" -->
+      <DESCRIPTION>Duration of star-forming phase</DESCRIPTION>
+    </FIELD>
+    <FIELD name="logSFRp" ucd="phys.SFR" datatype="float" width="5" precision="2" unit="log(solMass.yr**-1)"><!-- ucd="PHYS_STAR-FORM_RATE" -->
+      <DESCRIPTION>Past average star-formation rate during SF phase (log)</DESCRIPTION>
+    </FIELD>
+    <FIELD name="f_zs" ucd="meta.code" datatype="char" arraysize="1"><!-- ucd="CODE_MISC" -->
+      <DESCRIPTION>Spectroscopic redshift flag (2)</DESCRIPTION>
+      <LINK href="http://vizier.cds.unistra.fr/viz-bin/VizieR?-6N&amp;-info=XML&amp;-out.add=.&amp;&amp;lt;&amp;quot;Note&amp;quot;&amp;catid=36180085&amp;notid=2&amp;-out.emph=${f_zs}"/>
+    </FIELD>
+    <FIELD name="zp" ucd="src.redshift.phot" datatype="float" width="5" precision="2"><!-- ucd="REDSHIFT_PHOT" -->
+      <DESCRIPTION>Photometric redshift</DESCRIPTION>
+    </FIELD>
+    <FIELD name="zs" ucd="src.redshift;pos.heliocentric" datatype="float" width="7" precision="4"><!-- ucd="REDSHIFT_HC" -->
+      <DESCRIPTION>Spectroscopic redshift</DESCRIPTION>
+    </FIELD>
+    <FIELD name="deltaz" ucd="stat.fit.goodness" datatype="float" width="5" precision="1"><!-- ucd="STAT_SIGNIFICANCE" -->
+      <DESCRIPTION>Significance of "zp-zs"</DESCRIPTION>
+    </FIELD>
+    <FIELD name="pz" ucd="stat" datatype="short" width="3" unit="%"><!-- ucd="STAT_PROBABILITY" -->
+      <DESCRIPTION>Probability that true redshift is within +/-0.01 of zs</DESCRIPTION>
+    </FIELD>
+    <FIELD name="chi2" ucd="stat.fit.chi2;stat.fit.param;meta.modelled" datatype="float" width="4" precision="1"><!-- ucd="FIT_CHI2" -->
+      <DESCRIPTION>Reduced chi squared of the fit</DESCRIPTION>
+    </FIELD>
+    <FIELD name="Balmer" ucd="meta.code" datatype="char" arraysize="1"><!-- ucd="CODE_MISC" -->
+      <DESCRIPTION>Balmer absorption flag (3)</DESCRIPTION>
+      <LINK href="http://vizier.cds.unistra.fr/viz-bin/VizieR?-6N&amp;-info=XML&amp;-out.add=.&amp;&amp;lt;&amp;quot;Note&amp;quot;&amp;catid=36180085&amp;notid=3&amp;-out.emph=${Balmer}"/>
+    </FIELD>
+    <FIELD name="sigma" ucd="phys.veloc.dispersion" datatype="short" width="3" unit="km/s"><!-- ucd="VELOC_DISP" -->
+      <DESCRIPTION>? Velocity dispersion</DESCRIPTION>
+      <VALUES null="-32768" />
+    </FIELD>
+    <FIELD name="SimbadName" ucd="meta.id" datatype="char" arraysize="21"><!-- ucd="ID_ALTERNATIVE" -->
+      <DESCRIPTION>Simbad column added by the CDS</DESCRIPTION>
+<!-- Designation understandable by the {\bf\fg{FireBrick}Simbad} data-base -->
+
+      <LINK href="http://simbad.u-strasbg.fr/simbad/sim-id?Ident=${SimbadName}"/>
+    </FIELD>
+    <FIELD name="recno" ucd="meta.record" datatype="int" width="8" type="hidden"><!-- ucd="RECORD" -->
+      <DESCRIPTION>Record number assigned by the VizieR team. Should Not be used for identification.</DESCRIPTION>
+      <LINK href="http://vizier.cds.unistra.fr/viz-bin/VizieR-5?-info=XML&amp;-out.add=.&amp;-source=J/A+A/618/A85/sample&amp;recno=${recno}"/>
+    </FIELD>
+<DATA><TABLEDATA>
+<TR><TD>ZF-COS-20032</TD><TD>150.112560</TD><TD>+02.3765266</TD><TD>2</TD><TD>2.474</TD><TD>2.62</TD><TD>2.50</TD><TD>1.12</TD><TD>3.7</TD><TD>139.0</TD><TD>0.28</TD><TD>2.9</TD><TD>0.06</TD><TD>3.26</TD><TD>2</TD><TD>3.55</TD><TD>2.4736</TD><TD>1.6</TD><TD>96</TD><TD>1.0</TD><TD>0</TD><TD>217</TD><TD>ZFOURGE COSMOS 20032</TD><TD>1</TD></TR>
+<TR><TD>ZF-COS-20115</TD><TD>150.061490</TD><TD>+02.3787093</TD><TD>2</TD><TD>3.715</TD><TD>1.67</TD><TD>0.52</TD><TD>1.15</TD><TD>0.3</TD><TD>0.0</TD><TD>0.51</TD><TD>6.1</TD><TD>0.15</TD><TD>2.93</TD><TD>2</TD><TD>3.64</TD><TD>3.7145</TD><TD>-0.9</TD><TD>100</TD><TD>1.0</TD><TD>1</TD><TD></TD><TD>ZFOURGE COSMOS 20115</TD><TD>2</TD></TR>
+<TR><TD>ZF-COS-20133</TD><TD>150.121730</TD><TD>+02.3745940</TD><TD>2</TD><TD>3.481</TD><TD>1.37</TD><TD>1.06</TD><TD>0.33</TD><TD>0.1</TD><TD>4.6</TD><TD>1.43</TD><TD>32.2</TD><TD>0.14</TD><TD>2.43</TD><TD>2</TD><TD>3.51</TD><TD>3.4806</TD><TD>0.6</TD><TD>100</TD><TD>1.0</TD><TD>0</TD><TD>60</TD><TD>ZFOURGE COSMOS 20133</TD><TD>3</TD></TR>
+<TR><TD>3D-EGS-18996</TD><TD>214.895630</TD><TD>+52.8565560</TD><TD>2</TD><TD>3.239</TD><TD>1.10</TD><TD>0.46</TD><TD>0.98</TD><TD>0.0</TD><TD>1.0</TD><TD>0.33</TD><TD>4.3</TD><TD>0.27</TD><TD>2.58</TD><TD>2</TD><TD>2.99</TD><TD>3.2390</TD><TD>-8.3</TD><TD>100</TD><TD>1.0</TD><TD>1</TD><TD>530</TD><TD>[SWM2014] AEGIS 18996</TD><TD>4</TD></TR>
+<TR><TD>3D-EGS-26047</TD><TD>214.905120</TD><TD>+52.8916210</TD><TD>2</TD><TD>3.234</TD><TD>1.25</TD><TD>1.21</TD><TD>0.99</TD><TD>0.2</TD><TD>0.1</TD><TD>0.52</TD><TD>7.5</TD><TD>0.42</TD><TD>2.42</TD><TD>2</TD><TD>3.24</TD><TD>3.2337</TD><TD>0.0</TD><TD>99</TD><TD>1.0</TD><TD>0</TD><TD>530</TD><TD>[SWM2014] AEGIS 26047</TD><TD>5</TD></TR>
+<TR><TD>3D-EGS-40032</TD><TD>214.760620</TD><TD>+52.8453830</TD><TD>2</TD><TD>3.219</TD><TD>1.54</TD><TD>0.75</TD><TD>2.03</TD><TD>0.4</TD><TD>6.1</TD><TD>0.51</TD><TD>5.0</TD><TD>0.23</TD><TD>2.99</TD><TD>2</TD><TD>3.22</TD><TD>3.2187</TD><TD>0.0</TD><TD>100</TD><TD>1.0</TD><TD>1</TD><TD>582</TD><TD>[SWM2014] AEGIS 40032</TD><TD>6</TD></TR>
+<TR><TD>ZF-UDS-8197</TD><TD>034.293755</TD><TD>-05.2269478</TD><TD>2</TD><TD>3.543</TD><TD>1.09</TD><TD>1.16</TD><TD>0.36</TD><TD>0.0</TD><TD>1.7</TD><TD>0.43</TD><TD>6.7</TD><TD>0.69</TD><TD>1.76</TD><TD>2</TD><TD>3.47</TD><TD>3.5431</TD><TD>-1.2</TD><TD>99</TD><TD>1.0</TD><TD>0</TD><TD>530</TD><TD>ZFOURGE UDS 8197</TD><TD>7</TD></TR>
+<TR><TD>3D-UDS-27939</TD><TD>034.487273</TD><TD>-05.1821730</TD><TD>2</TD><TD>2.210</TD><TD>1.79</TD><TD>1.77</TD><TD>0.46</TD><TD>1.0</TD><TD>1.8</TD><TD>2.36</TD><TD>23.6</TD><TD>0.23</TD><TD>2.39</TD><TD>2</TD><TD>3.22</TD><TD>2.2104</TD><TD>4.5</TD><TD>100</TD><TD>1.0</TD><TD>0</TD><TD>154</TD><TD>[SWM2014] UDS 27939</TD><TD>8</TD></TR>
+<TR><TD>ZF-COS-17779</TD><TD>150.046510</TD><TD>+02.3673911</TD><TD>1</TD><TD>3.415</TD><TD>1.39</TD><TD>0.92</TD><TD>0.36</TD><TD>1.4</TD><TD>0.7</TD><TD>0.03</TD><TD>4.4</TD><TD>0.85</TD><TD>1.65</TD><TD>1</TD><TD>3.91</TD><TD>3.4150</TD><TD>1.4</TD><TD>77</TD><TD>1.0</TD><TD>0</TD><TD>60</TD><TD>ZFOURGE COSMOS 17779</TD><TD>9</TD></TR>
+<TR><TD>ZF-COS-18842</TD><TD>150.087280</TD><TD>+02.3960431</TD><TD>1</TD><TD>3.782</TD><TD>1.21</TD><TD>0.47</TD><TD>0.45</TD><TD>0.0</TD><TD>2.5</TD><TD>0.33</TD><TD>5.3</TD><TD>0.27</TD><TD>2.24</TD><TD>1</TD><TD>3.47</TD><TD>3.7823</TD><TD>-4.5</TD><TD>75</TD><TD>1.1</TD><TD>0</TD><TD>60</TD><TD>ZFOURGE COSMOS 18842</TD><TD>10</TD></TR>
+<TR><TD>ZF-COS-19589</TD><TD>150.066710</TD><TD>+02.3823645</TD><TD>1</TD><TD>3.715</TD><TD>1.67</TD><TD>0.76</TD><TD>0.62</TD><TD>0.9</TD><TD>0.0</TD><TD>0.38</TD><TD>5.1</TD><TD>0.09</TD><TD>2.87</TD><TD>1</TD><TD>3.73</TD><TD>3.7152</TD><TD>0.1</TD><TD>32</TD><TD>0.9</TD><TD>0</TD><TD></TD><TD>ZFOURGE COSMOS 19589</TD><TD>11</TD></TR>
+<TR><TD>3D-EGS-31322</TD><TD>214.866060</TD><TD>+52.8843120</TD><TD>1</TD><TD>3.434</TD><TD>1.35</TD><TD>0.78</TD><TD>0.98</TD><TD>0.3</TD><TD>0.0</TD><TD>0.28</TD><TD>4.9</TD><TD>0.28</TD><TD>2.57</TD><TD>1</TD><TD>3.47</TD><TD>3.4344</TD><TD>0.5</TD><TD>84</TD><TD>1.0</TD><TD>1</TD><TD></TD><TD>[SWM2014] AEGIS 31322</TD><TD>12</TD></TR>
+<TR><TD>ZF-COS-10559</TD><TD>150.071470</TD><TD>+02.2911844</TD><TD>0</TD><TD>3.340</TD><TD>1.57</TD><TD>1.05</TD><TD>0.23</TD><TD>0.0</TD><TD>0.9</TD><TD>1.06</TD><TD>9.0</TD><TD>0.16</TD><TD>2.22</TD><TD>0</TD><TD>3.34</TD><TD>2.6376</TD><TD>0.4</TD><TD>2</TD><TD>0.9</TD><TD>0</TD><TD></TD><TD>ZFOURGE COSMOS 10559</TD><TD>13</TD></TR>
+<TR><TD>ZF-COS-14907</TD><TD>150.124220</TD><TD>+02.3374486</TD><TD>0</TD><TD>2.890</TD><TD>1.38</TD><TD>0.76</TD><TD>0.49</TD><TD>0.2</TD><TD>2.4</TD><TD>0.36</TD><TD>4.3</TD><TD>0.68</TD><TD>1.90</TD><TD>0</TD><TD>2.89</TD><TD>4.1935</TD><TD>-23.1</TD><TD>63</TD><TD>1.2</TD><TD>0</TD><TD></TD><TD>ZFOURGE COSMOS 14907</TD><TD>14</TD></TR>
+<TR><TD>3D-EGS-27584</TD><TD>214.853870</TD><TD>+52.8613930</TD><TD>0</TD><TD>3.600</TD><TD>2.25</TD><TD>1.33</TD><TD>4.59</TD><TD>1.3</TD><TD>11.5</TD><TD>0.82</TD><TD>7.1</TD><TD>0.09</TD><TD>3.73</TD><TD>0</TD><TD>3.60</TD><TD>2.4620</TD><TD>4.3</TD><TD>9</TD><TD>1.0</TD><TD>0</TD><TD></TD><TD>[SWM2014] AEGIS 27584</TD><TD>15</TD></TR>
+<TR><TD>3D-EGS-34322</TD><TD>214.813160</TD><TD>+52.8589860</TD><TD>0</TD><TD>3.590</TD><TD>1.25</TD><TD>0.95</TD><TD>0.42</TD><TD>0.9</TD><TD>2.6</TD><TD>0.21</TD><TD>4.3</TD><TD>0.09</TD><TD>2.67</TD><TD>0</TD><TD>3.59</TD><TD>3.5460</TD><TD>0.1</TD><TD>18</TD><TD>0.9</TD><TD>0</TD><TD></TD><TD>[SWM2014] AEGIS 34322</TD><TD>16</TD></TR>
+<TR><TD>ZF-UDS-3651</TD><TD>034.289452</TD><TD>-05.2698030</TD><TD>0</TD><TD>3.870</TD><TD>1.35</TD><TD>0.74</TD><TD>0.76</TD><TD>0.7</TD><TD>14.8</TD><TD>0.31</TD><TD>5.0</TD><TD>0.13</TD><TD>2.79</TD><TD>0</TD><TD>3.87</TD><TD>3.4214</TD><TD>2.7</TD><TD>33</TD><TD>1.1</TD><TD>0</TD><TD></TD><TD>ZFOURGE UDS 3651</TD><TD>17</TD></TR>
+<TR><TD>ZF-UDS-4347</TD><TD>034.290428</TD><TD>-05.2620687</TD><TD>0</TD><TD>3.580</TD><TD>1.54</TD><TD>0.81</TD><TD>0.32</TD><TD>0.4</TD><TD>1.3</TD><TD>0.30</TD><TD>4.4</TD><TD>0.06</TD><TD>2.75</TD><TD>0</TD><TD>3.58</TD><TD>3.4731</TD><TD>0.5</TD><TD>39</TD><TD>0.9</TD><TD>0</TD><TD></TD><TD>ZFOURGE UDS 4347</TD><TD>18</TD></TR>
+<TR><TD>ZF-UDS-6496</TD><TD>034.340358</TD><TD>-05.2412550</TD><TD>0</TD><TD>3.500</TD><TD>1.73</TD><TD>0.81</TD><TD>0.89</TD><TD>0.3</TD><TD>8.4</TD><TD>0.34</TD><TD>6.5</TD><TD>0.81</TD><TD>2.08</TD><TD>0</TD><TD>3.50</TD><TD>2.0332</TD><TD>1.3</TD><TD>33</TD><TD>1.0</TD><TD>0</TD><TD></TD><TD>ZFOURGE UDS 6496</TD><TD>19</TD></TR>
+<TR><TD>ZF-UDS-7329</TD><TD>034.255872</TD><TD>-05.2338210</TD><TD>0</TD><TD>3.040</TD><TD>2.05</TD><TD>1.16</TD><TD>1.82</TD><TD>0.5</TD><TD>0.9</TD><TD>1.51</TD><TD>15.0</TD><TD>0.27</TD><TD>2.90</TD><TD>0</TD><TD>3.04</TD><TD>3.1857</TD><TD>-0.1</TD><TD>25</TD><TD>1.0</TD><TD>0</TD><TD></TD><TD>ZFOURGE UDS 7329</TD><TD>20</TD></TR>
+<TR><TD>ZF-UDS-7542</TD><TD>034.258888</TD><TD>-05.2322803</TD><TD>0</TD><TD>3.150</TD><TD>1.49</TD><TD>0.97</TD><TD>0.55</TD><TD>1.1</TD><TD>0.0</TD><TD>0.28</TD><TD>3.7</TD><TD>0.02</TD><TD>3.43</TD><TD>0</TD><TD>3.15</TD><TD>3.1885</TD><TD>-0.6</TD><TD>35</TD><TD>1.0</TD><TD>0</TD><TD></TD><TD>ZFOURGE UDS 7542</TD><TD>21</TD></TR>
+<TR><TD>3D-UDS-35168</TD><TD>034.485131</TD><TD>-05.1578340</TD><TD>0</TD><TD>3.460</TD><TD>1.37</TD><TD>0.81</TD><TD>0.34</TD><TD>0.3</TD><TD>0.9</TD><TD>0.10</TD><TD>9.6</TD><TD>0.73</TD><TD>1.72</TD><TD>0</TD><TD>3.46</TD><TD>4.2240</TD><TD>-0.5</TD><TD>4</TD><TD>1.0</TD><TD>0</TD><TD></TD><TD>[SWM2014] UDS 35168</TD><TD>22</TD></TR>
+<TR><TD>3D-UDS-39102</TD><TD>034.526210</TD><TD>-05.1438100</TD><TD>0</TD><TD>3.510</TD><TD>1.61</TD><TD>1.32</TD><TD>0.89</TD><TD>1.9</TD><TD>0.0</TD><TD>0.11</TD><TD>3.8</TD><TD>0.07</TD><TD>3.11</TD><TD>0</TD><TD>3.51</TD><TD>3.3982</TD><TD>0.2</TD><TD>4</TD><TD>1.0</TD><TD>0</TD><TD></TD><TD>[SWM2014] UDS 39102</TD><TD>23</TD></TR>
+<TR><TD>3D-UDS-41232</TD><TD>034.526589</TD><TD>-05.1360390</TD><TD>0</TD><TD>3.010</TD><TD>1.56</TD><TD>0.82</TD><TD>1.50</TD><TD>0.3</TD><TD>0.9</TD><TD>0.32</TD><TD>5.4</TD><TD>0.98</TD><TD>2.24</TD><TD>0</TD><TD>3.01</TD><TD>2.9810</TD><TD>0.2</TD><TD>25</TD><TD>1.0</TD><TD>0</TD><TD></TD><TD>[SWM2014] UDS 41232</TD><TD>24</TD></TR>
+</TABLEDATA></DATA>
+</TABLE>
+<INFO name="matches" value="24">matching records</INFO>
+
+<INFO name="Warning" value="No center provided++++"/>
+</RESOURCE>
+</VOTABLE>
