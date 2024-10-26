@@ -32,8 +32,11 @@ flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics --exclude "sc
 
 # App interface
 
-The table is rendered in at https://jwst-sources.herokuapp.com/, with some tools for querying and generating the unique source identifiers. 
- See https://jwst-sources.herokuapp.com/help.
+The table is rendered in at https://jwst-sources.herokuapp.com/, with some tools for querying and generating the unique source identifiers.
+
+For example [https://jwst-sources.herokuapp.com/match?coords=214.91455,52.943023](https://jwst-sources.herokuapp.com/match?coords=214.91455,52.943023) returns a query for the z=16 candiate identified in early CEERS ERS observations that turns out to be at z=4.912.
+
+See https://jwst-sources.herokuapp.com/help for additional usage information.
 
 # To Do
 
