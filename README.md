@@ -21,6 +21,8 @@ $ python build.py
 
 # Adding new references
 
+The currently available catalog references are summarized at  [tables/README.md](https://github.com/dawn-cph/jwst-sources/blob/main/tables/README.md) (rendered [here](https://dawn-cph.github.io/jwst-sources/tables/) by GitHub Pages).
+
 Please feel free to add new tables with `meta` and `csv` files in the `tables/` directory!  To add them, fork the repository and submit the updates via a Pull Request.  Please verify that new tables are processed correctly with the `$ python build.py` ingestion script before committing updates to the full `jwst-sources` tables.  The ingestion script will also be run automatically by the GitHub Actions [CI script](https://github.com/dawn-cph/jwst-sources/actions) when a PR is processed.
 
 If there is self-contained code used to generate a particular csv file (e.g., [2306.02468-hainline.py](https://github.com/dawn-cph/jwst-sources/blob/main/tables/2306.02468-hainline.py)), please feel free to add that as well.  Though note that any python scripts have to pass the verification test in the CI Action, i.e.,:
