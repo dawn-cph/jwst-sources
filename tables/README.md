@@ -46,4 +46,7 @@
 | [2310.01112](https://arxiv.org/abs/2310.01112) | Charlotte Simmonds | Low-mass bursty galaxies in JADES efficiently produce ionising photons and could represent the main drivers of reionisation | 
 | [2311.04867](https://arxiv.org/abs/2311.04867) | Shuowen Jin | Cosmic Vine- A z=3.44 large-scale structure hosting massive quiescent galaxies | 
 | [2312.10033](https://arxiv.org/abs/2312.10033) | Brant Robertson | Earliest Galaxies in the JADES Origins Field--Luminosity Function and Cosmic Star-Formation Rate Density 300 Myr after the Big Bang | 
+| [2403.05506](https://arxiv.org/abs/2403.05506) | Michael Maseda | The NIRSpec Wide GTO Survey | 
 | [2404.03576](https://arxiv.org/abs/2404.03576) | Dale Kocevski | The Rise of Faint, Red AGN at z>4--A Sample of Little Red Dots in the JWST Extragalactic Legacy Fields | 
+| [2410.10967](https://arxiv.org/abs/2410.10967) | Lorenzo Napolitano | Seven wonders of Cosmic Dawn, JWST confirms a high abundance of galaxies and AGNs at z = 9-11 in the GLASS field | 
+| [2410.18763](https://arxiv.org/abs/2410.18763) | Lorenzo Napolitano | The dual nature of GHZ9, coexisting AGN and star formation activity in a remote X-ray source at z=10.145 | 

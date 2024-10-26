@@ -1,0 +1,2 @@
+id             , ra      , dec       , zspec. , zspec_err, mu, exptime, muv, muv_err,  beta, beta_err, emlines
+GHZ9           , 3.478761, -30.345516, 10.145 , 0.010 , 1.36, 19701, -19.271, 0.040 , -1.10, 0.12, NIV]1486; CIV1548+1551; NIII]1747+1749; CIII]1909; [OII]3727+3729; [NeIII]3869; Hd; Hg; [OIII]4363
