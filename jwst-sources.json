@@ -196,33 +196,20 @@
     ],
     [
         "j001359.76m301929.10",
-        4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.4989583333333338&dec=-30.324749999999998&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.4989583333333338&dec=-30.324749999999998&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.498958,
-        -30.32475,
-        "17487",
-        12.42,
-        null,
-        2207.12356,
-        "Callum Donnan"
-    ],
-    [
-        "j001359.76m301929.10",
-        4,
+        5,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.4989858&dec=-30.324767&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.4989858&dec=-30.324767&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.498985,
         -30.32477,
         "GHZ2",
-        12.35,
         null,
-        2207.09436,
+        12.342,
+        2207.12446,
         "Marco Castellano"
     ],
     [
         "j001359.76m301929.10",
-        4,
+        5,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.49899999999999978&dec=-30.324749999999998&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.49899999999999978&dec=-30.324749999999998&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.499,
@@ -235,7 +222,7 @@
     ],
     [
         "j001359.76m301929.10",
-        4,
+        5,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.49891666666666628&dec=-30.324749999999998&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.49891666666666628&dec=-30.324749999999998&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.498917,
@@ -245,6 +232,32 @@
         null,
         2208.01612,
         "Yuichi Harikane"
+    ],
+    [
+        "j001359.76m301929.10",
+        5,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.4989858&dec=-30.324767&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.4989858&dec=-30.324767&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.498985,
+        -30.32477,
+        "GHZ2",
+        12.35,
+        null,
+        2207.09436,
+        "Marco Castellano"
+    ],
+    [
+        "j001359.76m301929.10",
+        5,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.4989583333333338&dec=-30.324749999999998&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.4989583333333338&dec=-30.324749999999998&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.498958,
+        -30.32475,
+        "17487",
+        12.42,
+        null,
+        2207.12356,
+        "Callum Donnan"
     ],
     [
         "j001400.09m301906.90",
@@ -2095,19 +2108,6 @@
     [
         "j001408.16m302111.91",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5339958&dec=-30.3533068&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5339958&dec=-30.3533068&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.533995,
-        -30.35331,
-        "73104",
-        null,
-        null,
-        2410.01874,
-        "Rohan Naidu"
-    ],
-    [
-        "j001408.16m302111.91",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5339948&dec=-30.353307&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5339948&dec=-30.353307&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.533994,
@@ -2117,6 +2117,19 @@
         6.76,
         2404.03576,
         "Dale Kocevski"
+    ],
+    [
+        "j001408.16m302111.91",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5339958&dec=-30.3533068&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5339958&dec=-30.3533068&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.533995,
+        -30.35331,
+        "73104",
+        null,
+        null,
+        2410.01874,
+        "Rohan Naidu"
     ],
     [
         "j001408.22m302155.84",
@@ -8114,19 +8127,6 @@
     [
         "j001415.58m302529.84",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.56490158&dec=-30.4249568&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.56490158&dec=-30.4249568&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.564901,
-        -30.42496,
-        "GLASS_160122",
-        null,
-        5.331,
-        2301.12825,
-        "Kimihiko Nakajima"
-    ],
-    [
-        "j001415.58m302529.84",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.56488828&dec=-30.4249558&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.56488828&dec=-30.4249558&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.564888,
@@ -8136,6 +8136,19 @@
         null,
         2410.01874,
         "Rohan Naidu"
+    ],
+    [
+        "j001415.58m302529.84",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.56490158&dec=-30.4249568&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.56490158&dec=-30.4249568&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.564901,
+        -30.42496,
+        "GLASS_160122",
+        null,
+        5.331,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j001415.59m302307.35",
@@ -10077,19 +10090,6 @@
     [
         "j001416.95m302452.70",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.57064288&dec=-30.4146381&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.57064288&dec=-30.4146381&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.570643,
-        -30.41464,
-        "GLASS_110000",
-        null,
-        5.763,
-        2301.12825,
-        "Kimihiko Nakajima"
-    ],
-    [
-        "j001416.95m302452.70",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.57063278&dec=-30.4146354&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.57063278&dec=-30.4146354&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.570633,
@@ -10099,6 +10099,19 @@
         5.762,
         2410.01874,
         "Rohan Naidu"
+    ],
+    [
+        "j001416.95m302452.70",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.57064288&dec=-30.4146381&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.57064288&dec=-30.4146381&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.570643,
+        -30.41464,
+        "GLASS_110000",
+        null,
+        5.763,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j001416.96m301931.78",
@@ -11494,19 +11507,6 @@
     [
         "j001418.24m302508.50",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5759868&dec=-30.419028&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5759868&dec=-30.419028&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.575986,
-        -30.41903,
-        "UNCOVER-33626",
-        3.82,
-        -1.0,
-        2404.03576,
-        "Dale Kocevski"
-    ],
-    [
-        "j001418.24m302508.50",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5759878&dec=-30.4190302&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5759878&dec=-30.4190302&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.575987,
@@ -11516,6 +11516,19 @@
         null,
         2410.01874,
         "Rohan Naidu"
+    ],
+    [
+        "j001418.24m302508.50",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5759868&dec=-30.419028&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5759868&dec=-30.419028&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.575986,
+        -30.41903,
+        "UNCOVER-33626",
+        3.82,
+        -1.0,
+        2404.03576,
+        "Dale Kocevski"
     ],
     [
         "j001418.26m302244.44",
@@ -11875,11 +11888,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.57716648&dec=-30.422576&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.577166,
         -30.42258,
-        "GLASS_150029",
+        "GLASS-150029",
         null,
         4.584,
-        2301.12825,
-        "Kimihiko Nakajima"
+        2301.06811,
+        "Yuki Isobe"
     ],
     [
         "j001418.52m302521.27",
@@ -11901,11 +11914,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.57716648&dec=-30.422576&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.577166,
         -30.42258,
-        "GLASS-150029",
+        "GLASS_150029",
         null,
         4.584,
-        2301.06811,
-        "Yuki Isobe"
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j001418.54m302405.80",
@@ -12586,19 +12599,6 @@
     [
         "j001419.16m302405.66",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5798338&dec=-30.401568&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5798338&dec=-30.401568&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.579833,
-        -30.40157,
-        "UNCOVER-9497",
-        -1.0,
-        7.04,
-        2404.03576,
-        "Dale Kocevski"
-    ],
-    [
-        "j001419.16m302405.66",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.57983749999999968&dec=-30.40157333333333&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.57983749999999968&dec=-30.40157333333333&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.579837,
@@ -12608,6 +12608,19 @@
         null,
         2212.10531,
         "Lukas Furtak"
+    ],
+    [
+        "j001419.16m302405.66",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5798338&dec=-30.401568&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5798338&dec=-30.401568&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.579833,
+        -30.40157,
+        "UNCOVER-9497",
+        -1.0,
+        7.04,
+        2404.03576,
+        "Dale Kocevski"
     ],
     [
         "j001419.17m302222.50",
@@ -12742,11 +12755,11 @@
     [
         "j001419.27m302527.85",
         4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.58029428&dec=-30.4244082&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.58029428&dec=-30.4244082&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.580294,
-        -30.42441,
-        "14566",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.58014478&dec=-30.4243598&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.58014478&dec=-30.4243598&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.580145,
+        -30.42436,
+        "14492",
         null,
         null,
         2410.01874,
@@ -12755,11 +12768,11 @@
     [
         "j001419.27m302527.85",
         4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.58014478&dec=-30.4243598&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.58014478&dec=-30.4243598&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.580145,
-        -30.42436,
-        "14492",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.58029428&dec=-30.4244082&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.58029428&dec=-30.4244082&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.580294,
+        -30.42441,
+        "14566",
         null,
         null,
         2410.01874,
@@ -16733,19 +16746,6 @@
     [
         "j001422.80m302402.80",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5949583333333338&dec=-30.40071111111111&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5949583333333338&dec=-30.40071111111111&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.594958,
-        -30.40071,
-        "UNCOVER-z10-15452",
-        10.4,
-        null,
-        2304.14469,
-        "Derek McLeod"
-    ],
-    [
-        "j001422.80m302402.80",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.59499999999999988&dec=-30.400777777777776&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.59499999999999988&dec=-30.400777777777776&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.595,
@@ -16755,6 +16755,19 @@
         null,
         1710.11131,
         "Pascal Oesch"
+    ],
+    [
+        "j001422.80m302402.80",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5949583333333338&dec=-30.40071111111111&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.5949583333333338&dec=-30.40071111111111&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.594958,
+        -30.40071,
+        "UNCOVER-z10-15452",
+        10.4,
+        null,
+        2304.14469,
+        "Derek McLeod"
     ],
     [
         "j001422.83m302102.21",
@@ -17227,19 +17240,6 @@
     [
         "j001423.33m302339.64",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.597218&dec=-30.394333&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.597218&dec=-30.394333&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.59721,
-        -30.39433,
-        "UNCOVER-8843",
-        7.54,
-        -1.0,
-        2404.03576,
-        "Dale Kocevski"
-    ],
-    [
-        "j001423.33m302339.64",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.59721249999999958&dec=-30.394344166666666&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.59721249999999958&dec=-30.394344166666666&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.597212,
@@ -17249,6 +17249,19 @@
         null,
         2212.10531,
         "Lukas Furtak"
+    ],
+    [
+        "j001423.33m302339.64",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.597218&dec=-30.394333&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.597218&dec=-30.394333&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.59721,
+        -30.39433,
+        "UNCOVER-8843",
+        7.54,
+        -1.0,
+        2404.03576,
+        "Dale Kocevski"
     ],
     [
         "j001423.36m302513.16",
@@ -18007,19 +18020,6 @@
     [
         "j001424.32m302245.16",
         4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60134678&dec=-30.3791904&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60134678&dec=-30.3791904&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.601347,
-        -30.37919,
-        "GLASSz8-2",
-        null,
-        7.883,
-        2211.09097,
-        "Takahiro Morishita"
-    ],
-    [
-        "j001424.32m302245.16",
-        4,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60134228&dec=-30.3791993&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60134228&dec=-30.3791993&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.601342,
@@ -18029,6 +18029,19 @@
         null,
         2410.01874,
         "Rohan Naidu"
+    ],
+    [
+        "j001424.32m302245.16",
+        4,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60133898&dec=-30.3792254&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60133898&dec=-30.3792254&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.601339,
+        -30.37923,
+        "GLASS_10000",
+        null,
+        7.881,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j001424.32m302245.16",
@@ -18046,15 +18059,15 @@
     [
         "j001424.32m302245.16",
         4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60133898&dec=-30.3792254&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60133898&dec=-30.3792254&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.601339,
-        -30.37923,
-        "GLASS_10000",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60134678&dec=-30.3791904&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60134678&dec=-30.3791904&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.601347,
+        -30.37919,
+        "GLASSz8-2",
         null,
-        7.881,
-        2301.12825,
-        "Kimihiko Nakajima"
+        7.883,
+        2211.09097,
+        "Takahiro Morishita"
     ],
     [
         "j001424.36m302209.38",
@@ -18332,19 +18345,6 @@
     [
         "j001424.61m302509.24",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60252798&dec=-30.4192226&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60252798&dec=-30.4192226&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.602528,
-        -30.41922,
-        "16846",
-        null,
-        6.229,
-        2410.01874,
-        "Rohan Naidu"
-    ],
-    [
-        "j001424.61m302509.24",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60252998&dec=-30.4192324&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60252998&dec=-30.4192324&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.60253,
@@ -18354,6 +18354,19 @@
         6.229,
         2301.12825,
         "Kimihiko Nakajima"
+    ],
+    [
+        "j001424.61m302509.24",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60252798&dec=-30.4192226&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60252798&dec=-30.4192226&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.602528,
+        -30.41922,
+        "16846",
+        null,
+        6.229,
+        2410.01874,
+        "Rohan Naidu"
     ],
     [
         "j001424.63m302157.67",
@@ -18462,19 +18475,6 @@
     [
         "j001424.76m302456.55",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60310698&dec=-30.4157419&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60310698&dec=-30.4157419&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.603107,
-        -30.41574,
-        "18306",
-        null,
-        null,
-        2410.01874,
-        "Rohan Naidu"
-    ],
-    [
-        "j001424.76m302456.55",
-        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60318038&dec=-30.4157094&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60318038&dec=-30.4157094&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.60318,
@@ -18484,6 +18484,19 @@
         3.951,
         2301.12825,
         "Kimihiko Nakajima"
+    ],
+    [
+        "j001424.76m302456.55",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60310698&dec=-30.4157419&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60310698&dec=-30.4157419&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.603107,
+        -30.41574,
+        "18306",
+        null,
+        null,
+        2410.01874,
+        "Rohan Naidu"
     ],
     [
         "j001424.76m302456.55",
@@ -18553,6 +18566,32 @@
     [
         "j001424.93m302256.05",
         5,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60385448&dec=-30.3822365&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60385448&dec=-30.3822365&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.603854,
+        -30.38224,
+        "YD4",
+        null,
+        7.876,
+        2211.09097,
+        "Takahiro Morishita"
+    ],
+    [
+        "j001424.93m302256.05",
+        5,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.6038458&dec=-30.3822348&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.6038458&dec=-30.3822348&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.603845,
+        -30.38223,
+        "GLASS_100001",
+        null,
+        7.874,
+        2301.12825,
+        "Kimihiko Nakajima"
+    ],
+    [
+        "j001424.93m302256.05",
+        5,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60384098&dec=-30.3822444&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60384098&dec=-30.3822444&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.603841,
@@ -18575,32 +18614,6 @@
         7.874,
         2301.06811,
         "Yuki Isobe"
-    ],
-    [
-        "j001424.93m302256.05",
-        5,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.6038458&dec=-30.3822348&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.6038458&dec=-30.3822348&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.603845,
-        -30.38223,
-        "GLASS_100001",
-        null,
-        7.874,
-        2301.12825,
-        "Kimihiko Nakajima"
-    ],
-    [
-        "j001424.93m302256.05",
-        5,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60385448&dec=-30.3822365&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60385448&dec=-30.3822365&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.603854,
-        -30.38224,
-        "YD4",
-        null,
-        7.876,
-        2211.09097,
-        "Takahiro Morishita"
     ],
     [
         "j001424.93m302256.05",
@@ -18696,19 +18709,6 @@
     [
         "j001425.08m302249.69",
         4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.604528&dec=-30.38047&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.604528&dec=-30.38047&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.60452,
-        -30.38047,
-        "GLASSz8-1",
-        7.9,
-        8.04,
-        2207.11387,
-        "Guido Roberts-Borsani"
-    ],
-    [
-        "j001425.08m302249.69",
-        4,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60450898&dec=-30.3804439&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.60450898&dec=-30.3804439&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.604509,
@@ -18731,6 +18731,19 @@
         7.88,
         2211.09097,
         "Takahiro Morishita"
+    ],
+    [
+        "j001425.08m302249.69",
+        4,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.604528&dec=-30.38047&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.604528&dec=-30.38047&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.60452,
+        -30.38047,
+        "GLASSz8-1",
+        7.9,
+        8.04,
+        2207.11387,
+        "Guido Roberts-Borsani"
     ],
     [
         "j001425.09m302433.65",
@@ -21686,19 +21699,6 @@
     [
         "j001428.95m302359.82",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.6206128&dec=-30.399949&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.6206128&dec=-30.399949&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.620612,
-        -30.39995,
-        "UNCOVER-9358",
-        -1.0,
-        6.34,
-        2404.03576,
-        "Dale Kocevski"
-    ],
-    [
-        "j001428.95m302359.82",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.62060718&dec=-30.399951&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.62060718&dec=-30.399951&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.620607,
@@ -21708,6 +21708,19 @@
         null,
         2410.01874,
         "Rohan Naidu"
+    ],
+    [
+        "j001428.95m302359.82",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.6206128&dec=-30.399949&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.6206128&dec=-30.399949&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.620612,
+        -30.39995,
+        "UNCOVER-9358",
+        -1.0,
+        6.34,
+        2404.03576,
+        "Dale Kocevski"
     ],
     [
         "j001428.96m302227.36",
@@ -22453,19 +22466,6 @@
     [
         "j001432.87m302422.89",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.63696288&dec=-30.4063616&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.63696288&dec=-30.4063616&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        3.636963,
-        -30.40636,
-        "23000",
-        null,
-        null,
-        2410.01874,
-        "Rohan Naidu"
-    ],
-    [
-        "j001432.87m302422.89",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.6369658&dec=-30.406357&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.6369658&dec=-30.406357&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         3.636965,
@@ -22475,6 +22475,19 @@
         -1.0,
         2404.03576,
         "Dale Kocevski"
+    ],
+    [
+        "j001432.87m302422.89",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.63696288&dec=-30.4063616&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=3.63696288&dec=-30.4063616&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        3.636963,
+        -30.40636,
+        "23000",
+        null,
+        null,
+        2410.01874,
+        "Rohan Naidu"
     ],
     [
         "j001433.01m302351.30",
@@ -25625,15 +25638,15 @@
     [
         "j033226.50m274832.13",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.110416658&dec=-27.8089242&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.110416658&dec=-27.8089242&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.110417,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.110418&dec=-27.80892&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.110418&dec=-27.80892&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.11041,
         -27.80892,
         "6002",
         null,
         5.937,
-        2306.02467,
-        "Andrew Bunker"
+        2306.04627,
+        "Joris Witstok"
     ],
     [
         "j033226.50m274832.13",
@@ -25651,15 +25664,15 @@
     [
         "j033226.50m274832.13",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.110418&dec=-27.80892&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.110418&dec=-27.80892&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.11041,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.110416658&dec=-27.8089242&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.110416658&dec=-27.8089242&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.110417,
         -27.80892,
         "6002",
         null,
         5.937,
-        2306.04627,
-        "Joris Witstok"
+        2306.02467,
+        "Andrew Bunker"
     ],
     [
         "j033226.51m274825.34",
@@ -25729,19 +25742,6 @@
     [
         "j033226.77m274753.05",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1115398&dec=-27.798072&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1115398&dec=-27.798072&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.111539,
-        -27.79807,
-        "JADES-8646",
-        4.15,
-        -1.0,
-        2404.03576,
-        "Dale Kocevski"
-    ],
-    [
-        "j033226.77m274753.05",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.111548&dec=-27.79807&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.111548&dec=-27.79807&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.11154,
@@ -25751,6 +25751,19 @@
         null,
         2310.01112,
         "Charlotte Simmonds"
+    ],
+    [
+        "j033226.77m274753.05",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1115398&dec=-27.798072&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1115398&dec=-27.798072&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.111539,
+        -27.79807,
+        "JADES-8646",
+        4.15,
+        -1.0,
+        2404.03576,
+        "Dale Kocevski"
     ],
     [
         "j033226.78m274604.31",
@@ -25898,19 +25911,6 @@
     [
         "j033227.24m274622.21",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.11351138&dec=-27.7728361&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.11351138&dec=-27.7728361&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.113511,
-        -27.77284,
-        "10056849",
-        null,
-        5.814,
-        2306.02467,
-        "Andrew Bunker"
-    ],
-    [
-        "j033227.24m274622.21",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.113518&dec=-27.77284&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.113518&dec=-27.77284&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.11351,
@@ -25920,6 +25920,19 @@
         5.814,
         2306.04627,
         "Joris Witstok"
+    ],
+    [
+        "j033227.24m274622.21",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.11351138&dec=-27.7728361&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.11351138&dec=-27.7728361&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.113511,
+        -27.77284,
+        "10056849",
+        null,
+        5.814,
+        2306.02467,
+        "Andrew Bunker"
     ],
     [
         "j033227.24m274745.42",
@@ -25963,19 +25976,6 @@
     [
         "j033227.34m274745.04",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.113921148&dec=-27.79584467&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.113921148&dec=-27.79584467&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.113921,
-        -27.79584,
-        "9992",
-        null,
-        1.962,
-        2306.02467,
-        "Andrew Bunker"
-    ],
-    [
-        "j033227.34m274745.04",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1139228239320648&dec=-27.79584318902934&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1139228239320648&dec=-27.79584318902934&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.113923,
@@ -25985,6 +25985,19 @@
         -9999.0,
         2306.02468,
         "Kevin Hainline"
+    ],
+    [
+        "j033227.34m274745.04",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.113921148&dec=-27.79584467&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.113921148&dec=-27.79584467&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.113921,
+        -27.79584,
+        "9992",
+        null,
+        1.962,
+        2306.02467,
+        "Andrew Bunker"
     ],
     [
         "j033227.34m274822.32",
@@ -26119,19 +26132,6 @@
     [
         "j033227.69m274853.19",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.115388&dec=-27.81477&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.115388&dec=-27.81477&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.11538,
-        -27.81477,
-        "JADES-GS+53.11538-27.81477",
-        5.76,
-        null,
-        2310.01112,
-        "Charlotte Simmonds"
-    ],
-    [
-        "j033227.69m274853.19",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.115379128&dec=-27.81477397&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.115379128&dec=-27.81477397&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.115379,
@@ -26141,6 +26141,19 @@
         5.763,
         2306.02467,
         "Andrew Bunker"
+    ],
+    [
+        "j033227.69m274853.19",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.115388&dec=-27.81477&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.115388&dec=-27.81477&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.11538,
+        -27.81477,
+        "JADES-GS+53.11538-27.81477",
+        5.76,
+        null,
+        2310.01112,
+        "Charlotte Simmonds"
     ],
     [
         "j033227.70m274744.95",
@@ -26561,19 +26574,6 @@
     [
         "j033228.60m274850.64",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.119122968&dec=-27.81403818&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.119122968&dec=-27.81403818&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.119123,
-        -27.81404,
-        "4493",
-        null,
-        3.592,
-        2306.02467,
-        "Andrew Bunker"
-    ],
-    [
-        "j033228.60m274850.64",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.119158&dec=-27.814066&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.119158&dec=-27.814066&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.11915,
@@ -26583,6 +26583,19 @@
         null,
         2106.13246,
         "Carlos Gomez-Guijarro"
+    ],
+    [
+        "j033228.60m274850.64",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.119122968&dec=-27.81403818&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.119122968&dec=-27.81403818&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.119123,
+        -27.81404,
+        "4493",
+        null,
+        3.592,
+        2306.02467,
+        "Andrew Bunker"
     ],
     [
         "j033228.64m274756.51",
@@ -26912,15 +26925,15 @@
     [
         "j033229.22m274751.50",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.121758&dec=-27.79763&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.121758&dec=-27.79763&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.12175,
-        -27.79763,
-        "9422",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.121768&dec=-27.79764&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.121768&dec=-27.79764&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.12176,
+        -27.79764,
+        "JADES-GS+53.12176-27.79764",
+        5.93,
         null,
-        5.937,
-        2306.04627,
-        "Joris Witstok"
+        2310.01112,
+        "Charlotte Simmonds"
     ],
     [
         "j033229.22m274751.50",
@@ -26938,15 +26951,15 @@
     [
         "j033229.22m274751.50",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.121768&dec=-27.79764&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.121768&dec=-27.79764&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.12176,
-        -27.79764,
-        "JADES-GS+53.12176-27.79764",
-        5.93,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.121758&dec=-27.79763&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.121758&dec=-27.79763&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.12175,
+        -27.79763,
+        "9422",
         null,
-        2310.01112,
-        "Charlotte Simmonds"
+        5.937,
+        2306.04627,
+        "Joris Witstok"
     ],
     [
         "j033229.25m274510.00",
@@ -27094,19 +27107,6 @@
     [
         "j033229.52m274747.81",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.123018&dec=-27.79661&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.123018&dec=-27.79661&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.12301,
-        -27.79661,
-        "JADES-GS+53.12301-27.79661",
-        5.44,
-        null,
-        2310.01112,
-        "Charlotte Simmonds"
-    ],
-    [
-        "j033229.52m274747.81",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.123005868&dec=-27.79661481&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.123005868&dec=-27.79661481&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.123006,
@@ -27116,6 +27116,19 @@
         5.44,
         2306.02467,
         "Andrew Bunker"
+    ],
+    [
+        "j033229.52m274747.81",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.123018&dec=-27.79661&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.123018&dec=-27.79661&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.12301,
+        -27.79661,
+        "JADES-GS+53.12301-27.79661",
+        5.44,
+        null,
+        2310.01112,
+        "Charlotte Simmonds"
     ],
     [
         "j033229.52m274806.33",
@@ -27263,19 +27276,6 @@
     [
         "j033229.79m274756.88",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.124138&dec=-27.79913&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.124138&dec=-27.79913&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.12413,
-        -27.79913,
-        "JADES-GS+53.12413-27.79913",
-        4.03,
-        null,
-        2310.01112,
-        "Charlotte Simmonds"
-    ],
-    [
-        "j033229.79m274756.88",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.12412688&dec=-27.79913359&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.12412688&dec=-27.79913359&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.124127,
@@ -27285,6 +27285,19 @@
         4.035,
         2306.02467,
         "Andrew Bunker"
+    ],
+    [
+        "j033229.79m274756.88",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.124138&dec=-27.79913&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.124138&dec=-27.79913&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.12413,
+        -27.79913,
+        "JADES-GS+53.12413-27.79913",
+        4.03,
+        null,
+        2310.01112,
+        "Charlotte Simmonds"
     ],
     [
         "j033229.83m274859.55",
@@ -27549,6 +27562,19 @@
     [
         "j033230.37m274905.13",
         3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.126548&dec=-27.81809&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.126548&dec=-27.81809&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.12654,
+        -27.81809,
+        "JADES-GS+53.12654-27.81809",
+        5.92,
+        null,
+        2310.01112,
+        "Charlotte Simmonds"
+    ],
+    [
+        "j033230.37m274905.13",
+        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1265378&dec=-27.818091&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1265378&dec=-27.818091&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.126537,
@@ -27571,19 +27597,6 @@
         5.92,
         2306.02467,
         "Andrew Bunker"
-    ],
-    [
-        "j033230.37m274905.13",
-        3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.126548&dec=-27.81809&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.126548&dec=-27.81809&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.12654,
-        -27.81809,
-        "JADES-GS+53.12654-27.81809",
-        5.92,
-        null,
-        2310.01112,
-        "Charlotte Simmonds"
     ],
     [
         "j033230.39m274903.83",
@@ -27900,19 +27913,6 @@
     [
         "j033230.90m274752.35",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.12873668&dec=-27.79787502&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.12873668&dec=-27.79787502&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.128737,
-        -27.79788,
-        "9343",
-        null,
-        5.443,
-        2306.02467,
-        "Andrew Bunker"
-    ],
-    [
-        "j033230.90m274752.35",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.128748&dec=-27.79788&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.128748&dec=-27.79788&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.12874,
@@ -27922,6 +27922,19 @@
         null,
         2310.01112,
         "Charlotte Simmonds"
+    ],
+    [
+        "j033230.90m274752.35",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.12873668&dec=-27.79787502&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.12873668&dec=-27.79787502&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.128737,
+        -27.79788,
+        "9343",
+        null,
+        5.443,
+        2306.02467,
+        "Andrew Bunker"
     ],
     [
         "j033230.95m274857.64",
@@ -28693,19 +28706,6 @@
     [
         "j033232.38m274621.76",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.13491818&dec=-27.77271095&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.13491818&dec=-27.77271095&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.134918,
-        -27.77271,
-        "18846",
-        null,
-        6.335,
-        2306.02467,
-        "Andrew Bunker"
-    ],
-    [
-        "j033232.38m274621.76",
-        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.134928&dec=-27.77271&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.134928&dec=-27.77271&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.13492,
@@ -28715,6 +28715,19 @@
         null,
         2310.01112,
         "Charlotte Simmonds"
+    ],
+    [
+        "j033232.38m274621.76",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.13491818&dec=-27.77271095&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.13491818&dec=-27.77271095&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.134918,
+        -27.77271,
+        "18846",
+        null,
+        6.335,
+        2306.02467,
+        "Andrew Bunker"
     ],
     [
         "j033232.42m274729.79",
@@ -28784,19 +28797,6 @@
     [
         "j033232.55m274730.65",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.135632754405628&dec=-27.791848483031387&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.135632754405628&dec=-27.791848483031387&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.135633,
-        -27.79185,
-        "JADES-GS-53.13563-27.79185",
-        8.02,
-        7.758,
-        2306.02468,
-        "Kevin Hainline"
-    ],
-    [
-        "j033232.55m274730.65",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.135638&dec=-27.79185&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.135638&dec=-27.79185&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.13563,
@@ -28806,6 +28806,19 @@
         null,
         2310.01112,
         "Charlotte Simmonds"
+    ],
+    [
+        "j033232.55m274730.65",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.135632754405628&dec=-27.791848483031387&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.135632754405628&dec=-27.791848483031387&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.135633,
+        -27.79185,
+        "JADES-GS-53.13563-27.79185",
+        8.02,
+        7.758,
+        2306.02468,
+        "Kevin Hainline"
     ],
     [
         "j033232.62m274649.53",
@@ -29421,19 +29434,6 @@
     [
         "j033233.82m274622.06",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.140913481985678&dec=-27.772794218761767&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.140913481985678&dec=-27.772794218761767&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.140913,
-        -27.77279,
-        "JADES-GS-53.14091-27.77279",
-        8.92,
-        -9999.0,
-        2306.02468,
-        "Kevin Hainline"
-    ],
-    [
-        "j033233.82m274622.06",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.140918&dec=-27.77279&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.140918&dec=-27.77279&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.14091,
@@ -29443,6 +29443,19 @@
         null,
         2310.01112,
         "Charlotte Simmonds"
+    ],
+    [
+        "j033233.82m274622.06",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.140913481985678&dec=-27.772794218761767&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.140913481985678&dec=-27.772794218761767&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.140913,
+        -27.77279,
+        "JADES-GS-53.14091-27.77279",
+        8.92,
+        -9999.0,
+        2306.02468,
+        "Kevin Hainline"
     ],
     [
         "j033233.84m274941.71",
@@ -30253,19 +30266,6 @@
     [
         "j033235.00m274921.87",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.145858&dec=-27.82274&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.145858&dec=-27.82274&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.14585,
-        -27.82274,
-        "JADES-GS+53.14585-27.82274",
-        8.22,
-        null,
-        2310.01112,
-        "Charlotte Simmonds"
-    ],
-    [
-        "j033235.00m274921.87",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1458491015778958&dec=-27.822740402581797&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1458491015778958&dec=-27.822740402581797&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.145849,
@@ -30275,6 +30275,19 @@
         8.223,
         2306.02468,
         "Kevin Hainline"
+    ],
+    [
+        "j033235.00m274921.87",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.145858&dec=-27.82274&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.145858&dec=-27.82274&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.14585,
+        -27.82274,
+        "JADES-GS+53.14585-27.82274",
+        8.22,
+        null,
+        2310.01112,
+        "Charlotte Simmonds"
     ],
     [
         "j033235.02m274922.05",
@@ -31072,6 +31085,19 @@
     [
         "j033235.97m274635.40",
         3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.149881868&dec=-27.77650239&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.149881868&dec=-27.77650239&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.149882,
+        -27.7765,
+        "17400",
+        null,
+        13.2,
+        2306.02467,
+        "Andrew Bunker"
+    ],
+    [
+        "j033235.97m274635.40",
+        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.149888&dec=-27.7765&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.149888&dec=-27.7765&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.14988,
@@ -31094,19 +31120,6 @@
         13.274,
         2306.02468,
         "Kevin Hainline"
-    ],
-    [
-        "j033235.97m274635.40",
-        3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.149881868&dec=-27.77650239&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.149881868&dec=-27.77650239&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.149882,
-        -27.7765,
-        "17400",
-        null,
-        13.2,
-        2306.02467,
-        "Andrew Bunker"
     ],
     [
         "j033235.97m274838.66",
@@ -32476,19 +32489,6 @@
     [
         "j033237.32m274814.01",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.155486078&dec=-27.80389054&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.155486078&dec=-27.80389054&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.155486,
-        -27.80389,
-        "7507",
-        null,
-        4.044,
-        2306.02467,
-        "Andrew Bunker"
-    ],
-    [
-        "j033237.32m274814.01",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.155498&dec=-27.80389&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.155498&dec=-27.80389&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.15549,
@@ -32498,6 +32498,19 @@
         null,
         2310.01112,
         "Charlotte Simmonds"
+    ],
+    [
+        "j033237.32m274814.01",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.155486078&dec=-27.80389054&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.155486078&dec=-27.80389054&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.155486,
+        -27.80389,
+        "7507",
+        null,
+        4.044,
+        2306.02467,
+        "Andrew Bunker"
     ],
     [
         "j033237.34m274719.46",
@@ -32567,6 +32580,19 @@
     [
         "j033237.39m274854.75",
         3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.155798&dec=-27.8152&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.155798&dec=-27.8152&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.15579,
+        -27.8152,
+        "4297",
+        null,
+        6.712,
+        2306.04627,
+        "Joris Witstok"
+    ],
+    [
+        "j033237.39m274854.75",
+        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.155793698&dec=-27.81520893&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.155793698&dec=-27.81520893&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.155794,
@@ -32589,19 +32615,6 @@
         null,
         2310.01112,
         "Charlotte Simmonds"
-    ],
-    [
-        "j033237.39m274854.75",
-        3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.155798&dec=-27.8152&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.155798&dec=-27.8152&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.15579,
-        -27.8152,
-        "4297",
-        null,
-        6.712,
-        2306.04627,
-        "Joris Witstok"
     ],
     [
         "j033237.40m274600.19",
@@ -32762,19 +32775,6 @@
     [
         "j033237.52m274952.62",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.156338&dec=-27.83128&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.156338&dec=-27.83128&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.15633,
-        -27.83128,
-        "JADES-GS+53.15633-27.83128",
-        8.55,
-        null,
-        2310.01112,
-        "Charlotte Simmonds"
-    ],
-    [
-        "j033237.52m274952.62",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.15632787142498&dec=-27.831282691258384&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.15632787142498&dec=-27.831282691258384&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.156328,
@@ -32784,6 +32784,19 @@
         7.923,
         2306.02468,
         "Kevin Hainline"
+    ],
+    [
+        "j033237.52m274952.62",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.156338&dec=-27.83128&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.156338&dec=-27.83128&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.15633,
+        -27.83128,
+        "JADES-GS+53.15633-27.83128",
+        8.55,
+        null,
+        2310.01112,
+        "Charlotte Simmonds"
     ],
     [
         "j033237.53m274454.40",
@@ -32918,19 +32931,6 @@
     [
         "j033237.64m274601.78",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.156826998&dec=-27.76716182&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.156826998&dec=-27.76716182&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.156827,
-        -27.76716,
-        "21842",
-        null,
-        7.98,
-        2306.02467,
-        "Andrew Bunker"
-    ],
-    [
-        "j033237.64m274601.78",
-        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.156828&dec=-27.76716&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.156828&dec=-27.76716&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.15682,
@@ -32953,6 +32953,19 @@
         null,
         2310.01112,
         "Charlotte Simmonds"
+    ],
+    [
+        "j033237.64m274601.78",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.156826998&dec=-27.76716182&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.156826998&dec=-27.76716182&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.156827,
+        -27.76716,
+        "21842",
+        null,
+        7.98,
+        2306.02467,
+        "Andrew Bunker"
     ],
     [
         "j033237.66m274846.29",
@@ -33373,19 +33386,6 @@
     [
         "j033238.00m274826.07",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.158338&dec=-27.80724&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.158338&dec=-27.80724&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.15833,
-        -27.80724,
-        "JADES-GS+53.15833-27.80724",
-        4.24,
-        null,
-        2310.01112,
-        "Charlotte Simmonds"
-    ],
-    [
-        "j033238.00m274826.07",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.158326558&dec=-27.80724074&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.158326558&dec=-27.80724074&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.158327,
@@ -33395,6 +33395,19 @@
         4.238,
         2306.02467,
         "Andrew Bunker"
+    ],
+    [
+        "j033238.00m274826.07",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.158338&dec=-27.80724&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.158338&dec=-27.80724&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.15833,
+        -27.80724,
+        "JADES-GS+53.15833-27.80724",
+        4.24,
+        null,
+        2310.01112,
+        "Charlotte Simmonds"
     ],
     [
         "j033238.01m274427.31",
@@ -33490,32 +33503,6 @@
     [
         "j033238.12m274624.30",
         4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.158833333333338&dec=-27.773416666666666&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.158833333333338&dec=-27.773416666666666&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.158833,
-        -27.77342,
-        "XDFj-38126243",
-        null,
-        null,
-        1710.11131,
-        "Pascal Oesch"
-    ],
-    [
-        "j033238.12m274624.30",
-        4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.158828765498838&dec=-27.77349774802844&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.158828765498838&dec=-27.77349774802844&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.158829,
-        -27.7735,
-        "JADES-GS-53.15883-27.7735",
-        10.84,
-        10.42,
-        2306.02468,
-        "Kevin Hainline"
-    ],
-    [
-        "j033238.12m274624.30",
-        4,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.158833368&dec=-27.77349458&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.158833368&dec=-27.77349458&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.158833,
@@ -33538,6 +33525,32 @@
         10.38,
         2212.04568,
         "Emma Curtis-Lake"
+    ],
+    [
+        "j033238.12m274624.30",
+        4,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.158828765498838&dec=-27.77349774802844&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.158828765498838&dec=-27.77349774802844&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.158829,
+        -27.7735,
+        "JADES-GS-53.15883-27.7735",
+        10.84,
+        10.42,
+        2306.02468,
+        "Kevin Hainline"
+    ],
+    [
+        "j033238.12m274624.30",
+        4,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.158833333333338&dec=-27.773416666666666&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.158833333333338&dec=-27.773416666666666&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.158833,
+        -27.77342,
+        "XDFj-38126243",
+        null,
+        null,
+        1710.11131,
+        "Pascal Oesch"
     ],
     [
         "j033238.12m274928.48",
@@ -33802,6 +33815,19 @@
     [
         "j033238.55m274617.80",
         3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.160622998&dec=-27.77161072&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.160622998&dec=-27.77161072&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.160623,
+        -27.77161,
+        "19342",
+        null,
+        5.974,
+        2306.02467,
+        "Andrew Bunker"
+    ],
+    [
+        "j033238.55m274617.80",
+        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.160628&dec=-27.77161&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.160628&dec=-27.77161&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.16062,
@@ -33824,19 +33850,6 @@
         null,
         2310.01112,
         "Charlotte Simmonds"
-    ],
-    [
-        "j033238.55m274617.80",
-        3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.160622998&dec=-27.77161072&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.160622998&dec=-27.77161072&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.160623,
-        -27.77161,
-        "19342",
-        null,
-        5.974,
-        2306.02467,
-        "Andrew Bunker"
     ],
     [
         "j033238.55m274634.63",
@@ -34491,19 +34504,6 @@
     [
         "j033239.07m274539.02",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.16288&dec=-27.76084&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.16288&dec=-27.76084&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.1628,
-        -27.76084,
-        "9365",
-        null,
-        5.917,
-        2306.04627,
-        "Joris Witstok"
-    ],
-    [
-        "j033239.07m274539.02",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.162798&dec=-27.76084&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.162798&dec=-27.76084&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.16279,
@@ -34513,6 +34513,19 @@
         null,
         2310.01112,
         "Charlotte Simmonds"
+    ],
+    [
+        "j033239.07m274539.02",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.16288&dec=-27.76084&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.16288&dec=-27.76084&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.1628,
+        -27.76084,
+        "9365",
+        null,
+        5.917,
+        2306.04627,
+        "Joris Witstok"
     ],
     [
         "j033239.07m275022.96",
@@ -34751,19 +34764,6 @@
     [
         "j033239.47m274807.87",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.164478&dec=-27.80219&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.164478&dec=-27.80219&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.16447,
-        -27.80219,
-        "JADES-GS+53.16447-27.80219",
-        8.47,
-        null,
-        2310.01112,
-        "Charlotte Simmonds"
-    ],
-    [
-        "j033239.47m274807.87",
-        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.164466468&dec=-27.80218658&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.164466468&dec=-27.80218658&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.164466,
@@ -34773,6 +34773,19 @@
         8.473,
         2306.02467,
         "Andrew Bunker"
+    ],
+    [
+        "j033239.47m274807.87",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.164478&dec=-27.80219&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.164478&dec=-27.80219&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.16447,
+        -27.80219,
+        "JADES-GS+53.16447-27.80219",
+        8.47,
+        null,
+        2310.01112,
+        "Charlotte Simmonds"
     ],
     [
         "j033239.47m274807.87",
@@ -35349,19 +35362,6 @@
     [
         "j033239.92m274917.62",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.166348&dec=-27.82156&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.166348&dec=-27.82156&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.16634,
-        -27.82156,
-        "GS-z12-0",
-        null,
-        12.6,
-        2212.04568,
-        "Emma Curtis-Lake"
-    ],
-    [
-        "j033239.92m274917.62",
-        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.166344148&dec=-27.82155851&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.166344148&dec=-27.82155851&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.166344,
@@ -35371,6 +35371,19 @@
         12.63,
         2306.02467,
         "Andrew Bunker"
+    ],
+    [
+        "j033239.92m274917.62",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.166348&dec=-27.82156&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.166348&dec=-27.82156&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.16634,
+        -27.82156,
+        "GS-z12-0",
+        null,
+        12.6,
+        2212.04568,
+        "Emma Curtis-Lake"
     ],
     [
         "j033239.92m274917.62",
@@ -35661,19 +35674,6 @@
     [
         "j033240.13m274628.53",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.167198&dec=-27.77459&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.167198&dec=-27.77459&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.16719,
-        -27.77459,
-        "JADES-GS+53.16719-27.77459",
-        4.77,
-        null,
-        2310.01112,
-        "Charlotte Simmonds"
-    ],
-    [
-        "j033240.13m274628.53",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.167194898&dec=-27.77459121&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.167194898&dec=-27.77459121&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.167195,
@@ -35683,6 +35683,19 @@
         4.775,
         2306.02467,
         "Andrew Bunker"
+    ],
+    [
+        "j033240.13m274628.53",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.167198&dec=-27.77459&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.167198&dec=-27.77459&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.16719,
+        -27.77459,
+        "JADES-GS+53.16719-27.77459",
+        4.77,
+        null,
+        2310.01112,
+        "Charlotte Simmonds"
     ],
     [
         "j033240.13m274937.24",
@@ -35765,19 +35778,6 @@
     [
         "j033240.17m274827.03",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.16735722970238&dec=-27.807507523105684&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.16735722970238&dec=-27.807507523105684&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.167357,
-        -27.80751,
-        "JADES-GS-53.16736-27.80751",
-        9.54,
-        9.691,
-        2306.02468,
-        "Kevin Hainline"
-    ],
-    [
-        "j033240.17m274827.03",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.167355798&dec=-27.80750892&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.167355798&dec=-27.80750892&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.167356,
@@ -35787,6 +35787,19 @@
         9.689,
         2306.02467,
         "Andrew Bunker"
+    ],
+    [
+        "j033240.17m274827.03",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.16735722970238&dec=-27.807507523105684&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.16735722970238&dec=-27.807507523105684&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.167357,
+        -27.80751,
+        "JADES-GS-53.16736-27.80751",
+        9.54,
+        9.691,
+        2306.02468,
+        "Kevin Hainline"
     ],
     [
         "j033240.18m274543.42",
@@ -35843,19 +35856,6 @@
     [
         "j033240.19m274619.20",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.167468&dec=-27.77201&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.167468&dec=-27.77201&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.16746,
-        -27.77201,
-        "10013682",
-        null,
-        7.276,
-        2306.04627,
-        "Joris Witstok"
-    ],
-    [
-        "j033240.19m274619.20",
-        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.167448518&dec=-27.7720341&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.167448518&dec=-27.7720341&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.167449,
@@ -35865,6 +35865,19 @@
         7.275,
         2306.02467,
         "Andrew Bunker"
+    ],
+    [
+        "j033240.19m274619.20",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.167468&dec=-27.77201&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.167468&dec=-27.77201&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.16746,
+        -27.77201,
+        "10013682",
+        null,
+        7.276,
+        2306.04627,
+        "Joris Witstok"
     ],
     [
         "j033240.19m274619.20",
@@ -36116,6 +36129,19 @@
     [
         "j033240.49m274854.51",
         3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.168718&dec=-27.81521&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.168718&dec=-27.81521&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.16871,
+        -27.81521,
+        "JADES-GS+53.16871-27.81521",
+        4.34,
+        null,
+        2310.01112,
+        "Charlotte Simmonds"
+    ],
+    [
+        "j033240.49m274854.51",
+        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.168738&dec=-27.81514&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.168738&dec=-27.81514&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.16873,
@@ -36138,19 +36164,6 @@
         4.023,
         2306.02467,
         "Andrew Bunker"
-    ],
-    [
-        "j033240.49m274854.51",
-        3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.168718&dec=-27.81521&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.168718&dec=-27.81521&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.16871,
-        -27.81521,
-        "JADES-GS+53.16871-27.81521",
-        4.34,
-        null,
-        2310.01112,
-        "Charlotte Simmonds"
     ],
     [
         "j033240.50m274901.11",
@@ -37533,19 +37546,6 @@
     [
         "j033242.25m274902.62",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.176038&dec=-27.8174&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.176038&dec=-27.8174&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.17603,
-        -27.8174,
-        "JADES-GS+53.17603-27.81740",
-        8.9,
-        null,
-        2310.01112,
-        "Charlotte Simmonds"
-    ],
-    [
-        "j033242.25m274902.62",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1760296948081368&dec=-27.81739425272271&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1760296948081368&dec=-27.81739425272271&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.17603,
@@ -37555,6 +37555,19 @@
         -9999.0,
         2306.02468,
         "Kevin Hainline"
+    ],
+    [
+        "j033242.25m274902.62",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.176038&dec=-27.8174&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.176038&dec=-27.8174&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.17603,
+        -27.8174,
+        "JADES-GS+53.17603-27.81740",
+        8.9,
+        null,
+        2310.01112,
+        "Charlotte Simmonds"
     ],
     [
         "j033242.27m274543.16",
@@ -37598,6 +37611,19 @@
     [
         "j033242.38m274616.07",
         4,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.176568188&dec=-27.77113109&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.176568188&dec=-27.77113109&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.176568,
+        -27.77113,
+        "19606",
+        null,
+        5.889,
+        2306.02467,
+        "Andrew Bunker"
+    ],
+    [
+        "j033242.38m274616.07",
+        4,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.176528&dec=-27.77108&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.176528&dec=-27.77108&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.17652,
@@ -37633,19 +37659,6 @@
         5.889,
         2306.04627,
         "Joris Witstok"
-    ],
-    [
-        "j033242.38m274616.07",
-        4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.176568188&dec=-27.77113109&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.176568188&dec=-27.77113109&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.176568,
-        -27.77113,
-        "19606",
-        null,
-        5.889,
-        2306.02467,
-        "Andrew Bunker"
     ],
     [
         "j033242.39m274631.26",
@@ -38144,19 +38157,6 @@
     [
         "j033243.01m274531.39",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1792188&dec=-27.758732&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1792188&dec=-27.758732&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.179218,
-        -27.75873,
-        "JADES-2632",
-        5.98,
-        -1.0,
-        2404.03576,
-        "Dale Kocevski"
-    ],
-    [
-        "j033243.01m274531.39",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.179228&dec=-27.75872&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.179228&dec=-27.75872&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.17922,
@@ -38166,6 +38166,19 @@
         null,
         2310.01112,
         "Charlotte Simmonds"
+    ],
+    [
+        "j033243.01m274531.39",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1792188&dec=-27.758732&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1792188&dec=-27.758732&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.179218,
+        -27.75873,
+        "JADES-2632",
+        5.98,
+        -1.0,
+        2404.03576,
+        "Dale Kocevski"
     ],
     [
         "j033243.02m274731.85",
@@ -38781,19 +38794,6 @@
     [
         "j033244.05m274612.49",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.183548&dec=-27.77016&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.183548&dec=-27.77016&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.18354,
-        -27.77016,
-        "JADES-GS+53.18354-27.77016",
-        8.38,
-        null,
-        2310.01112,
-        "Charlotte Simmonds"
-    ],
-    [
-        "j033244.05m274612.49",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.183538463642788&dec=-27.770135760499297&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.183538463642788&dec=-27.770135760499297&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.183538,
@@ -38803,6 +38803,19 @@
         8.385,
         2306.02468,
         "Kevin Hainline"
+    ],
+    [
+        "j033244.05m274612.49",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.183548&dec=-27.77016&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.183548&dec=-27.77016&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.18354,
+        -27.77016,
+        "JADES-GS+53.18354-27.77016",
+        8.38,
+        null,
+        2310.01112,
+        "Charlotte Simmonds"
     ],
     [
         "j033244.05m274612.67",
@@ -38989,19 +39002,6 @@
     [
         "j033244.35m274438.58",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.184788&dec=-27.74405&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.184788&dec=-27.74405&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.18478,
-        -27.74405,
-        "JADES-GS+53.18478-27.74405",
-        6.97,
-        null,
-        2310.01112,
-        "Charlotte Simmonds"
-    ],
-    [
-        "j033244.35m274438.58",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1847838&dec=-27.744047&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.1847838&dec=-27.744047&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.184783,
@@ -39011,6 +39011,19 @@
         -1.0,
         2404.03576,
         "Dale Kocevski"
+    ],
+    [
+        "j033244.35m274438.58",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.184788&dec=-27.74405&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.184788&dec=-27.74405&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.18478,
+        -27.74405,
+        "JADES-GS+53.18478-27.74405",
+        6.97,
+        null,
+        2310.01112,
+        "Charlotte Simmonds"
     ],
     [
         "j033244.45m274649.58",
@@ -41056,19 +41069,6 @@
     [
         "j033250.37m274645.40",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.2098841435377358&dec=-27.779278256312317&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.2098841435377358&dec=-27.779278256312317&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        53.209884,
-        -27.77928,
-        "JADES-GS-53.20988-27.77928",
-        8.36,
-        -9999.0,
-        2306.02468,
-        "Kevin Hainline"
-    ],
-    [
-        "j033250.37m274645.40",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.209898&dec=-27.77928&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.209898&dec=-27.77928&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         53.20989,
@@ -41078,6 +41078,19 @@
         null,
         2310.01112,
         "Charlotte Simmonds"
+    ],
+    [
+        "j033250.37m274645.40",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.2098841435377358&dec=-27.779278256312317&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=53.2098841435377358&dec=-27.779278256312317&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        53.209884,
+        -27.77928,
+        "JADES-GS-53.20988-27.77928",
+        8.36,
+        -9999.0,
+        2306.02468,
+        "Kevin Hainline"
     ],
     [
         "j033250.42m274704.09",
@@ -42772,19 +42785,6 @@
     [
         "j072320.15m732604.34",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.833958&dec=-73.43454&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.833958&dec=-73.43454&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        110.83395,
-        -73.43454,
-        "10612",
-        null,
-        7.663,
-        2207.08778,
-        "Adam Carnall"
-    ],
-    [
-        "j072320.15m732604.34",
-        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.83396498&dec=-73.4345232&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.83396498&dec=-73.4345232&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         110.833965,
@@ -42807,6 +42807,19 @@
         null,
         2207.12338,
         "Hakim Atek"
+    ],
+    [
+        "j072320.15m732604.34",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.833958&dec=-73.43454&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.833958&dec=-73.43454&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        110.83395,
+        -73.43454,
+        "10612",
+        null,
+        7.663,
+        2207.08778,
+        "Adam Carnall"
     ],
     [
         "j072321.53m732643.30",
@@ -42850,19 +42863,6 @@
     [
         "j072322.68m732606.29",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.844528&dec=-73.43508&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.844528&dec=-73.43508&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        110.84452,
-        -73.43508,
-        "6355",
-        null,
-        7.665,
-        2207.08778,
-        "Adam Carnall"
-    ],
-    [
-        "j072322.68m732606.29",
-        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.84459428&dec=-73.435059&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.84459428&dec=-73.435059&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         110.844594,
@@ -42874,17 +42874,30 @@
         "Kimihiko Nakajima"
     ],
     [
+        "j072322.68m732606.29",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.844528&dec=-73.43508&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.844528&dec=-73.43508&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        110.84452,
+        -73.43508,
+        "6355",
+        null,
+        7.665,
+        2207.08778,
+        "Adam Carnall"
+    ],
+    [
         "j072326.24m732656.98",
         4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.859383333333338&dec=-73.44915&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.859383333333338&dec=-73.44915&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        110.859383,
-        -73.44915,
-        "SMACS_z10a",
-        9.92,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.85932878&dec=-73.4491656&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.85932878&dec=-73.4491656&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        110.859329,
+        -73.44917,
+        "ERO_04590",
         null,
-        2207.12338,
-        "Hakim Atek"
+        8.496,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j072326.24m732656.98",
@@ -42902,6 +42915,19 @@
     [
         "j072326.24m732656.98",
         4,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.859383333333338&dec=-73.44915&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.859383333333338&dec=-73.44915&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        110.859383,
+        -73.44915,
+        "SMACS_z10a",
+        9.92,
+        null,
+        2207.12338,
+        "Hakim Atek"
+    ],
+    [
+        "j072326.24m732656.98",
+        4,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.859338&dec=-73.44916&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.859338&dec=-73.44916&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         110.85933,
@@ -42911,19 +42937,6 @@
         8.498,
         2207.08778,
         "Adam Carnall"
-    ],
-    [
-        "j072326.24m732656.98",
-        4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.85932878&dec=-73.4491656&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=110.85932878&dec=-73.4491656&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        110.859329,
-        -73.44917,
-        "ERO_04590",
-        null,
-        8.496,
-        2301.12825,
-        "Kimihiko Nakajima"
     ],
     [
         "j072326.27m732638.72",
@@ -44670,19 +44683,6 @@
     [
         "j141855.81p524529.12",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.7325258&dec=52.75809&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.7325258&dec=52.75809&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.732525,
-        52.75809,
-        "80041",
-        10.15,
-        10.01,
-        2304.05378,
-        "Pablo Arrabal Haro"
-    ],
-    [
-        "j141855.81p524529.12",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.73258&dec=52.758072222222225&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.73258&dec=52.758072222222225&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.7325,
@@ -44692,6 +44692,19 @@
         null,
         2304.14469,
         "Derek McLeod"
+    ],
+    [
+        "j141855.81p524529.12",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.7325258&dec=52.75809&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.7325258&dec=52.75809&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.732525,
+        52.75809,
+        "80041",
+        10.15,
+        10.01,
+        2304.05378,
+        "Pablo Arrabal Haro"
     ],
     [
         "j141858.71p524501.13",
@@ -46204,32 +46217,6 @@
     [
         "j141914.19p525206.53",
         4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8091428&dec=52.868484&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8091428&dec=52.868484&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.809142,
-        52.86848,
-        "CEERS-3210",
-        null,
-        5.624,
-        2302.00012,
-        "Dale Kocevski"
-    ],
-    [
-        "j141914.19p525206.53",
-        4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.80914168&dec=52.8684835&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.80914168&dec=52.8684835&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.809142,
-        52.86848,
-        "CEERS_00746",
-        null,
-        5.626,
-        2301.12825,
-        "Kimihiko Nakajima"
-    ],
-    [
-        "j141914.19p525206.53",
-        4,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.80914558&dec=52.86848&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.80914558&dec=52.86848&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.809145,
@@ -46252,6 +46239,32 @@
         5.62,
         2404.03576,
         "Dale Kocevski"
+    ],
+    [
+        "j141914.19p525206.53",
+        4,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8091428&dec=52.868484&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8091428&dec=52.868484&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.809142,
+        52.86848,
+        "CEERS-3210",
+        null,
+        5.624,
+        2302.00012,
+        "Dale Kocevski"
+    ],
+    [
+        "j141914.19p525206.53",
+        4,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.80914168&dec=52.8684835&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.80914168&dec=52.8684835&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.809142,
+        52.86848,
+        "CEERS_00746",
+        null,
+        5.626,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j141914.33p524927.26",
@@ -46386,19 +46399,6 @@
     [
         "j141914.84p524413.60",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8118528&dec=52.73711&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8118528&dec=52.73711&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.811852,
-        52.73711,
-        "80026",
-        9.76,
-        9.77,
-        2304.05378,
-        "Pablo Arrabal Haro"
-    ],
-    [
-        "j141914.84p524413.60",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8118758&dec=52.737119444444446&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8118758&dec=52.737119444444446&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.811875,
@@ -46408,6 +46408,19 @@
         null,
         2304.14469,
         "Derek McLeod"
+    ],
+    [
+        "j141914.84p524413.60",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8118528&dec=52.73711&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8118528&dec=52.73711&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.811852,
+        52.73711,
+        "80026",
+        9.76,
+        9.77,
+        2304.05378,
+        "Pablo Arrabal Haro"
     ],
     [
         "j141914.89p524448.29",
@@ -46490,19 +46503,6 @@
     [
         "j141915.13p525003.30",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.81304583333338&dec=52.834250000000004&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.81304583333338&dec=52.834250000000004&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.813046,
-        52.83425,
-        "CEERS-498",
-        null,
-        7.18,
-        2301.07072,
-        "Mengtao Tang"
-    ],
-    [
-        "j141915.13p525003.30",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8130458&dec=52.834249&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8130458&dec=52.834249&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.813045,
@@ -46512,6 +46512,19 @@
         7.179,
         2301.12825,
         "Kimihiko Nakajima"
+    ],
+    [
+        "j141915.13p525003.30",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.81304583333338&dec=52.834250000000004&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.81304583333338&dec=52.834250000000004&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.813046,
+        52.83425,
+        "CEERS-498",
+        null,
+        7.18,
+        2301.07072,
+        "Mengtao Tang"
     ],
     [
         "j141915.16p525132.35",
@@ -46672,19 +46685,6 @@
     [
         "j141916.11p524454.05",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8171128&dec=52.748343&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8171128&dec=52.748343&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.817112,
-        52.74834,
-        "CEERS-23931",
-        10.21,
-        -1.0,
-        2404.03576,
-        "Dale Kocevski"
-    ],
-    [
-        "j141916.11p524454.05",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.817124999999958&dec=52.74834722222222&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.817124999999958&dec=52.74834722222222&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.817125,
@@ -46694,6 +46694,19 @@
         null,
         2304.14469,
         "Derek McLeod"
+    ],
+    [
+        "j141916.11p524454.05",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8171128&dec=52.748343&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8171128&dec=52.748343&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.817112,
+        52.74834,
+        "CEERS-23931",
+        10.21,
+        -1.0,
+        2404.03576,
+        "Dale Kocevski"
     ],
     [
         "j141916.16p524618.51",
@@ -47313,7 +47326,7 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8296798&dec=52.820773&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.829679,
         52.82077,
-        "aegis-2021002496",
+        "aegis-2020002742",
         null,
         null,
         2403.05506,
@@ -47326,7 +47339,7 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8296798&dec=52.820773&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.829679,
         52.82077,
-        "aegis-2020002742",
+        "aegis-2021002496",
         null,
         null,
         2403.05506,
@@ -47361,19 +47374,6 @@
     [
         "j141919.36p525316.00",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.83066018&dec=52.8877768&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.83066018&dec=52.8877768&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.83066,
-        52.88778,
-        "35300",
-        9.35,
-        null,
-        2207.12446,
-        "Ivo Labbe"
-    ],
-    [
-        "j141919.36p525316.00",
-        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8306888&dec=52.88777&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8306888&dec=52.88777&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.830688,
@@ -47383,6 +47383,19 @@
         -1.0,
         2404.03576,
         "Dale Kocevski"
+    ],
+    [
+        "j141919.36p525316.00",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.83066018&dec=52.8877768&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.83066018&dec=52.8877768&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.83066,
+        52.88778,
+        "35300",
+        9.35,
+        null,
+        2207.12446,
+        "Ivo Labbe"
     ],
     [
         "j141919.36p525316.00",
@@ -47651,11 +47664,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8361978&dec=52.882693&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.836197,
         52.88269,
-        "CEERS-P4M-00397",
+        "CEERS_00397",
         null,
-        6.0,
-        2301.06811,
-        "Yuki Isobe"
+        6.005,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j141920.69p525257.69",
@@ -47677,11 +47690,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8361978&dec=52.882693&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.836197,
         52.88269,
-        "CEERS_00397",
+        "CEERS-P4M-00397",
         null,
-        6.005,
-        2301.12825,
-        "Kimihiko Nakajima"
+        6.0,
+        2301.06811,
+        "Yuki Isobe"
     ],
     [
         "j141920.71p524913.48",
@@ -47829,19 +47842,6 @@
     [
         "j141921.44p525257.23",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.839316666666638&dec=52.88256388888889&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.839316666666638&dec=52.88256388888889&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.839317,
-        52.88256,
-        "CEERS-407",
-        null,
-        7.028,
-        2301.07072,
-        "Mengtao Tang"
-    ],
-    [
-        "j141921.44p525257.23",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8393168&dec=52.882565&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8393168&dec=52.882565&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.839316,
@@ -47851,6 +47851,19 @@
         7.029,
         2301.12825,
         "Kimihiko Nakajima"
+    ],
+    [
+        "j141921.44p525257.23",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.839316666666638&dec=52.88256388888889&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.839316666666638&dec=52.88256388888889&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.839317,
+        52.88256,
+        "CEERS-407",
+        null,
+        7.028,
+        2301.07072,
+        "Mengtao Tang"
     ],
     [
         "j141921.54p524621.99",
@@ -47937,7 +47950,7 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8403638&dec=52.824962&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.840363,
         52.82496,
-        "aegis-2021002390",
+        "aegis-2020002632",
         null,
         null,
         2403.05506,
@@ -47950,7 +47963,7 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8403638&dec=52.824962&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.840363,
         52.82496,
-        "aegis-2020002632",
+        "aegis-2021002390",
         null,
         null,
         2403.05506,
@@ -47972,19 +47985,6 @@
     [
         "j141921.73p524904.58",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8405438&dec=52.817942&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8405438&dec=52.817942&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.840543,
-        52.81794,
-        "CEERS-13748",
-        -1.0,
-        6.11,
-        2404.03576,
-        "Dale Kocevski"
-    ],
-    [
-        "j141921.73p524904.58",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.84055038&dec=52.8179376&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.84055038&dec=52.8179376&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.84055,
@@ -47994,6 +47994,19 @@
         null,
         2207.12446,
         "Ivo Labbe"
+    ],
+    [
+        "j141921.73p524904.58",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8405438&dec=52.817942&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8405438&dec=52.817942&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.840543,
+        52.81794,
+        "CEERS-13748",
+        -1.0,
+        6.11,
+        2404.03576,
+        "Dale Kocevski"
     ],
     [
         "j141921.87p524702.63",
@@ -48687,19 +48700,6 @@
     [
         "j141926.78p525234.17",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8615948&dec=52.876159&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8615948&dec=52.876159&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.861594,
-        52.87616,
-        "ceers-1345_829",
-        null,
-        7.167,
-        2212.0289,
-        "Kasper Elm Heintz"
-    ],
-    [
-        "j141926.78p525234.17",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.86159398&dec=52.876159&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.86159398&dec=52.876159&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.861594,
@@ -48709,6 +48709,19 @@
         7.167,
         2301.12825,
         "Kimihiko Nakajima"
+    ],
+    [
+        "j141926.78p525234.17",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8615948&dec=52.876159&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8615948&dec=52.876159&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.861594,
+        52.87616,
+        "ceers-1345_829",
+        null,
+        7.167,
+        2212.0289,
+        "Kasper Elm Heintz"
     ],
     [
         "j141926.78p525416.58",
@@ -48921,19 +48934,6 @@
     [
         "j141927.85p525303.52",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8660418&dec=52.884267&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8660418&dec=52.884267&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.866041,
-        52.88427,
-        "52175",
-        3.43,
-        null,
-        2208.00986,
-        "Adam Carnall"
-    ],
-    [
-        "j141927.85p525303.52",
-        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.866058&dec=52.88426&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.866058&dec=52.88426&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.86605,
@@ -48943,6 +48943,19 @@
         3.434,
         2311.04867,
         "Shuowen Jin"
+    ],
+    [
+        "j141927.85p525303.52",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8660418&dec=52.884267&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8660418&dec=52.884267&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.866041,
+        52.88427,
+        "52175",
+        3.43,
+        null,
+        2208.00986,
+        "Adam Carnall"
     ],
     [
         "j141928.14p525012.25",
@@ -49038,19 +49051,6 @@
     [
         "j141929.09p525042.28",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8712298&dec=52.845079&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8712298&dec=52.845079&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.871229,
-        52.84508,
-        "28316",
-        3.7,
-        null,
-        2208.00986,
-        "Adam Carnall"
-    ],
-    [
-        "j141929.09p525042.28",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.871238&dec=52.84507&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.871238&dec=52.84507&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.87123,
@@ -49062,17 +49062,17 @@
         "Shuowen Jin"
     ],
     [
-        "j141929.22p524959.40",
+        "j141929.09p525042.28",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.871778&dec=52.83317&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.871778&dec=52.83317&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.87177,
-        52.83317,
-        "792",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8712298&dec=52.845079&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8712298&dec=52.845079&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.871229,
+        52.84508,
+        "28316",
+        3.7,
         null,
-        6.257,
-        2303.08149,
-        "Ryan Sanders"
+        2208.00986,
+        "Adam Carnall"
     ],
     [
         "j141929.22p524959.40",
@@ -49086,6 +49086,19 @@
         6.257,
         2301.12825,
         "Kimihiko Nakajima"
+    ],
+    [
+        "j141929.22p524959.40",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.871778&dec=52.83317&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.871778&dec=52.83317&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.87177,
+        52.83317,
+        "792",
+        null,
+        6.257,
+        2303.08149,
+        "Ryan Sanders"
     ],
     [
         "j141929.25p525249.55",
@@ -49311,19 +49324,6 @@
     [
         "j141931.92p525025.50",
         4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.88299583333338&dec=52.84041666666667&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.88299583333338&dec=52.84041666666667&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.882996,
-        52.84042,
-        "CEERS-1027",
-        null,
-        7.819,
-        2301.07072,
-        "Mengtao Tang"
-    ],
-    [
-        "j141931.92p525025.50",
-        4,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8829948&dec=52.840416&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8829948&dec=52.840416&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.882994,
@@ -49346,6 +49346,19 @@
         7.825,
         2301.12825,
         "Kimihiko Nakajima"
+    ],
+    [
+        "j141931.92p525025.50",
+        4,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.88299583333338&dec=52.84041666666667&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.88299583333338&dec=52.84041666666667&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.882996,
+        52.84042,
+        "CEERS-1027",
+        null,
+        7.819,
+        2301.07072,
+        "Mengtao Tang"
     ],
     [
         "j141931.92p525025.50",
@@ -49571,19 +49584,6 @@
     [
         "j141933.79p525207.32",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.89078578&dec=52.8686992&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.89078578&dec=52.8686992&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.890786,
-        52.8687,
-        "3788",
-        null,
-        2.296,
-        2306.08605,
-        "Antonello Calabro"
-    ],
-    [
-        "j141933.79p525207.32",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.890798&dec=52.8687&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.890798&dec=52.8687&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.89079,
@@ -49593,6 +49593,19 @@
         2.295,
         2303.08149,
         "Ryan Sanders"
+    ],
+    [
+        "j141933.79p525207.32",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.89078578&dec=52.8686992&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.89078578&dec=52.8686992&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.890786,
+        52.8687,
+        "3788",
+        null,
+        2.296,
+        2306.08605,
+        "Antonello Calabro"
     ],
     [
         "j141933.80p524850.19",
@@ -49961,19 +49974,6 @@
     [
         "j141935.33p525037.86",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8972328&dec=52.843854&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8972328&dec=52.843854&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.897232,
-        52.84385,
-        "CEERS6_7641",
-        8.95,
-        8.998,
-        2301.09482,
-        "Seiji Fujimoto"
-    ],
-    [
-        "j141935.33p525037.86",
-        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.89723333333338&dec=52.843852777777784&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.89723333333338&dec=52.843852777777784&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.897233,
@@ -49983,6 +49983,19 @@
         8.999,
         2301.07072,
         "Mengtao Tang"
+    ],
+    [
+        "j141935.33p525037.86",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8972328&dec=52.843854&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.8972328&dec=52.843854&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.897232,
+        52.84385,
+        "CEERS6_7641",
+        8.95,
+        8.998,
+        2301.09482,
+        "Seiji Fujimoto"
     ],
     [
         "j141935.45p525010.02",
@@ -50234,19 +50247,6 @@
     [
         "j141936.30p525049.19",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.901254166666668&dec=52.84699722222222&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.901254166666668&dec=52.84699722222222&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.901254,
-        52.847,
-        "CEERS-23",
-        null,
-        8.881,
-        2301.07072,
-        "Mengtao Tang"
-    ],
-    [
-        "j141936.30p525049.19",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9012528&dec=52.846997&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9012528&dec=52.846997&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.901252,
@@ -50256,6 +50256,19 @@
         8.88,
         2301.09482,
         "Seiji Fujimoto"
+    ],
+    [
+        "j141936.30p525049.19",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.901254166666668&dec=52.84699722222222&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.901254166666668&dec=52.84699722222222&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.901254,
+        52.847,
+        "CEERS-23",
+        null,
+        8.881,
+        2301.07072,
+        "Mengtao Tang"
     ],
     [
         "j141936.31p525033.84",
@@ -50312,19 +50325,6 @@
     [
         "j141936.54p525621.74",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.90223058&dec=52.9393726&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.90223058&dec=52.9393726&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.902231,
-        52.93937,
-        "21834",
-        10.83,
-        null,
-        2207.12446,
-        "Ivo Labbe"
-    ],
-    [
-        "j141936.54p525621.74",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9022388&dec=52.939369&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9022388&dec=52.939369&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.902238,
@@ -50334,6 +50334,19 @@
         -1.0,
         2404.03576,
         "Dale Kocevski"
+    ],
+    [
+        "j141936.54p525621.74",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.90223058&dec=52.9393726&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.90223058&dec=52.9393726&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.902231,
+        52.93937,
+        "21834",
+        10.83,
+        null,
+        2207.12446,
+        "Ivo Labbe"
     ],
     [
         "j141936.88p525041.69",
@@ -50611,19 +50624,6 @@
     [
         "j141938.19p525613.91",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9091168&dec=52.937205&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9091168&dec=52.937205&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.909116,
-        52.9372,
-        "CEERS-MSA_2",
-        3.4,
-        4.91,
-        2303.15431,
-        "Pablo Arrabal Haro"
-    ],
-    [
-        "j141938.19p525613.91",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.90911528&dec=52.9371977&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.90911528&dec=52.9371977&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.909115,
@@ -50633,6 +50633,19 @@
         null,
         2208.01816,
         "Jorge Zavala"
+    ],
+    [
+        "j141938.19p525613.91",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9091168&dec=52.937205&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9091168&dec=52.937205&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.909116,
+        52.9372,
+        "CEERS-MSA_2",
+        3.4,
+        4.91,
+        2303.15431,
+        "Pablo Arrabal Haro"
     ],
     [
         "j141938.26p524829.98",
@@ -50845,19 +50858,6 @@
     [
         "j141939.48p525634.92",
         4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.914499999999988&dec=52.94303333333333&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.914499999999988&dec=52.94303333333333&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.9145,
-        52.94303,
-        "93316",
-        16.74,
-        null,
-        2207.12356,
-        "Callum Donnan"
-    ],
-    [
-        "j141939.48p525634.92",
-        4,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.914499999999988&dec=52.943041666666666&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.914499999999988&dec=52.943041666666666&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.9145,
@@ -50880,6 +50880,19 @@
         4.912,
         2303.15431,
         "Pablo Arrabal Haro"
+    ],
+    [
+        "j141939.48p525634.92",
+        4,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.914499999999988&dec=52.94303333333333&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.914499999999988&dec=52.94303333333333&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.9145,
+        52.94303,
+        "93316",
+        16.74,
+        null,
+        2207.12356,
+        "Callum Donnan"
     ],
     [
         "j141939.48p525634.92",
@@ -51118,19 +51131,6 @@
     [
         "j141941.46p525441.46",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.922749999999988&dec=52.911516666666664&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.922749999999988&dec=52.911516666666664&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.92275,
-        52.91152,
-        "77241",
-        11.15,
-        null,
-        2207.12356,
-        "Callum Donnan"
-    ],
-    [
-        "j141941.46p525441.46",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9227878&dec=52.911529&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9227878&dec=52.911529&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.922787,
@@ -51140,6 +51140,19 @@
         10.1,
         2303.15431,
         "Pablo Arrabal Haro"
+    ],
+    [
+        "j141941.46p525441.46",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.922749999999988&dec=52.911516666666664&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.922749999999988&dec=52.911516666666664&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.92275,
+        52.91152,
+        "77241",
+        11.15,
+        null,
+        2207.12356,
+        "Callum Donnan"
     ],
     [
         "j141941.61p525507.60",
@@ -51560,19 +51573,6 @@
     [
         "j141944.21p524934.93",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.93420638&dec=52.8263678&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.93420638&dec=52.8263678&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.934206,
-        52.82637,
-        "11088",
-        null,
-        3.303,
-        2306.08605,
-        "Antonello Calabro"
-    ],
-    [
-        "j141944.21p524934.93",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.934218&dec=52.82637&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.934218&dec=52.82637&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.93421,
@@ -51582,6 +51582,19 @@
         3.302,
         2303.08149,
         "Ryan Sanders"
+    ],
+    [
+        "j141944.21p524934.93",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.93420638&dec=52.8263678&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.93420638&dec=52.8263678&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.934206,
+        52.82637,
+        "11088",
+        null,
+        3.303,
+        2306.08605,
+        "Antonello Calabro"
     ],
     [
         "j141944.33p525649.54",
@@ -51772,11 +51785,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9386428&dec=52.911749&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.938642,
         52.91175,
-        "CEERS-MSA_28",
-        8.95,
-        8.763,
-        2303.15431,
-        "Pablo Arrabal Haro"
+        "ceers-2750_28",
+        null,
+        8.762,
+        2306.00647,
+        "Kasper Elm Heintz"
     ],
     [
         "j141945.27p525442.30",
@@ -51785,11 +51798,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9386428&dec=52.911749&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.938642,
         52.91175,
-        "ceers-2750_28",
-        null,
-        8.762,
-        2306.00647,
-        "Kasper Elm Heintz"
+        "CEERS-MSA_28",
+        8.95,
+        8.763,
+        2303.15431,
+        "Pablo Arrabal Haro"
     ],
     [
         "j141945.36p525111.71",
@@ -52617,11 +52630,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9612768&dec=52.842364&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.961276,
         52.84236,
-        "CEERS_80083",
-        null,
-        8.637,
-        2301.12825,
-        "Kimihiko Nakajima"
+        "80083",
+        8.68,
+        8.638,
+        2304.05378,
+        "Pablo Arrabal Haro"
     ],
     [
         "j141950.71p525032.51",
@@ -52630,11 +52643,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9612768&dec=52.842364&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.961276,
         52.84236,
-        "80083",
-        8.68,
-        8.638,
-        2304.05378,
-        "Pablo Arrabal Haro"
+        "CEERS_80083",
+        null,
+        8.637,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j141950.92p525714.99",
@@ -52821,19 +52834,6 @@
     [
         "j141954.53p525626.82",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.977238&dec=52.94078&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.977238&dec=52.94078&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.97723,
-        52.94078,
-        "1536",
-        null,
-        5.033,
-        2303.08149,
-        "Ryan Sanders"
-    ],
-    [
-        "j141954.53p525626.82",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.97722678&dec=52.9407821&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.97722678&dec=52.9407821&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.977227,
@@ -52843,6 +52843,19 @@
         5.036,
         2301.12825,
         "Kimihiko Nakajima"
+    ],
+    [
+        "j141954.53p525626.82",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.977238&dec=52.94078&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.977238&dec=52.94078&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.97723,
+        52.94078,
+        "1536",
+        null,
+        5.033,
+        2303.08149,
+        "Ryan Sanders"
     ],
     [
         "j141954.96p525422.71",
@@ -52890,11 +52903,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.98007798&dec=52.942659&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.980078,
         52.94266,
-        "CEERS-P9M-01539",
+        "CEERS_01539",
         null,
-        4.884,
-        2301.06811,
-        "Yuki Isobe"
+        4.888,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j141955.22p525633.57",
@@ -52903,11 +52916,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.98007798&dec=52.942659&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.980078,
         52.94266,
-        "CEERS_01539",
+        "CEERS-P9M-01539",
         null,
-        4.888,
-        2301.12825,
-        "Kimihiko Nakajima"
+        4.884,
+        2301.06811,
+        "Yuki Isobe"
     ],
     [
         "j141955.64p525928.42",
@@ -53020,11 +53033,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.98523728&dec=52.924259&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.985237,
         52.92426,
-        "CEERS-P9M-01658",
+        "CEERS_01658",
         null,
-        4.604,
-        2301.06811,
-        "Yuki Isobe"
+        4.61,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j141956.46p525527.33",
@@ -53033,11 +53046,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.98523728&dec=52.924259&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.985237,
         52.92426,
-        "CEERS_01658",
+        "CEERS-P9M-01658",
         null,
-        4.61,
-        2301.12825,
-        "Kimihiko Nakajima"
+        4.604,
+        2301.06811,
+        "Yuki Isobe"
     ],
     [
         "j141956.68p525415.17",
@@ -53302,19 +53315,6 @@
     [
         "j141957.71p525819.16",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.990466666666638&dec=52.97198888888889&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.990466666666638&dec=52.97198888888889&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.990467,
-        52.97199,
-        "CEERS-1163",
-        null,
-        7.448,
-        2301.07072,
-        "Mengtao Tang"
-    ],
-    [
-        "j141957.71p525819.16",
-        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9904688&dec=52.97199&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9904688&dec=52.97199&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.990468,
@@ -53324,6 +53324,19 @@
         7.453,
         2212.0289,
         "Kasper Elm Heintz"
+    ],
+    [
+        "j141957.71p525819.16",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.990466666666638&dec=52.97198888888889&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.990466666666638&dec=52.97198888888889&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.990467,
+        52.97199,
+        "CEERS-1163",
+        null,
+        7.448,
+        2301.07072,
+        "Mengtao Tang"
     ],
     [
         "j141957.79p525606.10",
@@ -53640,19 +53653,6 @@
     [
         "j141959.77p525631.12",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9989328&dec=52.942055&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9989328&dec=52.942055&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        214.998932,
-        52.94206,
-        "aegis-2019006308",
-        null,
-        null,
-        2403.05506,
-        "Michael Maseda"
-    ],
-    [
-        "j141959.77p525631.12",
-        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.99905258&dec=52.9419767&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.99905258&dec=52.9419767&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         214.999053,
@@ -53675,6 +53675,19 @@
         7.545,
         2301.07072,
         "Mengtao Tang"
+    ],
+    [
+        "j141959.77p525631.12",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9989328&dec=52.942055&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=214.9989328&dec=52.942055&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        214.998932,
+        52.94206,
+        "aegis-2019006308",
+        null,
+        null,
+        2403.05506,
+        "Michael Maseda"
     ],
     [
         "j141959.80p525823.88",
@@ -53761,6 +53774,19 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.0011158&dec=53.011269&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.001115,
         53.01127,
+        "CEERS_00044",
+        null,
+        7.104,
+        2301.12825,
+        "Kimihiko Nakajima"
+    ],
+    [
+        "j142000.27p530040.57",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.0011158&dec=53.011269&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.0011158&dec=53.011269&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        215.001115,
+        53.01127,
         "ceers-1345_44",
         null,
         7.105,
@@ -53779,19 +53805,6 @@
         7.1,
         2301.07072,
         "Mengtao Tang"
-    ],
-    [
-        "j142000.27p530040.57",
-        3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.0011158&dec=53.011269&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.0011158&dec=53.011269&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        215.001115,
-        53.01127,
-        "CEERS_00044",
-        null,
-        7.104,
-        2301.12825,
-        "Kimihiko Nakajima"
     ],
     [
         "j142000.31p525611.61",
@@ -53913,19 +53926,6 @@
     [
         "j142000.84p525810.34",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.00349148&dec=52.9695391&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.00349148&dec=52.9695391&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        215.003491,
-        52.96954,
-        "CEERS_01477",
-        null,
-        4.631,
-        2301.12825,
-        "Kimihiko Nakajima"
-    ],
-    [
-        "j142000.84p525810.34",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.003498&dec=52.96954&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.003498&dec=52.96954&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.00349,
@@ -53937,17 +53937,17 @@
         "Ryan Sanders"
     ],
     [
-        "j142001.25p525947.69",
-        3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.00518758&dec=52.99658055555555&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.00518758&dec=52.99658055555555&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        215.005188,
-        52.99658,
-        "CEERS-3",
+        "j142000.84p525810.34",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.00349148&dec=52.9695391&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.00349148&dec=52.9695391&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        215.003491,
+        52.96954,
+        "CEERS_01477",
         null,
-        8.0,
-        2301.07072,
-        "Mengtao Tang"
+        4.631,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j142001.25p525947.69",
@@ -53961,6 +53961,19 @@
         8.005,
         2301.12825,
         "Kimihiko Nakajima"
+    ],
+    [
+        "j142001.25p525947.69",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.00518758&dec=52.99658055555555&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.00518758&dec=52.99658055555555&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        215.005188,
+        52.99658,
+        "CEERS-3",
+        null,
+        8.0,
+        2301.07072,
+        "Mengtao Tang"
     ],
     [
         "j142001.25p525947.69",
@@ -54190,11 +54203,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.0117068&dec=52.988303&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.011706,
         52.9883,
-        "CEERS1_6059",
-        9.01,
-        8.876,
-        2301.09482,
-        "Seiji Fujimoto"
+        "CEERS_00007",
+        null,
+        8.873,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j142002.81p525917.89",
@@ -54203,11 +54216,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.0117068&dec=52.988303&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.011706,
         52.9883,
-        "CEERS_00007",
-        null,
-        8.873,
-        2301.12825,
-        "Kimihiko Nakajima"
+        "CEERS1_6059",
+        9.01,
+        8.876,
+        2301.09482,
+        "Seiji Fujimoto"
     ],
     [
         "j142002.83p525418.76",
@@ -54840,11 +54853,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.03539148&dec=52.8906618&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.035391,
         52.89066,
-        "CEERS_01019",
+        "CEERS-P9M-01019",
         null,
-        8.681,
-        2301.12825,
-        "Kimihiko Nakajima"
+        8.679,
+        2301.06811,
+        "Yuki Isobe"
     ],
     [
         "j142008.49p525326.38",
@@ -54879,11 +54892,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.03539148&dec=52.8906618&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.035391,
         52.89066,
-        "CEERS-P9M-01019",
+        "CEERS_01019",
         null,
-        8.679,
-        2301.06811,
-        "Yuki Isobe"
+        8.681,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j142008.53p525648.05",
@@ -55356,15 +55369,15 @@
     [
         "j142012.08p530026.79",
         4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.050328&dec=53.00744&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.050328&dec=53.00744&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        215.05032,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.05031668&dec=53.0074406&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.05031668&dec=53.0074406&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        215.050317,
         53.00744,
-        "698",
+        "CEERS_00698",
         null,
-        7.47,
-        2303.08149,
-        "Ryan Sanders"
+        7.471,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j142012.08p530026.79",
@@ -55382,15 +55395,15 @@
     [
         "j142012.08p530026.79",
         4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.05031668&dec=53.0074406&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.05031668&dec=53.0074406&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        215.050317,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.050328&dec=53.00744&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.050328&dec=53.00744&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        215.05032,
         53.00744,
-        "CEERS_00698",
+        "698",
         null,
-        7.471,
-        2301.12825,
-        "Kimihiko Nakajima"
+        7.47,
+        2303.08149,
+        "Ryan Sanders"
     ],
     [
         "j142012.14p525910.36",
@@ -55590,19 +55603,6 @@
     [
         "j142013.44p530016.31",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.0560068&dec=53.004529&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.0560068&dec=53.004529&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        215.056006,
-        53.00453,
-        "aegis-2018004053",
-        null,
-        null,
-        2403.05506,
-        "Michael Maseda"
-    ],
-    [
-        "j142013.44p530016.31",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.05599568&dec=53.004531&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.05599568&dec=53.004531&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.055996,
@@ -55612,6 +55612,19 @@
         3.331,
         2306.08605,
         "Antonello Calabro"
+    ],
+    [
+        "j142013.44p530016.31",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.0560068&dec=53.004529&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.0560068&dec=53.004529&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        215.056006,
+        53.00453,
+        "aegis-2018004053",
+        null,
+        null,
+        2403.05506,
+        "Michael Maseda"
     ],
     [
         "j142013.57p530048.64",
@@ -56136,19 +56149,6 @@
     [
         "j142018.48p525810.22",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.07700833333338&dec=52.96950555555556&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.07700833333338&dec=52.96950555555556&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        215.077008,
-        52.96951,
-        "CEERS-1143",
-        null,
-        6.928,
-        2301.07072,
-        "Mengtao Tang"
-    ],
-    [
-        "j142018.48p525810.22",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.07700648&dec=52.9695042&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.07700648&dec=52.9695042&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.077006,
@@ -56158,6 +56158,19 @@
         6.93,
         2301.12825,
         "Kimihiko Nakajima"
+    ],
+    [
+        "j142018.48p525810.22",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.07700833333338&dec=52.96950555555556&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.07700833333338&dec=52.96950555555556&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        215.077008,
+        52.96951,
+        "CEERS-1143",
+        null,
+        6.928,
+        2301.07072,
+        "Mengtao Tang"
     ],
     [
         "j142018.67p530023.44",
@@ -56305,19 +56318,6 @@
     [
         "j142020.37p525814.66",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.084878&dec=52.9707382&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.084878&dec=52.9707382&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        215.08487,
-        52.97074,
-        "CEERS_11728",
-        null,
-        3.887,
-        2301.12825,
-        "Kimihiko Nakajima"
-    ],
-    [
-        "j142020.37p525814.66",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.084878&dec=52.97074&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.084878&dec=52.97074&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.08487,
@@ -56327,6 +56327,19 @@
         3.869,
         2303.08149,
         "Ryan Sanders"
+    ],
+    [
+        "j142020.37p525814.66",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.084878&dec=52.9707382&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.084878&dec=52.9707382&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        215.08487,
+        52.97074,
+        "CEERS_11728",
+        null,
+        3.887,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j142020.65p525729.40",
@@ -56409,19 +56422,6 @@
     [
         "j142021.53p525758.26",
         4,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.089718&dec=52.96618&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.089718&dec=52.96618&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        215.08971,
-        52.96618,
-        "1149",
-        null,
-        8.175,
-        2303.08149,
-        "Ryan Sanders"
-    ],
-    [
-        "j142021.53p525758.26",
-        4,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.08971258&dec=52.96618333333333&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.08971258&dec=52.96618333333333&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.089712,
@@ -56444,6 +56444,19 @@
         8.179,
         2301.12825,
         "Kimihiko Nakajima"
+    ],
+    [
+        "j142021.53p525758.26",
+        4,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.089718&dec=52.96618&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.089718&dec=52.96618&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        215.08971,
+        52.96618,
+        "1149",
+        null,
+        8.175,
+        2303.08149,
+        "Ryan Sanders"
     ],
     [
         "j142021.53p525758.26",
@@ -58294,19 +58307,6 @@
     [
         "j142033.27p530003.73",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.13862318&dec=53.0010372&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.13862318&dec=53.0010372&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        215.138623,
-        53.00104,
-        "2900",
-        null,
-        1.901,
-        2306.08605,
-        "Antonello Calabro"
-    ],
-    [
-        "j142033.27p530003.73",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.1386318&dec=53.001039&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.1386318&dec=53.001039&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.138631,
@@ -58316,6 +58316,19 @@
         null,
         2403.05506,
         "Michael Maseda"
+    ],
+    [
+        "j142033.27p530003.73",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.13862318&dec=53.0010372&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.13862318&dec=53.0010372&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        215.138623,
+        53.00104,
+        "2900",
+        null,
+        1.901,
+        2306.08605,
+        "Antonello Calabro"
     ],
     [
         "j142033.28p530523.56",
@@ -58571,11 +58584,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.15420768&dec=52.955847&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.154208,
         52.95585,
-        "CEERS_01173",
+        "CEERS-P8M-01173",
         null,
-        4.997,
-        2301.12825,
-        "Kimihiko Nakajima"
+        4.996,
+        2301.06811,
+        "Yuki Isobe"
     ],
     [
         "j142037.01p525721.05",
@@ -58584,11 +58597,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.15420768&dec=52.955847&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.154208,
         52.95585,
-        "CEERS-P8M-01173",
+        "CEERS_01173",
         null,
-        4.996,
-        2301.06811,
-        "Yuki Isobe"
+        4.997,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j142037.26p530255.68",
@@ -59516,19 +59529,6 @@
     [
         "j142045.22p530201.13",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.18841298&dec=53.0336473&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.18841298&dec=53.0336473&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        215.188413,
-        53.03365,
-        "CEERS_01023",
-        null,
-        7.779,
-        2301.12825,
-        "Kimihiko Nakajima"
-    ],
-    [
-        "j142045.22p530201.13",
-        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.1884138&dec=53.033647&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.1884138&dec=53.033647&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.188413,
@@ -59538,6 +59538,19 @@
         7.789,
         2212.0289,
         "Kasper Elm Heintz"
+    ],
+    [
+        "j142045.22p530201.13",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.18841298&dec=53.0336473&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.18841298&dec=53.0336473&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        215.188413,
+        53.03365,
+        "CEERS_01023",
+        null,
+        7.779,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j142045.22p530201.13",
@@ -59559,11 +59572,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.18873848&dec=53.0643782&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.188738,
         53.06438,
-        "CEERS-P7M-01677",
+        "CEERS_01677",
         null,
-        5.867,
-        2301.06811,
-        "Yuki Isobe"
+        5.872,
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j142045.30p530351.76",
@@ -59572,11 +59585,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.18873848&dec=53.0643782&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.188738,
         53.06438,
-        "CEERS_01677",
+        "CEERS-P7M-01677",
         null,
-        5.872,
-        2301.12825,
-        "Kimihiko Nakajima"
+        5.867,
+        2301.06811,
+        "Yuki Isobe"
     ],
     [
         "j142045.33p530137.33",
@@ -60049,19 +60062,6 @@
     [
         "j142052.50p530411.50",
         3,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.21876258&dec=53.069861111111116&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.21876258&dec=53.069861111111116&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        215.218762,
-        53.06986,
-        "CEERS-1029",
-        null,
-        8.61,
-        2301.07072,
-        "Mengtao Tang"
-    ],
-    [
-        "j142052.50p530411.50",
-        3,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.21876248&dec=53.0698619&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.21876248&dec=53.0698619&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.218762,
@@ -60071,6 +60071,19 @@
         8.612,
         2301.12825,
         "Kimihiko Nakajima"
+    ],
+    [
+        "j142052.50p530411.50",
+        3,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.21876258&dec=53.069861111111116&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.21876258&dec=53.069861111111116&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        215.218762,
+        53.06986,
+        "CEERS-1029",
+        null,
+        8.61,
+        2301.07072,
+        "Mengtao Tang"
     ],
     [
         "j142052.58p530435.27",
@@ -60248,11 +60261,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.24580058&dec=53.0652953&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.245801,
         53.0653,
-        "CEERS_01401",
+        "CEERS-P7M-01401",
         null,
         5.375,
-        2301.12825,
-        "Kimihiko Nakajima"
+        2301.06811,
+        "Yuki Isobe"
     ],
     [
         "j142058.99p530355.06",
@@ -60261,11 +60274,11 @@
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=215.24580058&dec=53.0652953&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         215.245801,
         53.0653,
-        "CEERS-P7M-01401",
+        "CEERS_01401",
         null,
         5.375,
-        2301.06811,
-        "Yuki Isobe"
+        2301.12825,
+        "Kimihiko Nakajima"
     ],
     [
         "j143650.52p504333.60",
@@ -60413,19 +60426,6 @@
     [
         "j212941.18p000530.08",
         2,
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=322.4215538&dec=0.091687&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
-        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=322.4215538&dec=0.091687&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
-        322.421553,
-        0.09169,
-        "rxj2129-2767_11027",
-        null,
-        9.5,
-        2212.0289,
-        "Kasper Elm Heintz"
-    ],
-    [
-        "j212941.18p000530.08",
-        2,
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=322.42156258&dec=0.09168749999999999&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
         "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=322.42156258&dec=0.09168749999999999&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
         322.421562,
@@ -60435,6 +60435,19 @@
         9.51,
         2210.15699,
         "Hayley Williams"
+    ],
+    [
+        "j212941.18p000530.08",
+        2,
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=322.4215538&dec=0.091687&filters=f200w-clear&size=1&scl=16&invert=True\" height=100px \/>",
+        "<img src=\"http:\/\/grizli-cutout.herokuapp.com\/thumb?ra=322.4215538&dec=0.091687&filters=f444w-clear&size=1&scl=24&invert=True\" height=100px \/>",
+        322.421553,
+        0.09169,
+        "rxj2129-2767_11027",
+        null,
+        9.5,
+        2212.0289,
+        "Kasper Elm Heintz"
     ],
     [
         "j212941.38p000520.17",
