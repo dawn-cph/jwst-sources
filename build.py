@@ -125,9 +125,18 @@ full["zspec"].description = "Spectroscopic redshift"
 
 full["count"].description = "Number of references"
 
-thumb = '<img src="http://grizli-cutout.herokuapp.com/thumb?ra={ra}8&dec={dec}&filters={filt}&size=1&scl={scl}&invert=True" height=100px />'
-full["F200W"] = [thumb.format(filt="f200w-clear", scl=16, **row) for row in full]
-full["F444W"] = [thumb.format(filt="f444w-clear", scl=24, **row) for row in full]
+cutout_server = "http://grizli-cutout.herokuapp.com"
+# cutout_server = "https://dja-cutout-100361906898.us-central1.run.app"
+
+thumb = '<img src="{cutout_server}/thumb?ra={ra}8&dec={dec}&filters={filt}&size=1&scl={scl}&invert=True" height=100px />'
+full["F200W"] = [
+    thumb.format(cutout_server=cutout_server, filt="f200w-clear", scl=16, **row)
+    for row in full
+]
+full["F444W"] = [
+    thumb.format(cutout_server=cutout_server, filt="f444w-clear", scl=24, **row)
+    for row in full
+]
 
 full.write("jwst-sources.csv", overwrite=True)
 
