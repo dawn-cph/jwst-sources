@@ -15,5 +15,4 @@ viz['ra'] = viz['RAJ2000']
 viz['dec'] = viz['DEJ2000']
 viz['zspec'] = viz['z']
 
-
 viz['id','ra','dec','zspec','Conf'].write('2108.01713-schmidt.csv', overwrite=True)
