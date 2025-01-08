@@ -52,6 +52,7 @@
 | [2403.05506](https://arxiv.org/abs/2403.05506) | Michael Maseda | The NIRSpec Wide GTO Survey | 
 | [2207.12446](https://arxiv.org/abs/2207.12446) | Marco Castellano | JWST NIRSpec Spectroscopy of the Remarkable Bright Galaxy GHZ2/GLASS-z12 at Redshift 12.34 | 
 | [2404.03576](https://arxiv.org/abs/2404.03576) | Dale Kocevski | The Rise of Faint, Red AGN at z>4--A Sample of Little Red Dots in the JWST Extragalactic Legacy Fields | 
+| [2405.02242](https://arxiv.org/abs/2405.02242) | Adam Carnall | The JWST EXCELS survey---Too much, too young, too fast? Ultra-massive quiescent galaxies at 3 < z < 5 | 
 | [2410.01874](https://arxiv.org/abs/2410.01874) | Rohan Naidu | All the Little Things in Abell 2744, 1000 Gravitationally Lensed Dwarf Galaxies at z=0−9 from JWST NIRCam Grism Spectroscopy | 
 | [2410.10967](https://arxiv.org/abs/2410.10967) | Lorenzo Napolitano | Seven wonders of Cosmic Dawn, JWST confirms a high abundance of galaxies and AGNs at z = 9-11 in the GLASS field | 
 | [2410.18763](https://arxiv.org/abs/2410.18763) | Lorenzo Napolitano | The dual nature of GHZ9, coexisting AGN and star formation activity in a remote X-ray source at z=10.145 | 
