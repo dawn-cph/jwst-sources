@@ -49,6 +49,7 @@
 | [2311.04867](https://arxiv.org/abs/2311.04867) | Shuowen Jin | Cosmic Vine- A z=3.44 large-scale structure hosting massive quiescent galaxies | 
 | [2311.07483](https://arxiv.org/abs/2311.07483) | Christina Williams | The galaxies missed by Hubble and ALMA---the contribution of extremely red galaxies to the cosmic census at 3<z<8 | 
 | [2312.10033](https://arxiv.org/abs/2312.10033) | Brant Robertson | Earliest Galaxies in the JADES Origins Field--Luminosity Function and Cosmic Star-Formation Rate Density 300 Myr after the Big Bang | 
+| [2401.09981](https://arxiv.org/abs/2401.09981) | Vasily Kokorev | A Census of Photometrically Selected Little Red Dots at 4 < z < 9 in JWST Blank Fields | 
 | [2207.12446](https://arxiv.org/abs/2207.12446) | Feige Wang | A Massive Protocluster Anchored by a Luminous Quasar at z=6.63 | 
 | [2403.05506](https://arxiv.org/abs/2403.05506) | Michael Maseda | The NIRSpec Wide GTO Survey | 
 | [2207.12446](https://arxiv.org/abs/2207.12446) | Marco Castellano | JWST NIRSpec Spectroscopy of the Remarkable Bright Galaxy GHZ2/GLASS-z12 at Redshift 12.34 | 
