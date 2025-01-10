@@ -99,6 +99,13 @@ var filter_params = ['count', 'ra', 'dec', 'zphot', 'zspec'];
 $.UpdateFilterURL = function () {
     var i;
     var filter_url = "";
+    // Search text
+    var search_text = $('input[type="search"]').val();
+    if ((search_text != "") & (search_text != null)) {
+        filter_url += '&search=' + search_text;
+    }
+
+    // Table columns
     for (i = 0; i < filter_params.length; i++) {
         if ($('#'+filter_params[i]+'_min').val() != "") {
             filter_url += '&'+filter_params[i]+'_min='+
@@ -113,6 +120,8 @@ $.UpdateFilterURL = function () {
     if (filter_url != "") {
         var filtered_url = window.location.href.split('?')[0] + '?' + filter_url;
         window.history.pushState('', '', filtered_url);
+    } else {
+        window.history.pushState('', '', window.location.href.split('?')[0]);
     }
 }
 
@@ -129,7 +138,7 @@ $(document).ready(function() {
    $('#count_min').val($.urlParam('count_min'));
    $('#count_max').val($.urlParam('count_max'));
 
-   var table = $('#table5316960960').DataTable({
+   var table = $('#table4373078672').DataTable({
         order: [],
         pageLength: 50,
         "ajax": "jwst-sources.json",
@@ -140,6 +149,17 @@ $(document).ready(function() {
         pagingType: "full_numbers",
         columnDefs: [{targets: [1, 4, 5, 7, 8], type: "optionalnum"}]
     });
+
+    // Initialize search from address bar
+    var url_search = $.urlParam('search');
+    if ((url_search != "") & (url_search != null)) {
+        table.search(url_search).draw();
+    }
+
+    // Update address bar on search text
+    $('input[type="search"]').keyup( function() {
+        $.UpdateFilterURL();
+    } );
 
     // Event listener to the two range filtering inputs to redraw on input
     $('#count_min, #count_max, #ra_min, #ra_max, #dec_min, #dec_max, #zphot_min, #zphot_max, #zspec_min, #zspec_max').keyup( function() {
@@ -226,7 +246,7 @@ $(document).ready(function() {
     </table>
 </div>
 
-  <table class="display compact" id="table5316960960">
+  <table class="display compact" id="table4373078672">
    <thead>
     <tr>
      <th>jname</th>
@@ -243,7 +263,7 @@ $(document).ready(function() {
     </tr>
    </thead>
   </table>
-<span style="font-size:x-small;"> Created: Wed Jan  8 20:02:49 2025 </span>
+<span style="font-size:x-small;"> Created: Fri Jan 10 13:57:51 2025 </span>
  </body>
 </html>
 
