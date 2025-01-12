@@ -35,16 +35,20 @@
 | [2302.12805](https://arxiv.org/abs/2302.12805) | Aayush Saxena | JADES Discovery of extremely high equivalent width Lyman-alpha emission from a faint galaxy within an ionized bubble at z=7.3 | 
 | [2303.08149](https://arxiv.org/abs/2303.08149) | Ryan Sanders | Direct Te-based Metallicities of z=2−9 Galaxies with JWST/NIRSpec, Empirical Metallicity Calibrations Applicable from Reionization to Cosmic Noon | 
 | [2303.08918](https://arxiv.org/abs/2303.08918) | Rebecca Larson | A CEERS Discovery of an Accreting Supermassive Black Hole 570 Myr after the Big Bang, Identifying a Progenitor of Massive z > 6 Quasars | 
+| [2303.11946](https://arxiv.org/abs/2303.11946) | Yuichi Harikane | A JWST/NIRSpec First Census of Broad-Line AGNs at z=4-7--- Detection of 10 Faint AGNs with M_BH~10^6-10^8 M_sun and Their Host Galaxy Properties | 
 | [2303.15431](https://arxiv.org/abs/2303.15431) | Pablo Arrabal Haro | Spectroscopic verification of very luminous galaxy candidates in the early universe | 
 | [2304.05378](https://arxiv.org/abs/2304.05378) | Pablo Arrabal Haro | Spectroscopic confirmation of CEERS NIRCam-selected galaxies at z = 8 - 10 | 
 | [2304.14469](https://arxiv.org/abs/2304.14469) | Derek McLeod | The galaxy UV luminosity function at z~11 from a suite of public JWST ERS, ERO and Cycle-1 programs | 
+| [2305.14418](https://arxiv.org/abs/2305.14418) | Guillermo Barro | Extremely red galaxies at z=5−9 with MIRI and NIRSpec---dusty galaxies or obscured AGNs? | 
 | [2306.00647](https://arxiv.org/abs/2306.00647) | Kasper Elm Heintz | Extreme damped Lyman-alpha absorption in young star-forming galaxies at z=9−11 | 
 | [2306.02467](https://arxiv.org/abs/2306.02467) | Andrew Bunker | JADES NIRSpec Initial Data Release for the Hubble Ultra Deep Field, Redshifts and Line Fluxes of Distant Galaxies from the Deepest JWST Cycle 1 NIRSpec Multi-Object Spectroscopy | 
 | [2306.02468](https://arxiv.org/abs/2306.02468) | Kevin Hainline | The Cosmos in its Infancy, JADES Galaxy Candidates at z > 8 in GOODS-S and GOODS-N | 
 | [2306.04627](https://arxiv.org/abs/2306.04627) | Joris Witstok | Inside the bubble--exploring the environments of reionisation-era Lyman-alpha emitting galaxies with JADES and FRESCO | 
 | [2306.05448](https://arxiv.org/abs/2306.05448) | Jorryt Matthee | Little Red Dots - an abundant population of faint AGN at z ∼ 5 revealed by the EIGER and FRESCO JWST surveys | 
 | [2306.06244](https://arxiv.org/abs/2306.06244) | Gene Leung | NGDEEP Epoch 1 The Faint End of the Luminosity Function at z=9-12 from Ultradeep JWST Imaging | 
+| [2306.07320](https://arxiv.org/abs/2306.07320) | Ivo Labbe | UNCOVER---Candidate Red Active Galactic Nuclei at 3<z<7 with JWST and ALMA | 
 | [2306.08605](https://arxiv.org/abs/2306.08605) | Antonello Calabro | Near-infrared emission line diagnostics for AGN from the local Universe to redshift 3 | 
+| [2308.01230](https://arxiv.org/abs/2308.01230) | Roberto Maiolino | JADES. The diverse population of infant Black Holes at 4<z<11--- merging, tiny, poor, but mighty | 
 | [2310.01112](https://arxiv.org/abs/2310.01112) | Charlotte Simmonds | Low-mass bursty galaxies in JADES efficiently produce ionising photons and could represent the main drivers of reionisation | 
 | [2311.04867](https://arxiv.org/abs/2311.04867) | Shuowen Jin | Cosmic Vine- A z=3.44 large-scale structure hosting massive quiescent galaxies | 
 | [2311.07483](https://arxiv.org/abs/2311.07483) | Christina Williams | The galaxies missed by Hubble and ALMA---the contribution of extremely red galaxies to the cosmic census at 3<z<8 | 
@@ -55,6 +59,7 @@
 | [2207.12446](https://arxiv.org/abs/2207.12446) | Marco Castellano | JWST NIRSpec Spectroscopy of the Remarkable Bright Galaxy GHZ2/GLASS-z12 at Redshift 12.34 | 
 | [2404.03576](https://arxiv.org/abs/2404.03576) | Dale Kocevski | The Rise of Faint, Red AGN at z>4--A Sample of Little Red Dots in the JWST Extragalactic Legacy Fields | 
 | [2405.02242](https://arxiv.org/abs/2405.02242) | Adam Carnall | The JWST EXCELS survey---Too much, too young, too fast? Ultra-massive quiescent galaxies at 3 < z < 5 | 
+| [2406.10341](https://arxiv.org/abs/2406.10341) | Hollis Akins | COSMOS-Web--- The over-abundance and physical nature of "little red dots"--Implications for early galaxy and SMBH assembly | 
 | [2410.01874](https://arxiv.org/abs/2410.01874) | Rohan Naidu | All the Little Things in Abell 2744, 1000 Gravitationally Lensed Dwarf Galaxies at z=0−9 from JWST NIRCam Grism Spectroscopy | 
 | [2410.10967](https://arxiv.org/abs/2410.10967) | Lorenzo Napolitano | Seven wonders of Cosmic Dawn, JWST confirms a high abundance of galaxies and AGNs at z = 9-11 in the GLASS field | 
 | [2410.18763](https://arxiv.org/abs/2410.18763) | Lorenzo Napolitano | The dual nature of GHZ9, coexisting AGN and star formation activity in a remote X-ray source at z=10.145 | 
