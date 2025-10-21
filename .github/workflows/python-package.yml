@@ -30,7 +30,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         python -m pip install wheel
-        python -m pip install flake8 pytest grizli
+        python -m pip install flake8 pytest grizli pandas
 
     - name: Lint with flake8
       run: |
