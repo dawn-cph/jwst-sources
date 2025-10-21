@@ -58,6 +58,7 @@
 | [2403.05506](https://arxiv.org/abs/2403.05506) | Michael Maseda | The NIRSpec Wide GTO Survey | 
 | [2207.12446](https://arxiv.org/abs/2207.12446) | Marco Castellano | JWST NIRSpec Spectroscopy of the Remarkable Bright Galaxy GHZ2/GLASS-z12 at Redshift 12.34 | 
 | [2404.03576](https://arxiv.org/abs/2404.03576) | Dale Kocevski | The Rise of Faint, Red AGN at z>4--A Sample of Little Red Dots in the JWST Extragalactic Legacy Fields | 
+| [2404.07163](https://arxiv.org/abs/2404.07163) | James Trussler | Like a candle in the wind-- The embers of once aflame, now smouldering galaxies at 5<z<8 | 
 | [2404.19018](https://arxiv.org/abs/2404.19018) | Ben Forrest | MAGAZ3NE- Massive, Extremely Dusty Galaxies at z~2 Lead to Photometric Overestimation of Number Densities of the Most Massive Galaxies at 3<z<4 | 
 | [2405.02242](https://arxiv.org/abs/2405.02242) | Adam Carnall | The JWST EXCELS survey---Too much, too young, too fast? Ultra-massive quiescent galaxies at 3 < z < 5 | 
 | [2406.10341](https://arxiv.org/abs/2406.10341) | Hollis Akins | COSMOS-Web--- The over-abundance and physical nature of "little red dots"--Implications for early galaxy and SMBH assembly | 

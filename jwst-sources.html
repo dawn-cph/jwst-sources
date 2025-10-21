@@ -9,21 +9,12 @@ table.dataTable {width: auto !important; margin: 0 !important;}
 .dataTables_filter, .dataTables_paginate {float: left !important; margin-left:1em}
 td {font-size: 10pt;}
           </style>
-  <link href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.css" rel="stylesheet" type="text/css"/>
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.5.1/css/buttons.dataTables.min.css">
+  <link href="https://cdn.datatables.net/2.1.8/css/dataTables.dataTables.min.css" rel="stylesheet" type="text/css"/>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js">
   </script>
-  <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js">
+  <script src="https://cdn.datatables.net/2.1.8/js/dataTables.min.js">
   </script>
-
-            <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.5.1/js/dataTables.buttons.min.js"></script>
-            <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.5.1/js/buttons.flash.min.js"></script>
-            <script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
-            <script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/pdfmake.min.js"></script>
-            <script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/vfs_fonts.js"></script>
-            <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.5.1/js/buttons.html5.min.js"></script>
-            <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.5.1/js/buttons.print.min.js"></script>
-             </head>
+ </head>
  <body>
   <script>
 var astropy_sort_num = function(a, b) {
@@ -99,6 +90,18 @@ var filter_params = ['count', 'ra', 'dec', 'zphot', 'zspec'];
 $.UpdateFilterURL = function () {
     var i;
     var filter_url = "";
+    // Search text
+    var search_text = $('input[type="search"]').val();
+    if ((search_text != "") & (search_text != null)) {
+        filter_url += '&search=' + search_text;
+    }
+
+    var cone_text = $('#cone_search').val();
+    if ((cone_text != "") & (cone_text != null)) {
+        filter_url += '&cone_search=' + cone_text;
+    }
+
+    // Table columns
     for (i = 0; i < filter_params.length; i++) {
         if ($('#'+filter_params[i]+'_min').val() != "") {
             filter_url += '&'+filter_params[i]+'_min='+
@@ -113,6 +116,58 @@ $.UpdateFilterURL = function () {
     if (filter_url != "") {
         var filtered_url = window.location.href.split('?')[0] + '?' + filter_url;
         window.history.pushState('', '', filtered_url);
+    } else {
+        window.history.pushState('', '', window.location.href.split('?')[0]);
+    }
+}
+
+// Parse coordinates for cone search
+$.parseCoord = function(rd, hours) {
+    // Parse sexagesimal coordinates if ':' found in rd
+    if (rd.includes(':')){
+        var dms = rd.split(':')
+        var deg = dms[0]*1;
+        if (deg < 0) {
+            var sign = -1;
+        } else {
+            var sign = 1;
+        }
+        deg += sign*dms[1]/60. + sign*dms[2]/3600.;
+        if (hours > 0) {
+            deg *= 360/24.
+        }
+    } else {
+        var deg = rd;
+    }
+    return deg
+}
+
+$.updateConeSearch = function(){
+    // Update ra dec filters using cone search
+    var coord = $('#cone_search').val().trim();
+    var rd = coord.split(',');
+    if ((rd.length == 1)) {
+        rd = coord.split(' ');
+    }
+
+    if ((rd.length > 1)) {
+        var ra_deg = parseFloat($.parseCoord(rd[0], 1));
+        var dec_deg = parseFloat($.parseCoord(rd[1], 0));
+        if ((rd.length < 3)) {
+            var cone_deg = 1. / 3600;
+        } else {
+            var cone_deg = parseFloat(rd[2]) / 3600;
+        };
+
+        var cosd = Math.cos(dec_deg / 180 * 3.14159);
+        var ra_min_ = ra_deg - cone_deg / cosd;
+        var ra_max_ = ra_deg + cone_deg / cosd;
+        var dec_min_ = dec_deg - cone_deg;
+        var dec_max_ = dec_deg + cone_deg;
+        $('#ra_min').val(ra_min_.toFixed(6));
+        $('#ra_max').val(ra_max_.toFixed(6));
+        $('#dec_min').val(dec_min_.toFixed(6));
+        $('#dec_max').val(dec_max_.toFixed(6));
     }
 }
 
@@ -128,8 +183,9 @@ $(document).ready(function() {
    $('#ra_max').val($.urlParam('ra_max'));
    $('#count_min').val($.urlParam('count_min'));
    $('#count_max').val($.urlParam('count_max'));
+   $('#cone_search').val($.urlParam('cone_search'));
 
-   var table = $('#table4339723392').DataTable({
+   var table = $('#table4779364704').DataTable({
         order: [],
         pageLength: 50,
         "ajax": "jwst-sources.json",
@@ -140,6 +196,24 @@ $(document).ready(function() {
         pagingType: "full_numbers",
         columnDefs: [{targets: [1, 4, 5, 7, 8], type: "optionalnum"}]
     });
+
+    // Initialize search from address bar
+    var url_search = $.urlParam('search');
+    if ((url_search != "") & (url_search != null)) {
+        table.search(url_search).draw();
+    }
+
+    // Update address bar on search text
+    $('input[type="search"]').keyup( function() {
+        $.UpdateFilterURL();
+    } );
+
+    // Listener on cone search box
+    $('#cone_search').keyup( function() {
+        $.updateConeSearch();
+        table.draw();
+        $.UpdateFilterURL();
+    } );
 
     // Event listener to the two range filtering inputs to redraw on input
     $('#count_min, #count_max, #ra_min, #ra_max, #dec_min, #dec_max, #zphot_min, #zphot_max, #zspec_min, #zspec_max').keyup( function() {
@@ -166,9 +240,11 @@ $(document).ready(function() {
             
 
 <div style="border:1px solid black; padding:10px; margin:10px">
-<b> Filter: </b>
+<b> Filter:</b>
     <table>
-      
+       <tr> <td> Cone search </td> <td colspan="2"> <input type="text" id="cone_search" name="cone_search"  style="width:175px;display:inline"> </td> </tr>
+
+
     <tr>
         <td style="width:100px">
             <input type="text" id="count_min" name="count_min"  
@@ -226,7 +302,7 @@ $(document).ready(function() {
     </table>
 </div>
 
-  <table class="display compact" id="table4339723392">
+  <table class="display compact" id="table4779364704">
    <thead>
     <tr>
      <th>jname</th>
@@ -243,7 +319,17 @@ $(document).ready(function() {
     </tr>
    </thead>
   </table>
-<span style="font-size:x-small;"> Created: Mon Apr 28 11:15:46 2025 </span>
+<span style="font-size:x-small;"> Created: Tue Oct 21 11:40:49 2025 </span>
  </body>
 </html>
 
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.5.1/css/buttons.dataTables.min.css">
+
+            <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.5.1/js/dataTables.buttons.min.js"></script>
+            <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.5.1/js/buttons.flash.min.js"></script>
+            <script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+            <script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/pdfmake.min.js"></script>
+            <script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/vfs_fonts.js"></script>
+            <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.5.1/js/buttons.html5.min.js"></script>
+            <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.5.1/js/buttons.print.min.js"></script>
+            
