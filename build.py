@@ -16,6 +16,8 @@ files.sort()
 tabs = []
 ids = []
 
+manuscript_versions = {}
+
 with open("tables/README.md", "w") as fpr:
     fpr.write("# References\n\n")
     fpr.write("| arXiv | Author | Title |\n")
@@ -42,6 +44,11 @@ with open("tables/README.md", "w") as fpr:
                     f'ERROR: Failed to parse {meta}, check that there are no ":" or incompatible linebreaks in `description`'
                 )
                 continue
+
+        if "version" not in _meta:
+            _meta["version"] = "v1"
+
+        manuscript_versions[_meta["arxiv"]] = _meta["version"]
 
         fpr.write(
             f"| [{_meta['arxiv']}](https://arxiv.org/abs/{_meta['arxiv']}) | {_meta['author']} | {_meta['description']} | \n"
@@ -136,6 +143,11 @@ full["F200W"] = [
 full["F444W"] = [
     thumb.format(cutout_server=cutout_server, filt="f444w-clear", scl=24, **row)
     for row in full
+]
+
+full["arxiv"] = [
+    "{0}{1}".format(arx, manuscript_versions[arx])
+    if arx.endswith('0') else arx for arx in full["arxiv"]
 ]
 
 full.write("jwst-sources.csv", overwrite=True)
