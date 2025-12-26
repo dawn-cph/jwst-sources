@@ -65,3 +65,6 @@
 | [2410.01874](https://arxiv.org/abs/2410.01874) | Rohan Naidu | All the Little Things in Abell 2744, 1000 Gravitationally Lensed Dwarf Galaxies at z=0−9 from JWST NIRCam Grism Spectroscopy | 
 | [2410.10967](https://arxiv.org/abs/2410.10967) | Lorenzo Napolitano | Seven wonders of Cosmic Dawn, JWST confirms a high abundance of galaxies and AGNs at z = 9-11 in the GLASS field | 
 | [2410.18763](https://arxiv.org/abs/2410.18763) | Lorenzo Napolitano | The dual nature of GHZ9, coexisting AGN and star formation activity in a remote X-ray source at z=10.145 | 
+| [2511.21820](https://arxiv.org/abs/2511.21820) | Anna de Graaff | Little Red Dots host Black Hole Stars- A unified family of gas-reddened AGN revealed by JWST/NIRSpec spectroscopy | 
+| [2512.03281](https://arxiv.org/abs/2512.03281) | Caroline Baccus | A Comprehensive JWST/NIRSpec Census of Broad-Line Active Galactic Nuclei-- Faint, Tiny, but Highly Accreting Sources in the Remote Universe | 
+| [2512.15853](https://arxiv.org/abs/2512.15853) | Guillermo Barro | From The Cliff to Virgil- Mapping the Spectral Diversity of Little Red Dots with JWST/NIRSpec | 
