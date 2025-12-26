@@ -1,0 +1,14 @@
+# Commands for setting up heroku app
+
+# in conda env with python 3.10
+virtualenv venv310
+
+source venv310/bin/activate
+pip install grizli gunicorn
+pip freeze > requirements.txt
+
+echo "3.10" > .python-version
+
+# run app locally for development
+heroku local -p 8891
+
