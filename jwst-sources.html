@@ -9,21 +9,12 @@ table.dataTable {width: auto !important; margin: 0 !important;}
 .dataTables_filter, .dataTables_paginate {float: left !important; margin-left:1em}
 td {font-size: 10pt;}
           </style>
-  <link href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.css" rel="stylesheet" type="text/css"/>
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.5.1/css/buttons.dataTables.min.css">
+  <link href="https://cdn.datatables.net/2.1.8/css/dataTables.dataTables.min.css" rel="stylesheet" type="text/css"/>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js">
   </script>
-  <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js">
+  <script src="https://cdn.datatables.net/2.1.8/js/dataTables.min.js">
   </script>
-
-            <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.5.1/js/dataTables.buttons.min.js"></script>
-            <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.5.1/js/buttons.flash.min.js"></script>
-            <script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
-            <script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/pdfmake.min.js"></script>
-            <script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/vfs_fonts.js"></script>
-            <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.5.1/js/buttons.html5.min.js"></script>
-            <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.5.1/js/buttons.print.min.js"></script>
-             </head>
+ </head>
  <body>
   <script>
 var astropy_sort_num = function(a, b) {
@@ -194,7 +185,7 @@ $(document).ready(function() {
    $('#count_max').val($.urlParam('count_max'));
    $('#cone_search').val($.urlParam('cone_search'));
 
-   var table = $('#table4443177024').DataTable({
+   var table = $('#table5107722400').DataTable({
         order: [],
         pageLength: 50,
         "ajax": "jwst-sources.json",
@@ -311,7 +302,7 @@ $(document).ready(function() {
     </table>
 </div>
 
-  <table class="display compact" id="table4443177024">
+  <table class="display compact" id="table5107722400">
    <thead>
     <tr>
      <th>jname</th>
@@ -328,7 +319,17 @@ $(document).ready(function() {
     </tr>
    </thead>
   </table>
-<span style="font-size:x-small;"> Created: Fri Dec 26 13:26:25 2025 </span>
+<span style="font-size:x-small;"> Created: Mon Jan 19 13:05:47 2026 </span>
  </body>
 </html>
 
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.5.1/css/buttons.dataTables.min.css">
+
+            <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.5.1/js/dataTables.buttons.min.js"></script>
+            <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.5.1/js/buttons.flash.min.js"></script>
+            <script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+            <script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/pdfmake.min.js"></script>
+            <script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/vfs_fonts.js"></script>
+            <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.5.1/js/buttons.html5.min.js"></script>
+            <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.5.1/js/buttons.print.min.js"></script>
+            
