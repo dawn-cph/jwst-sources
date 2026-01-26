@@ -36,6 +36,7 @@
 | [2302.12805](https://arxiv.org/abs/2302.12805) | Aayush Saxena | JADES Discovery of extremely high equivalent width Lyman-alpha emission from a faint galaxy within an ionized bubble at z=7.3 | 
 | [2303.08149](https://arxiv.org/abs/2303.08149) | Ryan Sanders | Direct Te-based Metallicities of z=2−9 Galaxies with JWST/NIRSpec, Empirical Metallicity Calibrations Applicable from Reionization to Cosmic Noon | 
 | [2303.08918](https://arxiv.org/abs/2303.08918) | Rebecca Larson | A CEERS Discovery of an Accreting Supermassive Black Hole 570 Myr after the Big Bang, Identifying a Progenitor of Massive z > 6 Quasars | 
+| [2303.09568](https://arxiv.org/abs/2303.09568) | David Lagattuta | RXJ0437+00-- Constraining Dark Matter with Exotic Gravitational Lenses | 
 | [2303.11946](https://arxiv.org/abs/2303.11946) | Yuichi Harikane | A JWST/NIRSpec First Census of Broad-Line AGNs at z=4-7--- Detection of 10 Faint AGNs with M_BH~10^6-10^8 M_sun and Their Host Galaxy Properties | 
 | [2303.15431](https://arxiv.org/abs/2303.15431) | Pablo Arrabal Haro | Spectroscopic verification of very luminous galaxy candidates in the early universe | 
 | [2304.05378](https://arxiv.org/abs/2304.05378) | Pablo Arrabal Haro | Spectroscopic confirmation of CEERS NIRCam-selected galaxies at z = 8 - 10 | 
