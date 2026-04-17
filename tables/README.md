@@ -70,6 +70,8 @@
 | [2410.14773](https://arxiv.org/abs/2410.14773) | William M. Baker | The abundance and nature of high-redshift quiescent galaxies from JADES spectroscopy and the FLAMINGO simulations | 
 | [2410.18763](https://arxiv.org/abs/2410.18763) | Lorenzo Napolitano | The dual nature of GHZ9, coexisting AGN and star formation activity in a remote X-ray source at z=10.145 | 
 | [2411.14383](https://arxiv.org/abs/2411.14383) | Pierluigi Rinaldi | Not Just a Dot-- the complex UV morphology and underlying properties of Little Red Dots | 
+| [2501.09070](https://arxiv.org/abs/2501.09070) | William M. Baker | Zapped then napped? A rapidly quenched remnant leaker candidate with a steep spectroscopic βUV slope at z=8.5 | 
+| [2509.09761](https://arxiv.org/abs/2509.09761) | William M. Baker | Double trouble Two spectroscopically confirmed low-mass quiescent galaxies at z > 5 in overdensities | 
 | [2511.21820](https://arxiv.org/abs/2511.21820) | Anna de Graaff | Little Red Dots host Black Hole Stars- A unified family of gas-reddened AGN revealed by JWST/NIRSpec spectroscopy | 
 | [2512.03281](https://arxiv.org/abs/2512.03281) | Caroline Baccus | A Comprehensive JWST/NIRSpec Census of Broad-Line Active Galactic Nuclei-- Faint, Tiny, but Highly Accreting Sources in the Remote Universe | 
 | [2512.15853](https://arxiv.org/abs/2512.15853) | Guillermo Barro | From The Cliff to Virgil- Mapping the Spectral Diversity of Little Red Dots with JWST/NIRSpec | 
