@@ -61,16 +61,19 @@
 | [2403.05506](https://arxiv.org/abs/2403.05506) | Michael Maseda | The NIRSpec Wide GTO Survey | 
 | [2207.12446](https://arxiv.org/abs/2207.12446) | Marco Castellano | JWST NIRSpec Spectroscopy of the Remarkable Bright Galaxy GHZ2/GLASS-z12 at Redshift 12.34 | 
 | [2404.03576](https://arxiv.org/abs/2404.03576) | Dale Kocevski | The Rise of Faint, Red AGN at z>4--A Sample of Little Red Dots in the JWST Extragalactic Legacy Fields | 
+| [2404.05724](https://arxiv.org/abs/2404.05724) | Joris Witstok | JADES--primaeval Lyman α emitting galaxies reveal early sites of reionization out to redshift z ~ 9 | 
 | [2404.07163](https://arxiv.org/abs/2404.07163) | James Trussler | Like a candle in the wind-- The embers of once aflame, now smouldering galaxies at 5<z<8 | 
 | [2404.19018](https://arxiv.org/abs/2404.19018) | Ben Forrest | MAGAZ3NE- Massive, Extremely Dusty Galaxies at z~2 Lead to Photometric Overestimation of Number Densities of the Most Massive Galaxies at 3<z<4 | 
 | [2405.02242](https://arxiv.org/abs/2405.02242) | Adam Carnall | The JWST EXCELS survey---Too much, too young, too fast? Ultra-massive quiescent galaxies at 3 < z < 5 | 
 | [2406.10341](https://arxiv.org/abs/2406.10341) | Hollis Akins | COSMOS-Web--- The over-abundance and physical nature of "little red dots"--Implications for early galaxy and SMBH assembly | 
+| [2408.16608](https://arxiv.org/abs/2408.16608) | Joris Witstok | Witnessing the onset of reionization through Lyman-α emission at redshift 13 | 
 | [2410.01874](https://arxiv.org/abs/2410.01874) | Rohan Naidu | All the Little Things in Abell 2744, 1000 Gravitationally Lensed Dwarf Galaxies at z=0−9 from JWST NIRCam Grism Spectroscopy | 
 | [2410.10967](https://arxiv.org/abs/2410.10967) | Lorenzo Napolitano | Seven wonders of Cosmic Dawn, JWST confirms a high abundance of galaxies and AGNs at z = 9-11 in the GLASS field | 
 | [2410.14773](https://arxiv.org/abs/2410.14773) | William M. Baker | The abundance and nature of high-redshift quiescent galaxies from JADES spectroscopy and the FLAMINGO simulations | 
 | [2410.18763](https://arxiv.org/abs/2410.18763) | Lorenzo Napolitano | The dual nature of GHZ9, coexisting AGN and star formation activity in a remote X-ray source at z=10.145 | 
 | [2411.14383](https://arxiv.org/abs/2411.14383) | Pierluigi Rinaldi | Not Just a Dot-- the complex UV morphology and underlying properties of Little Red Dots | 
 | [2501.09070](https://arxiv.org/abs/2501.09070) | William M. Baker | Zapped then napped? A rapidly quenched remnant leaker candidate with a steep spectroscopic βUV slope at z=8.5 | 
+| [2507.22888](https://arxiv.org/abs/2507.22888) | Joris Witstok | ALMA and JWST characterise the multi-phase, metal-enriched, star-bursting medium within a 'normal' z > 11 galaxy | 
 | [2509.09761](https://arxiv.org/abs/2509.09761) | William M. Baker | Double trouble Two spectroscopically confirmed low-mass quiescent galaxies at z > 5 in overdensities | 
 | [2511.21820](https://arxiv.org/abs/2511.21820) | Anna de Graaff | Little Red Dots host Black Hole Stars- A unified family of gas-reddened AGN revealed by JWST/NIRSpec spectroscopy | 
 | [2512.03281](https://arxiv.org/abs/2512.03281) | Caroline Baccus | A Comprehensive JWST/NIRSpec Census of Broad-Line Active Galactic Nuclei-- Faint, Tiny, but Highly Accreting Sources in the Remote Universe | 
