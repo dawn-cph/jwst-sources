@@ -24,12 +24,12 @@ tab['dec'] = coo.dec.deg
 tab['type'] = raw['ID']
 tab['z/SpT'] = raw['z/SpT']
 
-tab['z_spec'] = -1.0
+tab['zspec'] = -1.0
 has_z = ~np.isin(tab['type'], ['BD','P'])
-tab['z_spec'][has_z] = raw['z/SpT'][has_z].astype(float)
+tab['zspec'][has_z] = raw['z/SpT'][has_z].astype(float)
 
 tab['ra'].format ='.6f'
 tab['dec'].format = '.6f'
-tab['z_spec'].format = '.3f'
+tab['zspec'].format = '.3f'
 
 tab.write('2508.21229-matsuoka.csv', overwrite=True)
