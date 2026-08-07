@@ -75,6 +75,7 @@
 | [2411.14383](https://arxiv.org/abs/2411.14383) | Pierluigi Rinaldi | Not Just a Dot-- the complex UV morphology and underlying properties of Little Red Dots | 
 | [2501.09070](https://arxiv.org/abs/2501.09070) | William M. Baker | Zapped then napped? A rapidly quenched remnant leaker candidate with a steep spectroscopic βUV slope at z=8.5 | 
 | [2507.22888](https://arxiv.org/abs/2507.22888) | Joris Witstok | ALMA and JWST characterise the multi-phase, metal-enriched, star-bursting medium within a 'normal' z > 11 galaxy | 
+| [2508.21229](https://arxiv.org/abs/2508.21229) | Yoshiki Matsuoka | Subaru High-z Exploration of Low-Luminosity Quasars (SHELLQs). XXIV. 54 New Quasars and Candidate Obscured Quasars at 5.71 < z <7.02 | 
 | [2509.09761](https://arxiv.org/abs/2509.09761) | William M. Baker | Double trouble Two spectroscopically confirmed low-mass quiescent galaxies at z > 5 in overdensities | 
 | [2511.21820](https://arxiv.org/abs/2511.21820) | Anna de Graaff | Little Red Dots host Black Hole Stars- A unified family of gas-reddened AGN revealed by JWST/NIRSpec spectroscopy | 
 | [2512.03281](https://arxiv.org/abs/2512.03281) | Caroline Baccus | A Comprehensive JWST/NIRSpec Census of Broad-Line Active Galactic Nuclei-- Faint, Tiny, but Highly Accreting Sources in the Remote Universe | 
