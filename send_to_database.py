@@ -2,6 +2,7 @@
 Send to DJA database
 """
 
+import numpy as np
 from grizli import utils
 from grizli.aws import db
 
