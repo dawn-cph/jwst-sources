@@ -82,3 +82,4 @@
 | [2511.21820](https://arxiv.org/abs/2511.21820) | Anna de Graaff | Little Red Dots host Black Hole Stars- A unified family of gas-reddened AGN revealed by JWST/NIRSpec spectroscopy | 
 | [2512.03281](https://arxiv.org/abs/2512.03281) | Caroline Baccus | A Comprehensive JWST/NIRSpec Census of Broad-Line Active Galactic Nuclei-- Faint, Tiny, but Highly Accreting Sources in the Remote Universe | 
 | [2512.15853](https://arxiv.org/abs/2512.15853) | Guillermo Barro | From The Cliff to Virgil- Mapping the Spectral Diversity of Little Red Dots with JWST/NIRSpec | 
+| [2608.01647](https://arxiv.org/abs/2608.01647) | Zacharay Stone | NEXUS--Spectral Variability of Little Red Dots and Blue Active Galactic Nuclei at 2<z<6 | 
