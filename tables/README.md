@@ -75,6 +75,7 @@
 | [2410.18763](https://arxiv.org/abs/2410.18763) | Lorenzo Napolitano | The dual nature of GHZ9, coexisting AGN and star formation activity in a remote X-ray source at z=10.145 | 
 | [2411.14383](https://arxiv.org/abs/2411.14383) | Pierluigi Rinaldi | Not Just a Dot-- the complex UV morphology and underlying properties of Little Red Dots | 
 | [2501.09070](https://arxiv.org/abs/2501.09070) | William M. Baker | Zapped then napped? A rapidly quenched remnant leaker candidate with a steep spectroscopic βUV slope at z=8.5 | 
+| [2207.12446](https://arxiv.org/abs/2207.12446) | Fengwu Sun | Slitless Areal Pure-Parallel HIgh-Redshift Emission Survey (SAPPHIRES)-- Early Data Release of Deep JWST/NIRCam Images and Spectra in MACS J0416 Parallel Field | 
 | [2506.22642](https://arxiv.org/abs/2506.22642) | Kei Ito | DeepDive. A deep dive into the physics of the first massive quiescent galaxies in the Universe | 
 | [2507.22888](https://arxiv.org/abs/2507.22888) | Joris Witstok | ALMA and JWST characterise the multi-phase, metal-enriched, star-bursting medium within a 'normal' z > 11 galaxy | 
 | [2508.21229](https://arxiv.org/abs/2508.21229) | Yoshiki Matsuoka | Subaru High-z Exploration of Low-Luminosity Quasars (SHELLQs). XXIV. 54 New Quasars and Candidate Obscured Quasars at 5.71 < z <7.02 | 
